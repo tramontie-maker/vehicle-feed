@@ -4,7 +4,32 @@
     <title>Auto Occasioni Milano</title>
     <link>https://www.autoccasionimilano.it</link>
     <description>Feed auto usate — Auto Occasioni Milano</description>
-    <lastBuildDate>Thu, 07 May 2026 19:37:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 07:09:49 +0000</lastBuildDate>
+    <item>
+      <id>38432</id>
+      <title>Mazda 6 UNICO PROPRIETARIO – SERVICE COMPLETO – GRANDINATA</title>
+      <link>https://www.autoccasionimilano.it/auto-usate-milano/mazda-6-unico-proprietario-service-completo-grandinata/</link>
+      <description>Mazda Mazda 6 UNICO PROPRIETARIO – SERVICE COMPLETO – GRANDINATA — Auto usata certificata. Garanzia 12 mesi inclusa. Diesel, Automatico.</description>
+      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/05/www.autoccasionimilano.it - mazda-6-unico-proprietario-service-completo-grandinata-1.jpg</image_link>
+      <price>4190 EUR</price>
+      <availability>in stock</availability>
+      <condition>used</condition>
+      <auto:make>Mazda</auto:make>
+      <auto:model>6 UNICO PROPRIETARIO – SERVICE COMPLETO – GRANDINATA</auto:model>
+      <auto:year />
+      <auto:body_style>Station Wagon</auto:body_style>
+      <auto:fuel_type>Diesel</auto:fuel_type>
+      <auto:transmission>Automatico</auto:transmission>
+      <auto:drivetrain>Trazione Anteriore</auto:drivetrain>
+      <auto:color>Grigio</auto:color>
+      <auto:state_of_vehicle>used</auto:state_of_vehicle>
+      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
+      <auto:dealer_phone>+390248954311</auto:dealer_phone>
+      <auto:mileage>
+        <auto:value>217000</auto:value>
+        <auto:unit>KM</auto:unit>
+      </auto:mileage>
+    </item>
     <item>
       <id>38387</id>
       <title>Fiat 500 SERVICE COMPLETO – NEOPATENTATI</title>
@@ -361,7 +386,7 @@
       <link>https://www.autoccasionimilano.it/auto-usate-milano/ford-focus-unico-proprietario-neopatentati/</link>
       <description>Ford Ford Focus UNICO PROPRIETARIO – NEOPATENTATI — Auto usata certificata. Garanzia 12 mesi inclusa. Benzina, Manuale.</description>
       <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/04/www.autoccasionimilano.it - ford-focus-unico-proprietario-neopatentati-2.jpg</image_link>
-      <price>6980 EUR</price>
+      <price>4190 EUR</price>
       <availability>in stock</availability>
       <condition>used</condition>
       <auto:make>Ford</auto:make>
@@ -752,6 +777,31 @@
       <auto:dealer_phone>+390248954311</auto:dealer_phone>
       <auto:mileage>
         <auto:value>122000</auto:value>
+        <auto:unit>KM</auto:unit>
+      </auto:mileage>
+    </item>
+    <item>
+      <id>30537</id>
+      <title>Chevrolet Spark GPL VALIDO FINO A 2033 – NEOPATENTATI</title>
+      <link>https://www.autoccasionimilano.it/auto-usate-milano/chevrolet-spark-gpl-valido-fino-a-2033-neopatentati-2/</link>
+      <description>Chevrolet Chevrolet Spark GPL VALIDO FINO A 2033 – NEOPATENTATI — Auto usata certificata. Garanzia 12 mesi inclusa. Benzina, Manuale.</description>
+      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2025/08/chevrolet-spark-gpl-valido-fino-a-2033-neopatentati-chevrolet-spark-gpl-valido-fino-a-2033-neopatentati-2-chevrolet-spark-2013-gpl-n-1.jpg</image_link>
+      <price>2890 EUR</price>
+      <availability>in stock</availability>
+      <condition>used</condition>
+      <auto:make>Chevrolet</auto:make>
+      <auto:model>Spark GPL VALIDO FINO A 2033 – NEOPATENTATI</auto:model>
+      <auto:year />
+      <auto:body_style>Station Wagon</auto:body_style>
+      <auto:fuel_type>Benzina</auto:fuel_type>
+      <auto:transmission>Manuale</auto:transmission>
+      <auto:drivetrain />
+      <auto:color>Rosso</auto:color>
+      <auto:state_of_vehicle>used</auto:state_of_vehicle>
+      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
+      <auto:dealer_phone>+390248954311</auto:dealer_phone>
+      <auto:mileage>
+        <auto:value>170000</auto:value>
         <auto:unit>KM</auto:unit>
       </auto:mileage>
     </item>

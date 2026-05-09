@@ -4,7 +4,28 @@
     <title>Auto Occasioni Milano</title>
     <link>https://www.autoccasionimilano.it</link>
     <description>Feed auto usate — Auto Occasioni Milano</description>
-    <lastBuildDate>Thu, 07 May 2026 19:37:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 07:09:49 +0000</lastBuildDate>
+    <item>
+      <title>Mazda 6 UNICO PROPRIETARIO – SERVICE COMPLETO – GRANDINATA</title>
+      <link>https://www.autoccasionimilano.it/auto-usate-milano/mazda-6-unico-proprietario-service-completo-grandinata/</link>
+      <description>Mazda Mazda 6 UNICO PROPRIETARIO – SERVICE COMPLETO – GRANDINATA — Auto usata certificata. Garanzia 12 mesi inclusa. Diesel, Automatico.</description>
+      <g:id>38432</g:id>
+      <g:condition>used</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/05/www.autoccasionimilano.it - mazda-6-unico-proprietario-service-completo-grandinata-1.jpg</g:image_link>
+      <g:price>4190.00 EUR</g:price>
+      <g:sale_price>4190.00 EUR</g:sale_price>
+      <g:make>Mazda</g:make>
+      <g:model>6 UNICO PROPRIETARIO – SERVICE COMPLETO – GRANDINATA</g:model>
+      <g:year />
+      <g:mileage>217000 km</g:mileage>
+      <g:body_style>Station Wagon</g:body_style>
+      <g:fuel_type>Diesel</g:fuel_type>
+      <g:transmission>Automatico</g:transmission>
+      <g:color>Grigio</g:color>
+      <g:vehicle_type>Car</g:vehicle_type>
+      <g:item_group_id>mazda</g:item_group_id>
+    </item>
     <item>
       <title>Fiat 500 SERVICE COMPLETO – NEOPATENTATI</title>
       <link>https://www.autoccasionimilano.it/auto-usate-milano/fiat-500-service-completo-neopatentati/</link>
@@ -307,8 +328,8 @@
       <g:condition>used</g:condition>
       <g:availability>in stock</g:availability>
       <g:image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/04/www.autoccasionimilano.it - ford-focus-unico-proprietario-neopatentati-2.jpg</g:image_link>
-      <g:price>6980.00 EUR</g:price>
-      <g:sale_price>6980.00 EUR</g:sale_price>
+      <g:price>4190.00 EUR</g:price>
+      <g:sale_price>4190.00 EUR</g:sale_price>
       <g:make>Ford</g:make>
       <g:model>Focus UNICO PROPRIETARIO – NEOPATENTATI</g:model>
       <g:year />
@@ -634,6 +655,27 @@
       <g:color>Nero</g:color>
       <g:vehicle_type>Car</g:vehicle_type>
       <g:item_group_id>audi</g:item_group_id>
+    </item>
+    <item>
+      <title>Chevrolet Spark GPL VALIDO FINO A 2033 – NEOPATENTATI</title>
+      <link>https://www.autoccasionimilano.it/auto-usate-milano/chevrolet-spark-gpl-valido-fino-a-2033-neopatentati-2/</link>
+      <description>Chevrolet Chevrolet Spark GPL VALIDO FINO A 2033 – NEOPATENTATI — Auto usata certificata. Garanzia 12 mesi inclusa. Benzina, Manuale.</description>
+      <g:id>30537</g:id>
+      <g:condition>used</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:image_link>https://www.autoccasionimilano.it/wp-content/uploads/2025/08/chevrolet-spark-gpl-valido-fino-a-2033-neopatentati-chevrolet-spark-gpl-valido-fino-a-2033-neopatentati-2-chevrolet-spark-2013-gpl-n-1.jpg</g:image_link>
+      <g:price>2890.00 EUR</g:price>
+      <g:sale_price>2890.00 EUR</g:sale_price>
+      <g:make>Chevrolet</g:make>
+      <g:model>Spark GPL VALIDO FINO A 2033 – NEOPATENTATI</g:model>
+      <g:year />
+      <g:mileage>170000 km</g:mileage>
+      <g:body_style>Station Wagon</g:body_style>
+      <g:fuel_type>Benzina</g:fuel_type>
+      <g:transmission>Manuale</g:transmission>
+      <g:color>Rosso</g:color>
+      <g:vehicle_type>Car</g:vehicle_type>
+      <g:item_group_id>chevrolet</g:item_group_id>
     </item>
   </channel>
 </rss>
