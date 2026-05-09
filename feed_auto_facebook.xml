@@ -4,7 +4,7 @@
     <title>Auto Occasioni Milano</title>
     <link>https://www.autoccasionimilano.it</link>
     <description>Feed auto usate — Auto Occasioni Milano</description>
-    <lastBuildDate>Sat, 09 May 2026 08:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 08:15:33 +0000</lastBuildDate>
     <item>
       <id>38432</id>
       <title>Mazda 6 UNICO PROPRIETARIO – SERVICE COMPLETO – GRANDINATA</title>
@@ -16,7 +16,7 @@
       <condition>used</condition>
       <auto:make>Mazda</auto:make>
       <auto:model>6 UNICO PROPRIETARIO – SERVICE COMPLETO – GRANDINATA</auto:model>
-      <auto:year />
+      <auto:year>2017</auto:year>
       <auto:body_style>Station Wagon</auto:body_style>
       <auto:fuel_type>Diesel</auto:fuel_type>
       <auto:transmission>Automatico</auto:transmission>
@@ -41,7 +41,7 @@
       <condition>used</condition>
       <auto:make>Fiat</auto:make>
       <auto:model>500 SERVICE COMPLETO – NEOPATENTATI</auto:model>
-      <auto:year />
+      <auto:year>2016</auto:year>
       <auto:body_style>City Car</auto:body_style>
       <auto:fuel_type>Benzina</auto:fuel_type>
       <auto:transmission>Manuale</auto:transmission>
@@ -66,7 +66,7 @@
       <condition>used</condition>
       <auto:make>Land Rover</auto:make>
       <auto:model>Discovery Sport UNICO PROPRIETARIO – CATENA NUOVA</auto:model>
-      <auto:year />
+      <auto:year>2018</auto:year>
       <auto:body_style>SUV</auto:body_style>
       <auto:fuel_type>Diesel</auto:fuel_type>
       <auto:transmission>Manuale</auto:transmission>
@@ -91,7 +91,7 @@
       <condition>used</condition>
       <auto:make>Hyundai</auto:make>
       <auto:model>KONA UNICO PROPRIETARIO – SERVICE COMPLETO</auto:model>
-      <auto:year />
+      <auto:year>2018</auto:year>
       <auto:body_style>Monovolume</auto:body_style>
       <auto:fuel_type>Diesel</auto:fuel_type>
       <auto:transmission>Manuale</auto:transmission>
@@ -116,7 +116,7 @@
       <condition>used</condition>
       <auto:make>Volvo</auto:make>
       <auto:model>V40 SERVICE COMPLETO – AUTOMATICO</auto:model>
-      <auto:year />
+      <auto:year>2017</auto:year>
       <auto:body_style>Berlina</auto:body_style>
       <auto:fuel_type>Diesel</auto:fuel_type>
       <auto:transmission>Automatico</auto:transmission>
@@ -141,7 +141,7 @@
       <condition>used</condition>
       <auto:make>Hyundai</auto:make>
       <auto:model>i10 NEOPATENTATI – BENZINA EURO 6</auto:model>
-      <auto:year />
+      <auto:year>2017</auto:year>
       <auto:body_style>City Car</auto:body_style>
       <auto:fuel_type>Benzina</auto:fuel_type>
       <auto:transmission>Manuale</auto:transmission>
@@ -166,7 +166,7 @@
       <condition>used</condition>
       <auto:make>Bmw</auto:make>
       <auto:model>BMW 118 SERVICE COMPLETO – AUTOMATICO</auto:model>
-      <auto:year />
+      <auto:year>2011</auto:year>
       <auto:body_style>Berlina</auto:body_style>
       <auto:fuel_type>Diesel</auto:fuel_type>
       <auto:transmission>Automatico</auto:transmission>
@@ -191,7 +191,7 @@
       <condition>used</condition>
       <auto:make>Suzuki</auto:make>
       <auto:model>Vitara UNICO PROPRIETARIO – 4WD – TETTO APRIBILE</auto:model>
-      <auto:year />
+      <auto:year>2024</auto:year>
       <auto:body_style>SUV</auto:body_style>
       <auto:fuel_type>Elettrica / Benzina</auto:fuel_type>
       <auto:transmission>Automatico</auto:transmission>
@@ -216,7 +216,7 @@
       <condition>used</condition>
       <auto:make>Mercedes-Benz</auto:make>
       <auto:model>C 200 EURO 6 – AUTOMATICA</auto:model>
-      <auto:year />
+      <auto:year>2016</auto:year>
       <auto:body_style>Berlina</auto:body_style>
       <auto:fuel_type>Diesel</auto:fuel_type>
       <auto:transmission>Automatico</auto:transmission>
@@ -241,7 +241,7 @@
       <condition>used</condition>
       <auto:make>Volkswagen</auto:make>
       <auto:model>Golf UNICO PROPRIETARIO – 5 PORTE</auto:model>
-      <auto:year />
+      <auto:year>2007</auto:year>
       <auto:body_style>Berlina</auto:body_style>
       <auto:fuel_type>Diesel</auto:fuel_type>
       <auto:transmission>Manuale</auto:transmission>
@@ -266,7 +266,7 @@
       <condition>used</condition>
       <auto:make>Volkswagen</auto:make>
       <auto:model>Taigo UNICO PROPRIETARIO – SERVICE COMPLETO</auto:model>
-      <auto:year />
+      <auto:year>2024</auto:year>
       <auto:body_style>SUV</auto:body_style>
       <auto:fuel_type>Benzina</auto:fuel_type>
       <auto:transmission>Automatico</auto:transmission>
@@ -291,7 +291,7 @@
       <condition>used</condition>
       <auto:make>Fiat</auto:make>
       <auto:model>Grande Punto GOMME NUOVE – NEOPATENTATI</auto:model>
-      <auto:year />
+      <auto:year>2005</auto:year>
       <auto:body_style>Berlina</auto:body_style>
       <auto:fuel_type>Benzina</auto:fuel_type>
       <auto:transmission>Manuale</auto:transmission>
@@ -316,7 +316,7 @@
       <condition>used</condition>
       <auto:make>Mercedes-Benz</auto:make>
       <auto:model>B 180 SISTEMA MBUX – AMG</auto:model>
-      <auto:year />
+      <auto:year>2019</auto:year>
       <auto:body_style>Berlina</auto:body_style>
       <auto:fuel_type>Diesel</auto:fuel_type>
       <auto:transmission>Automatico</auto:transmission>
@@ -341,7 +341,7 @@
       <condition>used</condition>
       <auto:make>Volkswagen</auto:make>
       <auto:model>Golf GTD UNICO PROPRIETARIO – DITRIBUZIONE ESEGUITA</auto:model>
-      <auto:year />
+      <auto:year>2015</auto:year>
       <auto:body_style>Berlina</auto:body_style>
       <auto:fuel_type>Diesel</auto:fuel_type>
       <auto:transmission>Automatico</auto:transmission>
@@ -366,7 +366,7 @@
       <condition>used</condition>
       <auto:make>Subaru</auto:make>
       <auto:model>Forester 4X4 – FULL OPTIONAL</auto:model>
-      <auto:year />
+      <auto:year>2013</auto:year>
       <auto:body_style>SUV</auto:body_style>
       <auto:fuel_type>Diesel</auto:fuel_type>
       <auto:transmission>Manuale</auto:transmission>
@@ -391,7 +391,7 @@
       <condition>used</condition>
       <auto:make>Ford</auto:make>
       <auto:model>Focus UNICO PROPRIETARIO – NEOPATENTATI</auto:model>
-      <auto:year />
+      <auto:year>2014</auto:year>
       <auto:body_style>Berlina</auto:body_style>
       <auto:fuel_type>Benzina</auto:fuel_type>
       <auto:transmission>Manuale</auto:transmission>
@@ -416,7 +416,7 @@
       <condition>used</condition>
       <auto:make>Kia</auto:make>
       <auto:model>Sportage UNICO PROPRIETARIO – SERVICE COMPLETO</auto:model>
-      <auto:year />
+      <auto:year>2017</auto:year>
       <auto:body_style>SUV</auto:body_style>
       <auto:fuel_type>Diesel</auto:fuel_type>
       <auto:transmission>Manuale</auto:transmission>
@@ -441,7 +441,7 @@
       <condition>used</condition>
       <auto:make>Fiat</auto:make>
       <auto:model>Panda UNICO PROPRIETARIO – 5 POSTI</auto:model>
-      <auto:year />
+      <auto:year>2021</auto:year>
       <auto:body_style>City Car</auto:body_style>
       <auto:fuel_type>Elettrica / Benzina</auto:fuel_type>
       <auto:transmission>Manuale</auto:transmission>
@@ -466,7 +466,7 @@
       <condition>used</condition>
       <auto:make>Citroen</auto:make>
       <auto:model>C1 UNICO PROPRIETARIO – NEOPATENTATI</auto:model>
-      <auto:year />
+      <auto:year>2021</auto:year>
       <auto:body_style>City Car</auto:body_style>
       <auto:fuel_type>Benzina</auto:fuel_type>
       <auto:transmission>Manuale</auto:transmission>
@@ -491,7 +491,7 @@
       <condition>used</condition>
       <auto:make>Opel</auto:make>
       <auto:model>Insignia AUTOMATICA – EURO 6</auto:model>
-      <auto:year />
+      <auto:year>2017</auto:year>
       <auto:body_style>Berlina</auto:body_style>
       <auto:fuel_type>Diesel</auto:fuel_type>
       <auto:transmission>Automatico</auto:transmission>
@@ -516,7 +516,7 @@
       <condition>used</condition>
       <auto:make>Lancia</auto:make>
       <auto:model>Ypsilon UNICO PROPRIETARIO – NEOPATENTATI</auto:model>
-      <auto:year />
+      <auto:year>2019</auto:year>
       <auto:body_style>City Car</auto:body_style>
       <auto:fuel_type>Benzina</auto:fuel_type>
       <auto:transmission>Manuale</auto:transmission>
@@ -541,7 +541,7 @@
       <condition>used</condition>
       <auto:make>Seat</auto:make>
       <auto:model>SEAT Ibiza UNICO PROPRIETARIO – SERVICE COMPLETO</auto:model>
-      <auto:year />
+      <auto:year>2013</auto:year>
       <auto:body_style>Berlina</auto:body_style>
       <auto:fuel_type>Diesel</auto:fuel_type>
       <auto:transmission>Manuale</auto:transmission>
@@ -566,7 +566,7 @@
       <condition>used</condition>
       <auto:make>Mazda</auto:make>
       <auto:model>CX-5 TAGLIANDI MAZDA – GANCIO TRAINO</auto:model>
-      <auto:year />
+      <auto:year>2013</auto:year>
       <auto:body_style>SUV</auto:body_style>
       <auto:fuel_type>Diesel</auto:fuel_type>
       <auto:transmission>Automatico</auto:transmission>
@@ -591,7 +591,7 @@
       <condition>used</condition>
       <auto:make>Kia</auto:make>
       <auto:model>Picanto AUTOMATICA – NEOPATENTATI</auto:model>
-      <auto:year />
+      <auto:year>2023</auto:year>
       <auto:body_style>City Car</auto:body_style>
       <auto:fuel_type>Benzina</auto:fuel_type>
       <auto:transmission>Automatico</auto:transmission>
@@ -616,7 +616,7 @@
       <condition>used</condition>
       <auto:make>Renault</auto:make>
       <auto:model>Clio UNICO PROPRIETARIO – NEOPATENTATI</auto:model>
-      <auto:year />
+      <auto:year>2023</auto:year>
       <auto:body_style>Berlina</auto:body_style>
       <auto:fuel_type>Gpl</auto:fuel_type>
       <auto:transmission>Manuale</auto:transmission>
@@ -641,7 +641,7 @@
       <condition>used</condition>
       <auto:make>Renault</auto:make>
       <auto:model>Clio UNICO PROPRIETARIO – NEOPATENTATI</auto:model>
-      <auto:year />
+      <auto:year>2021</auto:year>
       <auto:body_style>Berlina</auto:body_style>
       <auto:fuel_type>Benzina</auto:fuel_type>
       <auto:transmission>Manuale</auto:transmission>
@@ -666,7 +666,7 @@
       <condition>used</condition>
       <auto:make>Mini</auto:make>
       <auto:model>MINI One D FRIZIONE E VOLANO NUOVI</auto:model>
-      <auto:year />
+      <auto:year>2016</auto:year>
       <auto:body_style>Berlina</auto:body_style>
       <auto:fuel_type>Diesel</auto:fuel_type>
       <auto:transmission>Manuale</auto:transmission>
@@ -691,7 +691,7 @@
       <condition>used</condition>
       <auto:make>Toyota</auto:make>
       <auto:model>Aygo UNICO PROPRIETARIO – NEOPATENTATI</auto:model>
-      <auto:year />
+      <auto:year>2011</auto:year>
       <auto:body_style>City Car</auto:body_style>
       <auto:fuel_type>Benzina</auto:fuel_type>
       <auto:transmission>Manuale</auto:transmission>
@@ -716,7 +716,7 @@
       <condition>used</condition>
       <auto:make>Fiat</auto:make>
       <auto:model>Sedici NEOPATENTATI – 4×2 – BASSI CONSUMI</auto:model>
-      <auto:year />
+      <auto:year>2009</auto:year>
       <auto:body_style>City Car</auto:body_style>
       <auto:fuel_type>Diesel</auto:fuel_type>
       <auto:transmission>Manuale</auto:transmission>
@@ -741,7 +741,7 @@
       <condition>used</condition>
       <auto:make>Seat</auto:make>
       <auto:model>SEAT Ateca AUTOMATICO – UNICO PROPRIETARIO</auto:model>
-      <auto:year />
+      <auto:year>2017</auto:year>
       <auto:body_style>SUV</auto:body_style>
       <auto:fuel_type />
       <auto:transmission>Automatico</auto:transmission>
@@ -766,7 +766,7 @@
       <condition>used</condition>
       <auto:make>Audi</auto:make>
       <auto:model>A4 UNICO PROPRIETARIO – TAGLIANDI CERTIFICATI</auto:model>
-      <auto:year />
+      <auto:year>2021</auto:year>
       <auto:body_style>Station Wagon</auto:body_style>
       <auto:fuel_type>Elettrica / Diesel</auto:fuel_type>
       <auto:transmission>Automatico</auto:transmission>
@@ -791,7 +791,7 @@
       <condition>used</condition>
       <auto:make>Chevrolet</auto:make>
       <auto:model>Spark GPL VALIDO FINO A 2033 – NEOPATENTATI</auto:model>
-      <auto:year />
+      <auto:year>2013</auto:year>
       <auto:body_style>Station Wagon</auto:body_style>
       <auto:fuel_type>Benzina</auto:fuel_type>
       <auto:transmission>Manuale</auto:transmission>
