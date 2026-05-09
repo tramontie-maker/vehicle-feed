@@ -4,7 +4,7 @@
     <title>Auto Occasioni Milano</title>
     <link>https://www.autoccasionimilano.it</link>
     <description>Feed auto usate — Auto Occasioni Milano</description>
-    <lastBuildDate>Sat, 09 May 2026 07:09:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 07:41:46 +0000</lastBuildDate>
     <item>
       <title>Mazda 6 UNICO PROPRIETARIO – SERVICE COMPLETO – GRANDINATA</title>
       <link>https://www.autoccasionimilano.it/auto-usate-milano/mazda-6-unico-proprietario-service-completo-grandinata/</link>
@@ -17,13 +17,11 @@
       <g:sale_price>4190.00 EUR</g:sale_price>
       <g:make>Mazda</g:make>
       <g:model>6 UNICO PROPRIETARIO – SERVICE COMPLETO – GRANDINATA</g:model>
-      <g:year />
       <g:mileage>217000 km</g:mileage>
-      <g:body_style>Station Wagon</g:body_style>
-      <g:fuel_type>Diesel</g:fuel_type>
-      <g:transmission>Automatico</g:transmission>
+      <g:body_style>station_wagon</g:body_style>
+      <g:fuel_type>diesel</g:fuel_type>
+      <g:transmission>automatic</g:transmission>
       <g:color>Grigio</g:color>
-      <g:vehicle_type>Car</g:vehicle_type>
       <g:item_group_id>mazda</g:item_group_id>
     </item>
     <item>
@@ -38,13 +36,11 @@
       <g:sale_price>6980.00 EUR</g:sale_price>
       <g:make>Fiat</g:make>
       <g:model>500 SERVICE COMPLETO – NEOPATENTATI</g:model>
-      <g:year />
       <g:mileage>86000 km</g:mileage>
-      <g:body_style>City Car</g:body_style>
-      <g:fuel_type>Benzina</g:fuel_type>
-      <g:transmission>Manuale</g:transmission>
+      <g:body_style>city_car</g:body_style>
+      <g:fuel_type>gasoline</g:fuel_type>
+      <g:transmission>manual</g:transmission>
       <g:color>Grigio</g:color>
-      <g:vehicle_type>Car</g:vehicle_type>
       <g:item_group_id>fiat</g:item_group_id>
     </item>
     <item>
@@ -59,13 +55,11 @@
       <g:sale_price>13890.00 EUR</g:sale_price>
       <g:make>Land Rover</g:make>
       <g:model>Discovery Sport UNICO PROPRIETARIO – CATENA NUOVA</g:model>
-      <g:year />
       <g:mileage>59000 km</g:mileage>
-      <g:body_style>SUV</g:body_style>
-      <g:fuel_type>Diesel</g:fuel_type>
-      <g:transmission>Manuale</g:transmission>
+      <g:body_style>suv</g:body_style>
+      <g:fuel_type>diesel</g:fuel_type>
+      <g:transmission>manual</g:transmission>
       <g:color>Bianco</g:color>
-      <g:vehicle_type>Car</g:vehicle_type>
       <g:item_group_id>land_rover</g:item_group_id>
     </item>
     <item>
@@ -80,13 +74,11 @@
       <g:sale_price>10450.00 EUR</g:sale_price>
       <g:make>Hyundai</g:make>
       <g:model>KONA UNICO PROPRIETARIO – SERVICE COMPLETO</g:model>
-      <g:year />
       <g:mileage>107000 km</g:mileage>
-      <g:body_style>Monovolume</g:body_style>
-      <g:fuel_type>Diesel</g:fuel_type>
-      <g:transmission>Manuale</g:transmission>
+      <g:body_style>minivan</g:body_style>
+      <g:fuel_type>diesel</g:fuel_type>
+      <g:transmission>manual</g:transmission>
       <g:color>Bianco</g:color>
-      <g:vehicle_type>Car</g:vehicle_type>
       <g:item_group_id>hyundai</g:item_group_id>
     </item>
     <item>
@@ -101,13 +93,11 @@
       <g:sale_price>6990.00 EUR</g:sale_price>
       <g:make>Volvo</g:make>
       <g:model>V40 SERVICE COMPLETO – AUTOMATICO</g:model>
-      <g:year />
       <g:mileage>188000 km</g:mileage>
-      <g:body_style>Berlina</g:body_style>
-      <g:fuel_type>Diesel</g:fuel_type>
-      <g:transmission>Automatico</g:transmission>
+      <g:body_style>sedan</g:body_style>
+      <g:fuel_type>diesel</g:fuel_type>
+      <g:transmission>automatic</g:transmission>
       <g:color>Bianco</g:color>
-      <g:vehicle_type>Car</g:vehicle_type>
       <g:item_group_id>volvo</g:item_group_id>
     </item>
     <item>
@@ -122,13 +112,11 @@
       <g:sale_price>6670.00 EUR</g:sale_price>
       <g:make>Hyundai</g:make>
       <g:model>i10 NEOPATENTATI – BENZINA EURO 6</g:model>
-      <g:year />
       <g:mileage>110000 km</g:mileage>
-      <g:body_style>City Car</g:body_style>
-      <g:fuel_type>Benzina</g:fuel_type>
-      <g:transmission>Manuale</g:transmission>
+      <g:body_style>city_car</g:body_style>
+      <g:fuel_type>gasoline</g:fuel_type>
+      <g:transmission>manual</g:transmission>
       <g:color>Blue</g:color>
-      <g:vehicle_type>Car</g:vehicle_type>
       <g:item_group_id>hyundai</g:item_group_id>
     </item>
     <item>
@@ -143,13 +131,11 @@
       <g:sale_price>7190.00 EUR</g:sale_price>
       <g:make>Bmw</g:make>
       <g:model>BMW 118 SERVICE COMPLETO – AUTOMATICO</g:model>
-      <g:year />
       <g:mileage>148000 km</g:mileage>
-      <g:body_style>Berlina</g:body_style>
-      <g:fuel_type>Diesel</g:fuel_type>
-      <g:transmission>Automatico</g:transmission>
+      <g:body_style>sedan</g:body_style>
+      <g:fuel_type>diesel</g:fuel_type>
+      <g:transmission>automatic</g:transmission>
       <g:color>Grigio</g:color>
-      <g:vehicle_type>Car</g:vehicle_type>
       <g:item_group_id>bmw</g:item_group_id>
     </item>
     <item>
@@ -164,13 +150,11 @@
       <g:sale_price>20790.00 EUR</g:sale_price>
       <g:make>Suzuki</g:make>
       <g:model>Vitara UNICO PROPRIETARIO – 4WD – TETTO APRIBILE</g:model>
-      <g:year />
       <g:mileage>24000 km</g:mileage>
-      <g:body_style>SUV</g:body_style>
-      <g:fuel_type>Elettrica / Benzina</g:fuel_type>
-      <g:transmission>Automatico</g:transmission>
+      <g:body_style>suv</g:body_style>
+      <g:fuel_type>hybrid</g:fuel_type>
+      <g:transmission>automatic</g:transmission>
       <g:color>Blue</g:color>
-      <g:vehicle_type>Car</g:vehicle_type>
       <g:item_group_id>suzuki</g:item_group_id>
     </item>
     <item>
@@ -185,13 +169,11 @@
       <g:sale_price>9985.00 EUR</g:sale_price>
       <g:make>Mercedes-Benz</g:make>
       <g:model>C 200 EURO 6 – AUTOMATICA</g:model>
-      <g:year />
       <g:mileage>243000 km</g:mileage>
-      <g:body_style>Berlina</g:body_style>
-      <g:fuel_type>Diesel</g:fuel_type>
-      <g:transmission>Automatico</g:transmission>
+      <g:body_style>sedan</g:body_style>
+      <g:fuel_type>diesel</g:fuel_type>
+      <g:transmission>automatic</g:transmission>
       <g:color>Grigio</g:color>
-      <g:vehicle_type>Car</g:vehicle_type>
       <g:item_group_id>mercedes-benz</g:item_group_id>
     </item>
     <item>
@@ -206,13 +188,11 @@
       <g:sale_price>3990.00 EUR</g:sale_price>
       <g:make>Volkswagen</g:make>
       <g:model>Golf UNICO PROPRIETARIO – 5 PORTE</g:model>
-      <g:year />
       <g:mileage>149000 km</g:mileage>
-      <g:body_style>Berlina</g:body_style>
-      <g:fuel_type>Diesel</g:fuel_type>
-      <g:transmission>Manuale</g:transmission>
+      <g:body_style>sedan</g:body_style>
+      <g:fuel_type>diesel</g:fuel_type>
+      <g:transmission>manual</g:transmission>
       <g:color>Grigio</g:color>
-      <g:vehicle_type>Car</g:vehicle_type>
       <g:item_group_id>volkswagen</g:item_group_id>
     </item>
     <item>
@@ -227,13 +207,11 @@
       <g:sale_price>18090.00 EUR</g:sale_price>
       <g:make>Volkswagen</g:make>
       <g:model>Taigo UNICO PROPRIETARIO – SERVICE COMPLETO</g:model>
-      <g:year />
       <g:mileage>49000 km</g:mileage>
-      <g:body_style>SUV</g:body_style>
-      <g:fuel_type>Benzina</g:fuel_type>
-      <g:transmission>Automatico</g:transmission>
+      <g:body_style>suv</g:body_style>
+      <g:fuel_type>gasoline</g:fuel_type>
+      <g:transmission>automatic</g:transmission>
       <g:color>Marrone / Beige</g:color>
-      <g:vehicle_type>Car</g:vehicle_type>
       <g:item_group_id>volkswagen</g:item_group_id>
     </item>
     <item>
@@ -248,13 +226,11 @@
       <g:sale_price>1790.00 EUR</g:sale_price>
       <g:make>Fiat</g:make>
       <g:model>Grande Punto GOMME NUOVE – NEOPATENTATI</g:model>
-      <g:year />
       <g:mileage>150000 km</g:mileage>
-      <g:body_style>Berlina</g:body_style>
-      <g:fuel_type>Benzina</g:fuel_type>
-      <g:transmission>Manuale</g:transmission>
+      <g:body_style>sedan</g:body_style>
+      <g:fuel_type>gasoline</g:fuel_type>
+      <g:transmission>manual</g:transmission>
       <g:color>Blue</g:color>
-      <g:vehicle_type>Car</g:vehicle_type>
       <g:item_group_id>fiat</g:item_group_id>
     </item>
     <item>
@@ -269,13 +245,11 @@
       <g:sale_price>18290.00 EUR</g:sale_price>
       <g:make>Mercedes-Benz</g:make>
       <g:model>B 180 SISTEMA MBUX – AMG</g:model>
-      <g:year />
       <g:mileage>50000 km</g:mileage>
-      <g:body_style>Berlina</g:body_style>
-      <g:fuel_type>Diesel</g:fuel_type>
-      <g:transmission>Automatico</g:transmission>
+      <g:body_style>sedan</g:body_style>
+      <g:fuel_type>diesel</g:fuel_type>
+      <g:transmission>automatic</g:transmission>
       <g:color>Grigio</g:color>
-      <g:vehicle_type>Car</g:vehicle_type>
       <g:item_group_id>mercedes-benz</g:item_group_id>
     </item>
     <item>
@@ -290,13 +264,11 @@
       <g:sale_price>9990.00 EUR</g:sale_price>
       <g:make>Volkswagen</g:make>
       <g:model>Golf GTD UNICO PROPRIETARIO – DITRIBUZIONE ESEGUITA</g:model>
-      <g:year />
       <g:mileage>180000 km</g:mileage>
-      <g:body_style>Berlina</g:body_style>
-      <g:fuel_type>Diesel</g:fuel_type>
-      <g:transmission>Automatico</g:transmission>
+      <g:body_style>sedan</g:body_style>
+      <g:fuel_type>diesel</g:fuel_type>
+      <g:transmission>automatic</g:transmission>
       <g:color>Nero</g:color>
-      <g:vehicle_type>Car</g:vehicle_type>
       <g:item_group_id>volkswagen</g:item_group_id>
     </item>
     <item>
@@ -311,13 +283,11 @@
       <g:sale_price>9490.00 EUR</g:sale_price>
       <g:make>Subaru</g:make>
       <g:model>Forester 4X4 – FULL OPTIONAL</g:model>
-      <g:year />
       <g:mileage>114000 km</g:mileage>
-      <g:body_style>SUV</g:body_style>
-      <g:fuel_type>Diesel</g:fuel_type>
-      <g:transmission>Manuale</g:transmission>
+      <g:body_style>suv</g:body_style>
+      <g:fuel_type>diesel</g:fuel_type>
+      <g:transmission>manual</g:transmission>
       <g:color>Blue</g:color>
-      <g:vehicle_type>Car</g:vehicle_type>
       <g:item_group_id>subaru</g:item_group_id>
     </item>
     <item>
@@ -332,13 +302,11 @@
       <g:sale_price>4190.00 EUR</g:sale_price>
       <g:make>Ford</g:make>
       <g:model>Focus UNICO PROPRIETARIO – NEOPATENTATI</g:model>
-      <g:year />
       <g:mileage>134000 km</g:mileage>
-      <g:body_style>Berlina</g:body_style>
-      <g:fuel_type>Benzina</g:fuel_type>
-      <g:transmission>Manuale</g:transmission>
+      <g:body_style>sedan</g:body_style>
+      <g:fuel_type>gasoline</g:fuel_type>
+      <g:transmission>manual</g:transmission>
       <g:color>Grigio</g:color>
-      <g:vehicle_type>Car</g:vehicle_type>
       <g:item_group_id>ford</g:item_group_id>
     </item>
     <item>
@@ -353,13 +321,11 @@
       <g:sale_price>9790.00 EUR</g:sale_price>
       <g:make>Kia</g:make>
       <g:model>Sportage UNICO PROPRIETARIO – SERVICE COMPLETO</g:model>
-      <g:year />
       <g:mileage>144000 km</g:mileage>
-      <g:body_style>SUV</g:body_style>
-      <g:fuel_type>Diesel</g:fuel_type>
-      <g:transmission>Manuale</g:transmission>
+      <g:body_style>suv</g:body_style>
+      <g:fuel_type>diesel</g:fuel_type>
+      <g:transmission>manual</g:transmission>
       <g:color>Grigio</g:color>
-      <g:vehicle_type>Car</g:vehicle_type>
       <g:item_group_id>kia</g:item_group_id>
     </item>
     <item>
@@ -374,13 +340,11 @@
       <g:sale_price>8790.00 EUR</g:sale_price>
       <g:make>Fiat</g:make>
       <g:model>Panda UNICO PROPRIETARIO – 5 POSTI</g:model>
-      <g:year />
       <g:mileage>34000 km</g:mileage>
-      <g:body_style>City Car</g:body_style>
-      <g:fuel_type>Elettrica / Benzina</g:fuel_type>
-      <g:transmission>Manuale</g:transmission>
+      <g:body_style>city_car</g:body_style>
+      <g:fuel_type>hybrid</g:fuel_type>
+      <g:transmission>manual</g:transmission>
       <g:color>Bianco</g:color>
-      <g:vehicle_type>Car</g:vehicle_type>
       <g:item_group_id>fiat</g:item_group_id>
     </item>
     <item>
@@ -395,13 +359,11 @@
       <g:sale_price>8680.00 EUR</g:sale_price>
       <g:make>Citroen</g:make>
       <g:model>C1 UNICO PROPRIETARIO – NEOPATENTATI</g:model>
-      <g:year />
       <g:mileage>34000 km</g:mileage>
-      <g:body_style>City Car</g:body_style>
-      <g:fuel_type>Benzina</g:fuel_type>
-      <g:transmission>Manuale</g:transmission>
+      <g:body_style>city_car</g:body_style>
+      <g:fuel_type>gasoline</g:fuel_type>
+      <g:transmission>manual</g:transmission>
       <g:color>Rosso</g:color>
-      <g:vehicle_type>Car</g:vehicle_type>
       <g:item_group_id>citroen</g:item_group_id>
     </item>
     <item>
@@ -416,13 +378,11 @@
       <g:sale_price>10750.00 EUR</g:sale_price>
       <g:make>Opel</g:make>
       <g:model>Insignia AUTOMATICA – EURO 6</g:model>
-      <g:year />
       <g:mileage>99980 km</g:mileage>
-      <g:body_style>Berlina</g:body_style>
-      <g:fuel_type>Diesel</g:fuel_type>
-      <g:transmission>Automatico</g:transmission>
+      <g:body_style>sedan</g:body_style>
+      <g:fuel_type>diesel</g:fuel_type>
+      <g:transmission>automatic</g:transmission>
       <g:color>Nero</g:color>
-      <g:vehicle_type>Car</g:vehicle_type>
       <g:item_group_id>opel</g:item_group_id>
     </item>
     <item>
@@ -437,13 +397,11 @@
       <g:sale_price>6390.00 EUR</g:sale_price>
       <g:make>Lancia</g:make>
       <g:model>Ypsilon UNICO PROPRIETARIO – NEOPATENTATI</g:model>
-      <g:year />
       <g:mileage>169000 km</g:mileage>
-      <g:body_style>City Car</g:body_style>
-      <g:fuel_type>Benzina</g:fuel_type>
-      <g:transmission>Manuale</g:transmission>
+      <g:body_style>city_car</g:body_style>
+      <g:fuel_type>gasoline</g:fuel_type>
+      <g:transmission>manual</g:transmission>
       <g:color>Rosso</g:color>
-      <g:vehicle_type>Car</g:vehicle_type>
       <g:item_group_id>lancia</g:item_group_id>
     </item>
     <item>
@@ -458,13 +416,11 @@
       <g:sale_price>5900.00 EUR</g:sale_price>
       <g:make>Seat</g:make>
       <g:model>SEAT Ibiza UNICO PROPRIETARIO – SERVICE COMPLETO</g:model>
-      <g:year />
       <g:mileage>60000 km</g:mileage>
-      <g:body_style>Berlina</g:body_style>
-      <g:fuel_type>Diesel</g:fuel_type>
-      <g:transmission>Manuale</g:transmission>
+      <g:body_style>sedan</g:body_style>
+      <g:fuel_type>diesel</g:fuel_type>
+      <g:transmission>manual</g:transmission>
       <g:color>Grigio</g:color>
-      <g:vehicle_type>Car</g:vehicle_type>
       <g:item_group_id>seat</g:item_group_id>
     </item>
     <item>
@@ -479,13 +435,11 @@
       <g:sale_price>7890.00 EUR</g:sale_price>
       <g:make>Mazda</g:make>
       <g:model>CX-5 TAGLIANDI MAZDA – GANCIO TRAINO</g:model>
-      <g:year />
       <g:mileage>167000 km</g:mileage>
-      <g:body_style>SUV</g:body_style>
-      <g:fuel_type>Diesel</g:fuel_type>
-      <g:transmission>Automatico</g:transmission>
+      <g:body_style>suv</g:body_style>
+      <g:fuel_type>diesel</g:fuel_type>
+      <g:transmission>automatic</g:transmission>
       <g:color>Grigio</g:color>
-      <g:vehicle_type>Car</g:vehicle_type>
       <g:item_group_id>mazda</g:item_group_id>
     </item>
     <item>
@@ -500,13 +454,10 @@
       <g:sale_price>12650.00 EUR</g:sale_price>
       <g:make>Kia</g:make>
       <g:model>Picanto AUTOMATICA – NEOPATENTATI</g:model>
-      <g:year />
       <g:mileage>30000 km</g:mileage>
-      <g:body_style>City Car</g:body_style>
-      <g:fuel_type>Benzina</g:fuel_type>
-      <g:transmission>Automatico</g:transmission>
-      <g:color />
-      <g:vehicle_type>Car</g:vehicle_type>
+      <g:body_style>city_car</g:body_style>
+      <g:fuel_type>gasoline</g:fuel_type>
+      <g:transmission>automatic</g:transmission>
       <g:item_group_id>kia</g:item_group_id>
     </item>
     <item>
@@ -521,13 +472,10 @@
       <g:sale_price>10740.00 EUR</g:sale_price>
       <g:make>Renault</g:make>
       <g:model>Clio UNICO PROPRIETARIO – NEOPATENTATI</g:model>
-      <g:year />
       <g:mileage>116000 km</g:mileage>
-      <g:body_style>Berlina</g:body_style>
-      <g:fuel_type>Gpl</g:fuel_type>
-      <g:transmission>Manuale</g:transmission>
-      <g:color />
-      <g:vehicle_type>Car</g:vehicle_type>
+      <g:body_style>sedan</g:body_style>
+      <g:fuel_type>lpg</g:fuel_type>
+      <g:transmission>manual</g:transmission>
       <g:item_group_id>renault</g:item_group_id>
     </item>
     <item>
@@ -542,13 +490,11 @@
       <g:sale_price>11790.00 EUR</g:sale_price>
       <g:make>Renault</g:make>
       <g:model>Clio UNICO PROPRIETARIO – NEOPATENTATI</g:model>
-      <g:year />
       <g:mileage>34000 km</g:mileage>
-      <g:body_style>Berlina</g:body_style>
-      <g:fuel_type>Benzina</g:fuel_type>
-      <g:transmission>Manuale</g:transmission>
+      <g:body_style>sedan</g:body_style>
+      <g:fuel_type>gasoline</g:fuel_type>
+      <g:transmission>manual</g:transmission>
       <g:color>Nero</g:color>
-      <g:vehicle_type>Car</g:vehicle_type>
       <g:item_group_id>renault</g:item_group_id>
     </item>
     <item>
@@ -563,13 +509,10 @@
       <g:sale_price>7870.00 EUR</g:sale_price>
       <g:make>Mini</g:make>
       <g:model>MINI One D FRIZIONE E VOLANO NUOVI</g:model>
-      <g:year />
       <g:mileage>138000 km</g:mileage>
-      <g:body_style>Berlina</g:body_style>
-      <g:fuel_type>Diesel</g:fuel_type>
-      <g:transmission>Manuale</g:transmission>
-      <g:color />
-      <g:vehicle_type>Car</g:vehicle_type>
+      <g:body_style>sedan</g:body_style>
+      <g:fuel_type>diesel</g:fuel_type>
+      <g:transmission>manual</g:transmission>
       <g:item_group_id>mini</g:item_group_id>
     </item>
     <item>
@@ -584,13 +527,11 @@
       <g:sale_price>4399.00 EUR</g:sale_price>
       <g:make>Toyota</g:make>
       <g:model>Aygo UNICO PROPRIETARIO – NEOPATENTATI</g:model>
-      <g:year />
       <g:mileage>118000 km</g:mileage>
-      <g:body_style>City Car</g:body_style>
-      <g:fuel_type>Benzina</g:fuel_type>
-      <g:transmission>Manuale</g:transmission>
+      <g:body_style>city_car</g:body_style>
+      <g:fuel_type>gasoline</g:fuel_type>
+      <g:transmission>manual</g:transmission>
       <g:color>Bianco</g:color>
-      <g:vehicle_type>Car</g:vehicle_type>
       <g:item_group_id>toyota</g:item_group_id>
     </item>
     <item>
@@ -605,13 +546,11 @@
       <g:sale_price>3750.00 EUR</g:sale_price>
       <g:make>Fiat</g:make>
       <g:model>Sedici NEOPATENTATI – 4×2 – BASSI CONSUMI</g:model>
-      <g:year />
       <g:mileage>140000 km</g:mileage>
-      <g:body_style>City Car</g:body_style>
-      <g:fuel_type>Diesel</g:fuel_type>
-      <g:transmission>Manuale</g:transmission>
+      <g:body_style>city_car</g:body_style>
+      <g:fuel_type>diesel</g:fuel_type>
+      <g:transmission>manual</g:transmission>
       <g:color>Nero</g:color>
-      <g:vehicle_type>Car</g:vehicle_type>
       <g:item_group_id>fiat</g:item_group_id>
     </item>
     <item>
@@ -626,13 +565,9 @@
       <g:sale_price>12990.00 EUR</g:sale_price>
       <g:make>Seat</g:make>
       <g:model>SEAT Ateca AUTOMATICO – UNICO PROPRIETARIO</g:model>
-      <g:year />
       <g:mileage>108000 km</g:mileage>
-      <g:body_style>SUV</g:body_style>
-      <g:fuel_type />
-      <g:transmission>Automatico</g:transmission>
-      <g:color />
-      <g:vehicle_type>Car</g:vehicle_type>
+      <g:body_style>suv</g:body_style>
+      <g:transmission>automatic</g:transmission>
       <g:item_group_id>seat</g:item_group_id>
     </item>
     <item>
@@ -647,13 +582,11 @@
       <g:sale_price>16990.00 EUR</g:sale_price>
       <g:make>Audi</g:make>
       <g:model>A4 UNICO PROPRIETARIO – TAGLIANDI CERTIFICATI</g:model>
-      <g:year />
       <g:mileage>122000 km</g:mileage>
-      <g:body_style>Station Wagon</g:body_style>
-      <g:fuel_type>Elettrica / Diesel</g:fuel_type>
-      <g:transmission>Automatico</g:transmission>
+      <g:body_style>station_wagon</g:body_style>
+      <g:fuel_type>hybrid</g:fuel_type>
+      <g:transmission>automatic</g:transmission>
       <g:color>Nero</g:color>
-      <g:vehicle_type>Car</g:vehicle_type>
       <g:item_group_id>audi</g:item_group_id>
     </item>
     <item>
@@ -668,13 +601,11 @@
       <g:sale_price>2890.00 EUR</g:sale_price>
       <g:make>Chevrolet</g:make>
       <g:model>Spark GPL VALIDO FINO A 2033 – NEOPATENTATI</g:model>
-      <g:year />
       <g:mileage>170000 km</g:mileage>
-      <g:body_style>Station Wagon</g:body_style>
-      <g:fuel_type>Benzina</g:fuel_type>
-      <g:transmission>Manuale</g:transmission>
+      <g:body_style>station_wagon</g:body_style>
+      <g:fuel_type>gasoline</g:fuel_type>
+      <g:transmission>manual</g:transmission>
       <g:color>Rosso</g:color>
-      <g:vehicle_type>Car</g:vehicle_type>
       <g:item_group_id>chevrolet</g:item_group_id>
     </item>
   </channel>
