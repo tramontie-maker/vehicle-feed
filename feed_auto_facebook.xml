@@ -4,7 +4,7 @@
     <title>Auto Occasioni Milano</title>
     <link>https://www.autoccasionimilano.it</link>
     <description>Feed auto usate — Auto Occasioni Milano</description>
-    <lastBuildDate>Thu, 14 May 2026 16:51:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 17:07:47 +0000</lastBuildDate>
     <item>
       <id>38658</id>
       <title>Fiat Panda UNICO PROPRIETARIO – 5 POSTI – NEOPATENTATI</title>
@@ -627,6 +627,31 @@
       <auto:dealer_phone>+390248954311</auto:dealer_phone>
       <auto:mileage>
         <auto:value>169000</auto:value>
+        <auto:unit>KM</auto:unit>
+      </auto:mileage>
+    </item>
+    <item>
+      <id>37114</id>
+      <title>SEAT Ibiza UNICO PROPRIETARIO – SERVICE COMPLETO</title>
+      <link>https://www.autoccasionimilano.it/auto-usate-milano/seat-ibiza-unico-proprietario-service-completo/</link>
+      <description>Seat SEAT Ibiza UNICO PROPRIETARIO – SERVICE COMPLETO — Auto usata certificata. Garanzia 12 mesi inclusa. Diesel, Manuale.</description>
+      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/03/www.autoccasionimilano.it - seat-ibiza-unico-proprietario-service-completo-1.jpg</image_link>
+      <price>5900 EUR</price>
+      <availability>in stock</availability>
+      <condition>used</condition>
+      <auto:make>Seat</auto:make>
+      <auto:model>SEAT Ibiza UNICO PROPRIETARIO – SERVICE COMPLETO</auto:model>
+      <auto:year>2013</auto:year>
+      <auto:body_style>Berlina</auto:body_style>
+      <auto:fuel_type>Diesel</auto:fuel_type>
+      <auto:transmission>Manuale</auto:transmission>
+      <auto:drivetrain>Trazione Anteriore</auto:drivetrain>
+      <auto:color>Grigio</auto:color>
+      <auto:state_of_vehicle>used</auto:state_of_vehicle>
+      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
+      <auto:dealer_phone>+390248954311</auto:dealer_phone>
+      <auto:mileage>
+        <auto:value>60000</auto:value>
         <auto:unit>KM</auto:unit>
       </auto:mileage>
     </item>
