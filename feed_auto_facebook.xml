@@ -4,24 +4,49 @@
     <title>Auto Occasioni Milano</title>
     <link>https://www.autoccasionimilano.it</link>
     <description>Feed auto usate — Auto Occasioni Milano</description>
-    <lastBuildDate>Thu, 14 May 2026 17:07:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 02:35:39 +0000</lastBuildDate>
+    <item>
+      <id>38707</id>
+      <title>Skoda Octavia UNICO PROPRIETARIO – AUTOMATICO</title>
+      <link>https://www.autoccasionimilano.it/auto-usate-milano/skoda-octavia-unico-proprietario-automatico/</link>
+      <description>Skoda Skoda Octavia UNICO PROPRIETARIO – AUTOMATICO — Auto usata certificata. Garanzia 12 mesi inclusa. Diesel, Automatico.</description>
+      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/05/www.autoccasionimilano.it - skoda-octavia-unico-proprietario-automatico-1.jpg</image_link>
+      <price>16890 EUR</price>
+      <availability>in stock</availability>
+      <condition>used</condition>
+      <auto:make>Skoda</auto:make>
+      <auto:model>Octavia UNICO PROPRIETARIO – AUTOMATICO</auto:model>
+      <auto:year>2023</auto:year>
+      <auto:body_style>Station Wagon</auto:body_style>
+      <auto:fuel_type>Diesel</auto:fuel_type>
+      <auto:transmission>Automatico</auto:transmission>
+      <auto:drivetrain>Trazione Anteriore</auto:drivetrain>
+      <auto:color>Grigio</auto:color>
+      <auto:state_of_vehicle>used</auto:state_of_vehicle>
+      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
+      <auto:dealer_phone>+390248954311</auto:dealer_phone>
+      <auto:mileage>
+        <auto:value>61000</auto:value>
+        <auto:unit>KM</auto:unit>
+      </auto:mileage>
+    </item>
     <item>
       <id>38658</id>
       <title>Fiat Panda UNICO PROPRIETARIO – 5 POSTI – NEOPATENTATI</title>
       <link>https://www.autoccasionimilano.it/auto-usate-milano/fiat-panda-unico-proprietario-5-posti-neopatentati/</link>
-      <description> Fiat Panda UNICO PROPRIETARIO – 5 POSTI – NEOPATENTATI — Auto usata certificata. Garanzia 12 mesi inclusa. , .</description>
+      <description>Fiat Fiat Panda UNICO PROPRIETARIO – 5 POSTI – NEOPATENTATI — Auto usata certificata. Garanzia 12 mesi inclusa. Benzina, Manuale.</description>
       <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/05/www.autoccasionimilano.it - fiat-panda-unico-proprietario-5-posti-neopatentati-1.jpg</image_link>
       <price>8790 EUR</price>
       <availability>in stock</availability>
       <condition>used</condition>
-      <auto:make />
-      <auto:model>Fiat Panda UNICO PROPRIETARIO – 5 POSTI – NEOPATENTATI</auto:model>
+      <auto:make>Fiat</auto:make>
+      <auto:model>Panda UNICO PROPRIETARIO – 5 POSTI – NEOPATENTATI</auto:model>
       <auto:year>2021</auto:year>
-      <auto:body_style />
-      <auto:fuel_type />
-      <auto:transmission />
-      <auto:drivetrain />
-      <auto:color />
+      <auto:body_style>Berlina</auto:body_style>
+      <auto:fuel_type>Benzina</auto:fuel_type>
+      <auto:transmission>Manuale</auto:transmission>
+      <auto:drivetrain>Trazione Anteriore</auto:drivetrain>
+      <auto:color>Bianco</auto:color>
       <auto:state_of_vehicle>used</auto:state_of_vehicle>
       <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
       <auto:dealer_phone>+390248954311</auto:dealer_phone>
@@ -486,7 +511,7 @@
       <link>https://www.autoccasionimilano.it/auto-usate-milano/ford-focus-unico-proprietario-neopatentati/</link>
       <description>Ford Ford Focus UNICO PROPRIETARIO – NEOPATENTATI — Auto usata certificata. Garanzia 12 mesi inclusa. Benzina, Manuale.</description>
       <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/04/www.autoccasionimilano.it - ford-focus-unico-proprietario-neopatentati-2.jpg</image_link>
-      <price>8790 EUR</price>
+      <price>16890 EUR</price>
       <availability>in stock</availability>
       <condition>used</condition>
       <auto:make>Ford</auto:make>
@@ -695,8 +720,8 @@
       <auto:body_style>City Car</auto:body_style>
       <auto:fuel_type>Benzina</auto:fuel_type>
       <auto:transmission>Automatico</auto:transmission>
-      <auto:drivetrain />
-      <auto:color />
+      <auto:drivetrain>Trazione Anteriore</auto:drivetrain>
+      <auto:color>Grigio</auto:color>
       <auto:state_of_vehicle>used</auto:state_of_vehicle>
       <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
       <auto:dealer_phone>+390248954311</auto:dealer_phone>

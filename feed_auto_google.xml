@@ -4,11 +4,40 @@
     <title>Auto Occasioni Milano</title>
     <link>https://www.autoccasionimilano.it</link>
     <description>Feed auto usate — Auto Occasioni Milano</description>
-    <lastBuildDate>Thu, 14 May 2026 17:07:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 02:35:39 +0000</lastBuildDate>
+    <item>
+      <title>Skoda Octavia UNICO PROPRIETARIO – AUTOMATICO</title>
+      <link>https://www.autoccasionimilano.it/auto-usate-milano/skoda-octavia-unico-proprietario-automatico/</link>
+      <description>Skoda Skoda Octavia UNICO PROPRIETARIO – AUTOMATICO — Auto usata certificata. Garanzia 12 mesi inclusa. Diesel, Automatico.</description>
+      <g:id>38707</g:id>
+      <g:store_code>12756304075837814277</g:store_code>
+      <g:link_template>https://www.autoccasionimilano.it/auto-usate-milano/skoda-octavia-unico-proprietario-automatico/?store={store_code}&amp;utm_source=google&amp;utm_medium=vehicle_ads</g:link_template>
+      <g:condition>used</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:vehicle_fulfillment>
+        <g:option>in_store</g:option>
+        <g:store_code>12756304075837814277</g:store_code>
+      </g:vehicle_fulfillment>
+      <g:google_product_category>916</g:google_product_category>
+      <g:image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/05/www.autoccasionimilano.it - skoda-octavia-unico-proprietario-automatico-1.jpg</g:image_link>
+      <g:price>16890.00 EUR</g:price>
+      <g:sale_price>16890.00 EUR</g:sale_price>
+      <g:brand>Skoda</g:brand>
+      <g:make>Skoda</g:make>
+      <g:model>Octavia UNICO PROPRIETARIO – AUTOMATICO</g:model>
+      <g:year>2023</g:year>
+      <g:date_first_registered>2023-04</g:date_first_registered>
+      <g:mileage>61000 km</g:mileage>
+      <g:body_style>station_wagon</g:body_style>
+      <g:fuel_type>diesel</g:fuel_type>
+      <g:transmission>automatic</g:transmission>
+      <g:color>Grigio</g:color>
+      <g:item_group_id>skoda</g:item_group_id>
+    </item>
     <item>
       <title>Fiat Panda UNICO PROPRIETARIO – 5 POSTI – NEOPATENTATI</title>
       <link>https://www.autoccasionimilano.it/auto-usate-milano/fiat-panda-unico-proprietario-5-posti-neopatentati/</link>
-      <description> Fiat Panda UNICO PROPRIETARIO – 5 POSTI – NEOPATENTATI — Auto usata certificata. Garanzia 12 mesi inclusa. , .</description>
+      <description>Fiat Fiat Panda UNICO PROPRIETARIO – 5 POSTI – NEOPATENTATI — Auto usata certificata. Garanzia 12 mesi inclusa. Benzina, Manuale.</description>
       <g:id>38658</g:id>
       <g:store_code>12756304075837814277</g:store_code>
       <g:link_template>https://www.autoccasionimilano.it/auto-usate-milano/fiat-panda-unico-proprietario-5-posti-neopatentati/?store={store_code}&amp;utm_source=google&amp;utm_medium=vehicle_ads</g:link_template>
@@ -22,11 +51,17 @@
       <g:image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/05/www.autoccasionimilano.it - fiat-panda-unico-proprietario-5-posti-neopatentati-1.jpg</g:image_link>
       <g:price>8790.00 EUR</g:price>
       <g:sale_price>8790.00 EUR</g:sale_price>
-      <g:model>Fiat Panda UNICO PROPRIETARIO – 5 POSTI – NEOPATENTATI</g:model>
+      <g:brand>Fiat</g:brand>
+      <g:make>Fiat</g:make>
+      <g:model>Panda UNICO PROPRIETARIO – 5 POSTI – NEOPATENTATI</g:model>
       <g:year>2021</g:year>
       <g:date_first_registered>2021-02</g:date_first_registered>
       <g:mileage>45000 km</g:mileage>
-      <g:item_group_id>auto</g:item_group_id>
+      <g:body_style>sedan</g:body_style>
+      <g:fuel_type>gasoline</g:fuel_type>
+      <g:transmission>manual</g:transmission>
+      <g:color>Bianco</g:color>
+      <g:item_group_id>fiat</g:item_group_id>
     </item>
     <item>
       <title>MINI One D Clubman UNICO PROPRIETARIO – SERVICE COMPLETO</title>
@@ -565,8 +600,8 @@
       </g:vehicle_fulfillment>
       <g:google_product_category>916</g:google_product_category>
       <g:image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/04/www.autoccasionimilano.it - ford-focus-unico-proprietario-neopatentati-2.jpg</g:image_link>
-      <g:price>8790.00 EUR</g:price>
-      <g:sale_price>8790.00 EUR</g:sale_price>
+      <g:price>16890.00 EUR</g:price>
+      <g:sale_price>16890.00 EUR</g:sale_price>
       <g:brand>Ford</g:brand>
       <g:make>Ford</g:make>
       <g:model>Focus UNICO PROPRIETARIO – NEOPATENTATI</g:model>
@@ -808,6 +843,7 @@
       <g:body_style>city_car</g:body_style>
       <g:fuel_type>gasoline</g:fuel_type>
       <g:transmission>automatic</g:transmission>
+      <g:color>Grigio</g:color>
       <g:item_group_id>kia</g:item_group_id>
     </item>
     <item>
