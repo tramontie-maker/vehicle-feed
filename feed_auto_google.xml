@@ -4,7 +4,36 @@
     <title>Auto Occasioni Milano</title>
     <link>https://www.autoccasionimilano.it</link>
     <description>Feed auto usate — Auto Occasioni Milano</description>
-    <lastBuildDate>Thu, 11 Jun 2026 02:08:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 05:27:25 +0000</lastBuildDate>
+    <item>
+      <title>Jeep Renegade UNICO PROPRIETARIO – SERVICE CASA MADRE</title>
+      <link>https://www.autoccasionimilano.it/auto-usate-milano/jeep-renegade-unico-proprietario-service-casa-madre/</link>
+      <description>Jeep Jeep Renegade UNICO PROPRIETARIO – SERVICE CASA MADRE — Auto usata certificata. Garanzia 12 mesi inclusa. Benzina, Manuale.</description>
+      <g:id>39759</g:id>
+      <g:store_code>12756304075837814277</g:store_code>
+      <g:link_template>https://www.autoccasionimilano.it/auto-usate-milano/jeep-renegade-unico-proprietario-service-casa-madre/?store={store_code}&amp;utm_source=google&amp;utm_medium=vehicle_ads</g:link_template>
+      <g:condition>used</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:vehicle_fulfillment>
+        <g:option>in_store</g:option>
+        <g:store_code>12756304075837814277</g:store_code>
+      </g:vehicle_fulfillment>
+      <g:google_product_category>916</g:google_product_category>
+      <g:image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/06/www.autoccasionimilano.it - jeep-renegade-unico-proprietario-service-casa-madre-2.jpg</g:image_link>
+      <g:price>14390.00 EUR</g:price>
+      <g:sale_price>14390.00 EUR</g:sale_price>
+      <g:brand>Jeep</g:brand>
+      <g:make>Jeep</g:make>
+      <g:model>Renegade UNICO PROPRIETARIO – SERVICE CASA MADRE</g:model>
+      <g:year>2022</g:year>
+      <g:date_first_registered>2022-06</g:date_first_registered>
+      <g:mileage>51000 km</g:mileage>
+      <g:body_style>suv</g:body_style>
+      <g:fuel_type>gasoline</g:fuel_type>
+      <g:transmission>manual</g:transmission>
+      <g:color>Rosso</g:color>
+      <g:item_group_id>jeep</g:item_group_id>
+    </item>
     <item>
       <title>MINI Cooper D Clubman NAVIGATORE – AUTOMATICA</title>
       <link>https://www.autoccasionimilano.it/auto-usate-milano/mini-cooper-d-clubman-navigatore-automatica/</link>
@@ -90,6 +119,35 @@
       <g:fuel_type>hybrid</g:fuel_type>
       <g:transmission>manual</g:transmission>
       <g:color>Blue</g:color>
+      <g:item_group_id>fiat</g:item_group_id>
+    </item>
+    <item>
+      <title>Fiat 500X UNICO PROPRIETARIO – NEOPATENTATI</title>
+      <link>https://www.autoccasionimilano.it/auto-usate-milano/fiat-500x-unico-proprietario-neopatentati/</link>
+      <description>Fiat Fiat 500X UNICO PROPRIETARIO – NEOPATENTATI — Auto usata certificata. Garanzia 12 mesi inclusa. Diesel, Manuale.</description>
+      <g:id>39569</g:id>
+      <g:store_code>12756304075837814277</g:store_code>
+      <g:link_template>https://www.autoccasionimilano.it/auto-usate-milano/fiat-500x-unico-proprietario-neopatentati/?store={store_code}&amp;utm_source=google&amp;utm_medium=vehicle_ads</g:link_template>
+      <g:condition>used</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:vehicle_fulfillment>
+        <g:option>in_store</g:option>
+        <g:store_code>12756304075837814277</g:store_code>
+      </g:vehicle_fulfillment>
+      <g:google_product_category>916</g:google_product_category>
+      <g:image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/06/www.autoccasionimilano.it - fiat-500x-unico-proprietario-neopatentati-2.jpg</g:image_link>
+      <g:price>10990.00 EUR</g:price>
+      <g:sale_price>10990.00 EUR</g:sale_price>
+      <g:brand>Fiat</g:brand>
+      <g:make>Fiat</g:make>
+      <g:model>500X UNICO PROPRIETARIO – NEOPATENTATI</g:model>
+      <g:year>2022</g:year>
+      <g:date_first_registered>2022-03</g:date_first_registered>
+      <g:mileage>87000 km</g:mileage>
+      <g:body_style>suv</g:body_style>
+      <g:fuel_type>diesel</g:fuel_type>
+      <g:transmission>manual</g:transmission>
+      <g:color>Bianco</g:color>
       <g:item_group_id>fiat</g:item_group_id>
     </item>
     <item>

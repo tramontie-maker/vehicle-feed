@@ -4,7 +4,32 @@
     <title>Auto Occasioni Milano</title>
     <link>https://www.autoccasionimilano.it</link>
     <description>Feed auto usate — Auto Occasioni Milano</description>
-    <lastBuildDate>Thu, 11 Jun 2026 02:08:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 05:27:25 +0000</lastBuildDate>
+    <item>
+      <id>39759</id>
+      <title>Jeep Renegade UNICO PROPRIETARIO – SERVICE CASA MADRE</title>
+      <link>https://www.autoccasionimilano.it/auto-usate-milano/jeep-renegade-unico-proprietario-service-casa-madre/</link>
+      <description>Jeep Jeep Renegade UNICO PROPRIETARIO – SERVICE CASA MADRE — Auto usata certificata. Garanzia 12 mesi inclusa. Benzina, Manuale.</description>
+      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/06/www.autoccasionimilano.it - jeep-renegade-unico-proprietario-service-casa-madre-2.jpg</image_link>
+      <price>14390 EUR</price>
+      <availability>in stock</availability>
+      <condition>used</condition>
+      <auto:make>Jeep</auto:make>
+      <auto:model>Renegade UNICO PROPRIETARIO – SERVICE CASA MADRE</auto:model>
+      <auto:year>2022</auto:year>
+      <auto:body_style>SUV</auto:body_style>
+      <auto:fuel_type>Benzina</auto:fuel_type>
+      <auto:transmission>Manuale</auto:transmission>
+      <auto:drivetrain>Trazione Anteriore</auto:drivetrain>
+      <auto:color>Rosso</auto:color>
+      <auto:state_of_vehicle>used</auto:state_of_vehicle>
+      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
+      <auto:dealer_phone>+390248954311</auto:dealer_phone>
+      <auto:mileage>
+        <auto:value>51000</auto:value>
+        <auto:unit>KM</auto:unit>
+      </auto:mileage>
+    </item>
     <item>
       <id>39702</id>
       <title>MINI Cooper D Clubman NAVIGATORE – AUTOMATICA</title>
@@ -77,6 +102,31 @@
       <auto:dealer_phone>+390248954311</auto:dealer_phone>
       <auto:mileage>
         <auto:value>24000</auto:value>
+        <auto:unit>KM</auto:unit>
+      </auto:mileage>
+    </item>
+    <item>
+      <id>39569</id>
+      <title>Fiat 500X UNICO PROPRIETARIO – NEOPATENTATI</title>
+      <link>https://www.autoccasionimilano.it/auto-usate-milano/fiat-500x-unico-proprietario-neopatentati/</link>
+      <description>Fiat Fiat 500X UNICO PROPRIETARIO – NEOPATENTATI — Auto usata certificata. Garanzia 12 mesi inclusa. Diesel, Manuale.</description>
+      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/06/www.autoccasionimilano.it - fiat-500x-unico-proprietario-neopatentati-2.jpg</image_link>
+      <price>10990 EUR</price>
+      <availability>in stock</availability>
+      <condition>used</condition>
+      <auto:make>Fiat</auto:make>
+      <auto:model>500X UNICO PROPRIETARIO – NEOPATENTATI</auto:model>
+      <auto:year>2022</auto:year>
+      <auto:body_style>SUV</auto:body_style>
+      <auto:fuel_type>Diesel</auto:fuel_type>
+      <auto:transmission>Manuale</auto:transmission>
+      <auto:drivetrain>Trazione Anteriore</auto:drivetrain>
+      <auto:color>Bianco</auto:color>
+      <auto:state_of_vehicle>used</auto:state_of_vehicle>
+      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
+      <auto:dealer_phone>+390248954311</auto:dealer_phone>
+      <auto:mileage>
+        <auto:value>87000</auto:value>
         <auto:unit>KM</auto:unit>
       </auto:mileage>
     </item>
