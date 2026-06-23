@@ -4,7 +4,57 @@
     <title>Auto Occasioni Milano</title>
     <link>https://www.autoccasionimilano.it</link>
     <description>Feed auto usate — Auto Occasioni Milano</description>
-    <lastBuildDate>Thu, 18 Jun 2026 02:40:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 02:25:57 +0000</lastBuildDate>
+    <item>
+      <id>40018</id>
+      <title>Toyota Aygo X UNICO PROPRIETARIO – NEOPATENTATI</title>
+      <link>https://www.autoccasionimilano.it/auto-usate-milano/toyota-aygo-x-unico-proprietario-neopatentati/</link>
+      <description>Abarth Toyota Aygo X UNICO PROPRIETARIO – NEOPATENTATI — Auto usata certificata. Garanzia 12 mesi inclusa. Elettrica / Benzina, Automatico.</description>
+      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/06/www.autoccasionimilano.it - toyota-aygo-x-unico-proprietario-neopatentati-2.jpg</image_link>
+      <price>17750 EUR</price>
+      <availability>in stock</availability>
+      <condition>used</condition>
+      <auto:make>Abarth</auto:make>
+      <auto:model>Toyota Aygo X UNICO PROPRIETARIO – NEOPATENTATI</auto:model>
+      <auto:year>2026</auto:year>
+      <auto:body_style>City Car</auto:body_style>
+      <auto:fuel_type>Elettrica / Benzina</auto:fuel_type>
+      <auto:transmission>Automatico</auto:transmission>
+      <auto:drivetrain>Trazione Anteriore</auto:drivetrain>
+      <auto:color>Grigio</auto:color>
+      <auto:state_of_vehicle>used</auto:state_of_vehicle>
+      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
+      <auto:dealer_phone>+390248954311</auto:dealer_phone>
+      <auto:mileage>
+        <auto:value>120000</auto:value>
+        <auto:unit>KM</auto:unit>
+      </auto:mileage>
+    </item>
+    <item>
+      <id>39975</id>
+      <title>Mercedes-Benz GLA 180 UNICO PROPRIETARIO – SERVICE COMPLETO</title>
+      <link>https://www.autoccasionimilano.it/auto-usate-milano/mercedes-benz-gla-180-unico-proprietario-service-completo/</link>
+      <description>Mercedes-Benz Mercedes-Benz GLA 180 UNICO PROPRIETARIO – SERVICE COMPLETO — Auto usata certificata. Garanzia 12 mesi inclusa. Diesel, Automatico.</description>
+      <image_link />
+      <price>24650 EUR</price>
+      <availability>in stock</availability>
+      <condition>used</condition>
+      <auto:make>Mercedes-Benz</auto:make>
+      <auto:model>GLA 180 UNICO PROPRIETARIO – SERVICE COMPLETO</auto:model>
+      <auto:year>2022</auto:year>
+      <auto:body_style>SUV</auto:body_style>
+      <auto:fuel_type>Diesel</auto:fuel_type>
+      <auto:transmission>Automatico</auto:transmission>
+      <auto:drivetrain>Trazione Anteriore</auto:drivetrain>
+      <auto:color>Nero</auto:color>
+      <auto:state_of_vehicle>used</auto:state_of_vehicle>
+      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
+      <auto:dealer_phone>+390248954311</auto:dealer_phone>
+      <auto:mileage>
+        <auto:value>120000</auto:value>
+        <auto:unit>KM</auto:unit>
+      </auto:mileage>
+    </item>
     <item>
       <id>39934</id>
       <title>Peugeot 308 UNICO PROPRIETARIO – AUTOMATICA – NEOPATENTATI</title>
