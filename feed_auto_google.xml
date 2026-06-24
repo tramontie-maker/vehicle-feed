@@ -4,7 +4,65 @@
     <title>Auto Occasioni Milano</title>
     <link>https://www.autoccasionimilano.it</link>
     <description>Feed auto usate — Auto Occasioni Milano</description>
-    <lastBuildDate>Tue, 23 Jun 2026 02:25:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 02:27:19 +0000</lastBuildDate>
+    <item>
+      <title>Renault Clio UNICO PROPRIETARIO – SERVICE COMPLETO</title>
+      <link>https://www.autoccasionimilano.it/auto-usate-milano/renault-clio-unico-proprietario-service-completo/</link>
+      <description>Renault Renault Clio UNICO PROPRIETARIO – SERVICE COMPLETO — Auto usata certificata. Garanzia 12 mesi inclusa. Benzina, Manuale.</description>
+      <g:id>40102</g:id>
+      <g:store_code>12756304075837814277</g:store_code>
+      <g:link_template>https://www.autoccasionimilano.it/auto-usate-milano/renault-clio-unico-proprietario-service-completo/?store={store_code}&amp;utm_source=google&amp;utm_medium=vehicle_ads</g:link_template>
+      <g:condition>used</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:vehicle_fulfillment>
+        <g:option>in_store</g:option>
+        <g:store_code>12756304075837814277</g:store_code>
+      </g:vehicle_fulfillment>
+      <g:google_product_category>916</g:google_product_category>
+      <g:image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/06/www.autoccasionimilano.it - renault-clio-unico-proprietario-service-completo-2.jpg</g:image_link>
+      <g:price>11790.00 EUR</g:price>
+      <g:sale_price>11790.00 EUR</g:sale_price>
+      <g:brand>Renault</g:brand>
+      <g:make>Renault</g:make>
+      <g:model>Clio UNICO PROPRIETARIO – SERVICE COMPLETO</g:model>
+      <g:year>2023</g:year>
+      <g:date_first_registered>2023-09</g:date_first_registered>
+      <g:mileage>91000 km</g:mileage>
+      <g:body_style>sedan</g:body_style>
+      <g:fuel_type>gasoline</g:fuel_type>
+      <g:transmission>manual</g:transmission>
+      <g:color>Grigio</g:color>
+      <g:item_group_id>renault</g:item_group_id>
+    </item>
+    <item>
+      <title>Peugeot 206 NEOPATENTATI – BENZINA – 5 PORTE</title>
+      <link>https://www.autoccasionimilano.it/auto-usate-milano/peugeot-206-neopatentati-benzina-5-porte/</link>
+      <description>Peugeot Peugeot 206 NEOPATENTATI – BENZINA – 5 PORTE — Auto usata certificata. Garanzia 12 mesi inclusa. Benzina, Manuale.</description>
+      <g:id>40061</g:id>
+      <g:store_code>12756304075837814277</g:store_code>
+      <g:link_template>https://www.autoccasionimilano.it/auto-usate-milano/peugeot-206-neopatentati-benzina-5-porte/?store={store_code}&amp;utm_source=google&amp;utm_medium=vehicle_ads</g:link_template>
+      <g:condition>used</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:vehicle_fulfillment>
+        <g:option>in_store</g:option>
+        <g:store_code>12756304075837814277</g:store_code>
+      </g:vehicle_fulfillment>
+      <g:google_product_category>916</g:google_product_category>
+      <g:image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/06/www.autoccasionimilano.it - peugeot-206-neopatentati-benzina-5-porte-2.jpg</g:image_link>
+      <g:price>2890.00 EUR</g:price>
+      <g:sale_price>2890.00 EUR</g:sale_price>
+      <g:brand>Peugeot</g:brand>
+      <g:make>Peugeot</g:make>
+      <g:model>206 NEOPATENTATI – BENZINA – 5 PORTE</g:model>
+      <g:year>2006</g:year>
+      <g:date_first_registered>2006-04</g:date_first_registered>
+      <g:mileage>77000 km</g:mileage>
+      <g:body_style>sedan</g:body_style>
+      <g:fuel_type>gasoline</g:fuel_type>
+      <g:transmission>manual</g:transmission>
+      <g:color>Grigio</g:color>
+      <g:item_group_id>peugeot</g:item_group_id>
+    </item>
     <item>
       <title>Toyota Aygo X UNICO PROPRIETARIO – NEOPATENTATI</title>
       <link>https://www.autoccasionimilano.it/auto-usate-milano/toyota-aygo-x-unico-proprietario-neopatentati/</link>
@@ -27,7 +85,7 @@
       <g:model>Toyota Aygo X UNICO PROPRIETARIO – NEOPATENTATI</g:model>
       <g:year>2026</g:year>
       <g:date_first_registered>2026-01</g:date_first_registered>
-      <g:mileage>120000 km</g:mileage>
+      <g:mileage>14000 km</g:mileage>
       <g:body_style>city_car</g:body_style>
       <g:fuel_type>hybrid</g:fuel_type>
       <g:transmission>automatic</g:transmission>
