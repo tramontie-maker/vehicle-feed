@@ -4,7 +4,57 @@
     <title>Auto Occasioni Milano</title>
     <link>https://www.autoccasionimilano.it</link>
     <description>Feed auto usate — Auto Occasioni Milano</description>
-    <lastBuildDate>Wed, 24 Jun 2026 02:27:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 02:50:45 +0000</lastBuildDate>
+    <item>
+      <id>40185</id>
+      <title>BMW X1 EURO 6 – NAVIGATORE</title>
+      <link>https://www.autoccasionimilano.it/auto-usate-milano/bmw-x1-euro-6-navigatore/</link>
+      <description>Bmw BMW X1 EURO 6 – NAVIGATORE — Auto usata certificata. Garanzia 12 mesi inclusa. Diesel, Manuale.</description>
+      <image_link />
+      <price>14390 EUR</price>
+      <availability>in stock</availability>
+      <condition>used</condition>
+      <auto:make>Bmw</auto:make>
+      <auto:model>BMW X1 EURO 6 – NAVIGATORE</auto:model>
+      <auto:year>2019</auto:year>
+      <auto:body_style>SUV</auto:body_style>
+      <auto:fuel_type>Diesel</auto:fuel_type>
+      <auto:transmission>Manuale</auto:transmission>
+      <auto:drivetrain>Trazione Anteriore</auto:drivetrain>
+      <auto:color>Grigio</auto:color>
+      <auto:state_of_vehicle>used</auto:state_of_vehicle>
+      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
+      <auto:dealer_phone>+390248954311</auto:dealer_phone>
+      <auto:mileage>
+        <auto:value>90000</auto:value>
+        <auto:unit>KM</auto:unit>
+      </auto:mileage>
+    </item>
+    <item>
+      <id>40146</id>
+      <title>Toyota C-HR UNICO PROPRIETARIO – SERVICE COMPLETO</title>
+      <link>https://www.autoccasionimilano.it/auto-usate-milano/toyota-c-hr-unico-proprietario-service-completo/</link>
+      <description>Toyota Toyota C-HR UNICO PROPRIETARIO – SERVICE COMPLETO — Auto usata certificata. Garanzia 12 mesi inclusa. Elettrica / Benzina, Automatico.</description>
+      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/06/www.autoccasionimilano.it - toyota-c-hr-unico-proprietario-service-completo-2.jpg</image_link>
+      <price>15690 EUR</price>
+      <availability>in stock</availability>
+      <condition>used</condition>
+      <auto:make>Toyota</auto:make>
+      <auto:model>C-HR UNICO PROPRIETARIO – SERVICE COMPLETO</auto:model>
+      <auto:year>2020</auto:year>
+      <auto:body_style>Berlina</auto:body_style>
+      <auto:fuel_type>Elettrica / Benzina</auto:fuel_type>
+      <auto:transmission>Automatico</auto:transmission>
+      <auto:drivetrain>Trazione Posteriore</auto:drivetrain>
+      <auto:color>Grigio</auto:color>
+      <auto:state_of_vehicle>used</auto:state_of_vehicle>
+      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
+      <auto:dealer_phone>+390248954311</auto:dealer_phone>
+      <auto:mileage>
+        <auto:value>90770</auto:value>
+        <auto:unit>KM</auto:unit>
+      </auto:mileage>
+    </item>
     <item>
       <id>40102</id>
       <title>Renault Clio UNICO PROPRIETARIO – SERVICE COMPLETO</title>
@@ -26,7 +76,7 @@
       <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
       <auto:dealer_phone>+390248954311</auto:dealer_phone>
       <auto:mileage>
-        <auto:value>91000</auto:value>
+        <auto:value>14000</auto:value>
         <auto:unit>KM</auto:unit>
       </auto:mileage>
     </item>
@@ -76,7 +126,7 @@
       <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
       <auto:dealer_phone>+390248954311</auto:dealer_phone>
       <auto:mileage>
-        <auto:value>14000</auto:value>
+        <auto:value>90000</auto:value>
         <auto:unit>KM</auto:unit>
       </auto:mileage>
     </item>
@@ -85,7 +135,7 @@
       <title>Mercedes-Benz GLA 180 UNICO PROPRIETARIO – SERVICE COMPLETO</title>
       <link>https://www.autoccasionimilano.it/auto-usate-milano/mercedes-benz-gla-180-unico-proprietario-service-completo/</link>
       <description>Mercedes-Benz Mercedes-Benz GLA 180 UNICO PROPRIETARIO – SERVICE COMPLETO — Auto usata certificata. Garanzia 12 mesi inclusa. Diesel, Automatico.</description>
-      <image_link />
+      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/06/www.autoccasionimilano.it - mercedes-benz-gla-180-unico-proprietario-service-completo-2.jpg</image_link>
       <price>24650 EUR</price>
       <availability>in stock</availability>
       <condition>used</condition>
@@ -181,31 +231,6 @@
       </auto:mileage>
     </item>
     <item>
-      <id>39797</id>
-      <title>Fiat 500C UNICO PROPRIETARIO – DISTRIBUZIONE ESEGUITA</title>
-      <link>https://www.autoccasionimilano.it/auto-usate-milano/fiat-500c-unico-proprietario-distribuzione-eseguita/</link>
-      <description>Fiat Fiat 500C UNICO PROPRIETARIO – DISTRIBUZIONE ESEGUITA — Auto usata certificata. Garanzia 12 mesi inclusa. Benzina, Manuale.</description>
-      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/06/www.autoccasionimilano.it - fiat-500c-unico-proprietario-distribuzione-eseguita-2.jpg</image_link>
-      <price>6490 EUR</price>
-      <availability>in stock</availability>
-      <condition>used</condition>
-      <auto:make>Fiat</auto:make>
-      <auto:model>500C UNICO PROPRIETARIO – DISTRIBUZIONE ESEGUITA</auto:model>
-      <auto:year>2011</auto:year>
-      <auto:body_style>City Car</auto:body_style>
-      <auto:fuel_type>Benzina</auto:fuel_type>
-      <auto:transmission>Manuale</auto:transmission>
-      <auto:drivetrain>Trazione Anteriore</auto:drivetrain>
-      <auto:color>Bianco</auto:color>
-      <auto:state_of_vehicle>used</auto:state_of_vehicle>
-      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
-      <auto:dealer_phone>+390248954311</auto:dealer_phone>
-      <auto:mileage>
-        <auto:value>88000</auto:value>
-        <auto:unit>KM</auto:unit>
-      </auto:mileage>
-    </item>
-    <item>
       <id>39759</id>
       <title>Jeep Renegade UNICO PROPRIETARIO – SERVICE CASA MADRE</title>
       <link>https://www.autoccasionimilano.it/auto-usate-milano/jeep-renegade-unico-proprietario-service-casa-madre/</link>
@@ -281,31 +306,6 @@
       </auto:mileage>
     </item>
     <item>
-      <id>39614</id>
-      <title>Fiat Panda NEOPATENTATI – AREA B MILANO</title>
-      <link>https://www.autoccasionimilano.it/auto-usate-milano/fiat-panda-neopatentati-area-b-milano/</link>
-      <description>Fiat Fiat Panda NEOPATENTATI – AREA B MILANO — Auto usata certificata. Garanzia 12 mesi inclusa. Elettrica / Benzina, Manuale.</description>
-      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/06/www.autoccasionimilano.it - fiat-panda-neopatentati-area-b-milano-2.jpg</image_link>
-      <price>8990 EUR</price>
-      <availability>in stock</availability>
-      <condition>used</condition>
-      <auto:make>Fiat</auto:make>
-      <auto:model>Panda NEOPATENTATI – AREA B MILANO</auto:model>
-      <auto:year>2022</auto:year>
-      <auto:body_style>City Car</auto:body_style>
-      <auto:fuel_type>Elettrica / Benzina</auto:fuel_type>
-      <auto:transmission>Manuale</auto:transmission>
-      <auto:drivetrain>Trazione Anteriore</auto:drivetrain>
-      <auto:color>Blue</auto:color>
-      <auto:state_of_vehicle>used</auto:state_of_vehicle>
-      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
-      <auto:dealer_phone>+390248954311</auto:dealer_phone>
-      <auto:mileage>
-        <auto:value>24000</auto:value>
-        <auto:unit>KM</auto:unit>
-      </auto:mileage>
-    </item>
-    <item>
       <id>39569</id>
       <title>Fiat 500X UNICO PROPRIETARIO – NEOPATENTATI</title>
       <link>https://www.autoccasionimilano.it/auto-usate-milano/fiat-500x-unico-proprietario-neopatentati/</link>
@@ -356,56 +356,6 @@
       </auto:mileage>
     </item>
     <item>
-      <id>39456</id>
-      <title>Toyota C-HR UNICO PROPRIETARIO – SERVICE CASA MADRE</title>
-      <link>https://www.autoccasionimilano.it/auto-usate-milano/toyota-c-hr-unico-proprietario-service-casa-madre/</link>
-      <description>Toyota Toyota C-HR UNICO PROPRIETARIO – SERVICE CASA MADRE — Auto usata certificata. Garanzia 12 mesi inclusa. Elettrica / Benzina, Automatico.</description>
-      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/06/www.autoccasionimilano.it - toyota-c-hr-unico-proprietario-service-casa-madre-2.jpg</image_link>
-      <price>13490 EUR</price>
-      <availability>in stock</availability>
-      <condition>used</condition>
-      <auto:make>Toyota</auto:make>
-      <auto:model>C-HR UNICO PROPRIETARIO – SERVICE CASA MADRE</auto:model>
-      <auto:year>2018</auto:year>
-      <auto:body_style>Berlina</auto:body_style>
-      <auto:fuel_type>Elettrica / Benzina</auto:fuel_type>
-      <auto:transmission>Automatico</auto:transmission>
-      <auto:drivetrain>Trazione Anteriore</auto:drivetrain>
-      <auto:color>Grigio</auto:color>
-      <auto:state_of_vehicle>used</auto:state_of_vehicle>
-      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
-      <auto:dealer_phone>+390248954311</auto:dealer_phone>
-      <auto:mileage>
-        <auto:value>108000</auto:value>
-        <auto:unit>KM</auto:unit>
-      </auto:mileage>
-    </item>
-    <item>
-      <id>39303</id>
-      <title>BMW 325 TETTO APRIBILE – ANDROID</title>
-      <link>https://www.autoccasionimilano.it/auto-usate-milano/bmw-325-tetto-apribile-android/</link>
-      <description>Bmw BMW 325 TETTO APRIBILE – ANDROID — Auto usata certificata. Garanzia 12 mesi inclusa. Benzina, Manuale.</description>
-      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/05/www.autoccasionimilano.it - bmw-325-tetto-apribile-android-2.jpg</image_link>
-      <price>7490 EUR</price>
-      <availability>in stock</availability>
-      <condition>used</condition>
-      <auto:make>Bmw</auto:make>
-      <auto:model>BMW 325 TETTO APRIBILE – ANDROID</auto:model>
-      <auto:year>2007</auto:year>
-      <auto:body_style>Coupe</auto:body_style>
-      <auto:fuel_type>Benzina</auto:fuel_type>
-      <auto:transmission>Manuale</auto:transmission>
-      <auto:drivetrain>Trazione Posteriore</auto:drivetrain>
-      <auto:color>Grigio</auto:color>
-      <auto:state_of_vehicle>used</auto:state_of_vehicle>
-      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
-      <auto:dealer_phone>+390248954311</auto:dealer_phone>
-      <auto:mileage>
-        <auto:value>196000</auto:value>
-        <auto:unit>KM</auto:unit>
-      </auto:mileage>
-    </item>
-    <item>
       <id>39164</id>
       <title>Fiat Idea NEOPATENTATI – FRIZIONE NUOVA</title>
       <link>https://www.autoccasionimilano.it/auto-usate-milano/fiat-idea-neopatentati-frizione-nuova/</link>
@@ -431,31 +381,6 @@
       </auto:mileage>
     </item>
     <item>
-      <id>39115</id>
-      <title>Fiat Freemont UNICO PROPRIETARIO – 7 POSTI</title>
-      <link>https://www.autoccasionimilano.it/auto-usate-milano/fiat-freemont-unico-proprietario-7-posti/</link>
-      <description>Fiat Fiat Freemont UNICO PROPRIETARIO – 7 POSTI — Auto usata certificata. Garanzia 12 mesi inclusa. Diesel, Manuale.</description>
-      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/05/www.autoccasionimilano.it - fiat-freemont-unico-proprietario-7-posti-2.jpg</image_link>
-      <price>6680 EUR</price>
-      <availability>in stock</availability>
-      <condition>used</condition>
-      <auto:make>Fiat</auto:make>
-      <auto:model>Freemont UNICO PROPRIETARIO – 7 POSTI</auto:model>
-      <auto:year>2012</auto:year>
-      <auto:body_style>SUV</auto:body_style>
-      <auto:fuel_type>Diesel</auto:fuel_type>
-      <auto:transmission>Manuale</auto:transmission>
-      <auto:drivetrain>Trazione Anteriore</auto:drivetrain>
-      <auto:color>Blue</auto:color>
-      <auto:state_of_vehicle>used</auto:state_of_vehicle>
-      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
-      <auto:dealer_phone>+390248954311</auto:dealer_phone>
-      <auto:mileage>
-        <auto:value>124000</auto:value>
-        <auto:unit>KM</auto:unit>
-      </auto:mileage>
-    </item>
-    <item>
       <id>39077</id>
       <title>Audi Q5 QUATTRO – NAVIGATORE – EURO 5</title>
       <link>https://www.autoccasionimilano.it/auto-usate-milano/audi-q5-quattro-navigatore-euro-5/</link>
@@ -477,31 +402,6 @@
       <auto:dealer_phone>+390248954311</auto:dealer_phone>
       <auto:mileage>
         <auto:value>194000</auto:value>
-        <auto:unit>KM</auto:unit>
-      </auto:mileage>
-    </item>
-    <item>
-      <id>38961</id>
-      <title>BMW 318 TOURING – AUTOMATICO – EURO 6</title>
-      <link>https://www.autoccasionimilano.it/auto-usate-milano/bmw-318-touring-automatico-euro-6/</link>
-      <description>Bmw BMW 318 TOURING – AUTOMATICO – EURO 6 — Auto usata certificata. Garanzia 12 mesi inclusa. Diesel, Automatico.</description>
-      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/05/www.autoccasionimilano.it - bmw-318-touring-automatico-euro-6-1.jpg</image_link>
-      <price>17890 EUR</price>
-      <availability>in stock</availability>
-      <condition>used</condition>
-      <auto:make>Bmw</auto:make>
-      <auto:model>BMW 318 TOURING – AUTOMATICO – EURO 6</auto:model>
-      <auto:year>2020</auto:year>
-      <auto:body_style>Station Wagon</auto:body_style>
-      <auto:fuel_type>Diesel</auto:fuel_type>
-      <auto:transmission>Automatico</auto:transmission>
-      <auto:drivetrain>Trazione Posteriore</auto:drivetrain>
-      <auto:color>Blue</auto:color>
-      <auto:state_of_vehicle>used</auto:state_of_vehicle>
-      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
-      <auto:dealer_phone>+390248954311</auto:dealer_phone>
-      <auto:mileage>
-        <auto:value>106000</auto:value>
         <auto:unit>KM</auto:unit>
       </auto:mileage>
     </item>
@@ -602,31 +502,6 @@
       <auto:dealer_phone>+390248954311</auto:dealer_phone>
       <auto:mileage>
         <auto:value>107000</auto:value>
-        <auto:unit>KM</auto:unit>
-      </auto:mileage>
-    </item>
-    <item>
-      <id>38088</id>
-      <title>BMW 118 SERVICE COMPLETO – AUTOMATICO</title>
-      <link>https://www.autoccasionimilano.it/auto-usate-milano/bmw-118-service-completo-automatico/</link>
-      <description>Bmw BMW 118 SERVICE COMPLETO – AUTOMATICO — Auto usata certificata. Garanzia 12 mesi inclusa. Diesel, Automatico.</description>
-      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/04/www.autoccasionimilano.it - bmw-118-service-completo-automatico-2.jpg</image_link>
-      <price>6790 EUR</price>
-      <availability>in stock</availability>
-      <condition>used</condition>
-      <auto:make>Bmw</auto:make>
-      <auto:model>BMW 118 SERVICE COMPLETO – AUTOMATICO</auto:model>
-      <auto:year>2011</auto:year>
-      <auto:body_style>Berlina</auto:body_style>
-      <auto:fuel_type>Diesel</auto:fuel_type>
-      <auto:transmission>Automatico</auto:transmission>
-      <auto:drivetrain>Trazione Posteriore</auto:drivetrain>
-      <auto:color>Grigio</auto:color>
-      <auto:state_of_vehicle>used</auto:state_of_vehicle>
-      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
-      <auto:dealer_phone>+390248954311</auto:dealer_phone>
-      <auto:mileage>
-        <auto:value>148000</auto:value>
         <auto:unit>KM</auto:unit>
       </auto:mileage>
     </item>
@@ -752,56 +627,6 @@
       <auto:dealer_phone>+390248954311</auto:dealer_phone>
       <auto:mileage>
         <auto:value>169000</auto:value>
-        <auto:unit>KM</auto:unit>
-      </auto:mileage>
-    </item>
-    <item>
-      <id>37033</id>
-      <title>Mazda CX-5 TAGLIANDI MAZDA – GANCIO TRAINO</title>
-      <link>https://www.autoccasionimilano.it/auto-usate-milano/mazda-cx-5-tagliandi-mazda-gancio-traino/</link>
-      <description>Mazda Mazda CX-5 TAGLIANDI MAZDA – GANCIO TRAINO — Auto usata certificata. Garanzia 12 mesi inclusa. Diesel, Automatico.</description>
-      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/03/www.autoccasionimilano.it - mazda-cx-5-tagliandi-mazda-gancio-traino-47.jpg</image_link>
-      <price>7290 EUR</price>
-      <availability>in stock</availability>
-      <condition>used</condition>
-      <auto:make>Mazda</auto:make>
-      <auto:model>CX-5 TAGLIANDI MAZDA – GANCIO TRAINO</auto:model>
-      <auto:year>2013</auto:year>
-      <auto:body_style>SUV</auto:body_style>
-      <auto:fuel_type>Diesel</auto:fuel_type>
-      <auto:transmission>Automatico</auto:transmission>
-      <auto:drivetrain>Trazione Anteriore</auto:drivetrain>
-      <auto:color>Grigio</auto:color>
-      <auto:state_of_vehicle>used</auto:state_of_vehicle>
-      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
-      <auto:dealer_phone>+390248954311</auto:dealer_phone>
-      <auto:mileage>
-        <auto:value>167000</auto:value>
-        <auto:unit>KM</auto:unit>
-      </auto:mileage>
-    </item>
-    <item>
-      <id>35937</id>
-      <title>Renault Clio UNICO PROPRIETARIO – NEOPATENTATI</title>
-      <link>https://www.autoccasionimilano.it/auto-usate-milano/renault-clio-unico-proprietario-neopatentati-2/</link>
-      <description>Renault Renault Clio UNICO PROPRIETARIO – NEOPATENTATI — Auto usata certificata. Garanzia 12 mesi inclusa. Gpl, Manuale.</description>
-      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/02/renault-clio-unico-proprietario-neopatentati-2-renault-clio-2023-gpl-unico-proprietario-neopatentati.jpg</image_link>
-      <price>10740 EUR</price>
-      <availability>in stock</availability>
-      <condition>used</condition>
-      <auto:make>Renault</auto:make>
-      <auto:model>Clio UNICO PROPRIETARIO – NEOPATENTATI</auto:model>
-      <auto:year>2023</auto:year>
-      <auto:body_style>Berlina</auto:body_style>
-      <auto:fuel_type>Gpl</auto:fuel_type>
-      <auto:transmission>Manuale</auto:transmission>
-      <auto:drivetrain>Trazione Anteriore</auto:drivetrain>
-      <auto:color />
-      <auto:state_of_vehicle>used</auto:state_of_vehicle>
-      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
-      <auto:dealer_phone>+390248954311</auto:dealer_phone>
-      <auto:mileage>
-        <auto:value>116000</auto:value>
         <auto:unit>KM</auto:unit>
       </auto:mileage>
     </item>
