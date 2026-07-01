@@ -4,13 +4,63 @@
     <title>Auto Occasioni Milano</title>
     <link>https://www.autoccasionimilano.it</link>
     <description>Feed auto usate — Auto Occasioni Milano</description>
-    <lastBuildDate>Thu, 25 Jun 2026 02:50:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 02:17:39 +0000</lastBuildDate>
+    <item>
+      <id>40306</id>
+      <title>Fiat 500 UNICO PROPRIETARIO – TETTO PANORAMICO</title>
+      <link>https://www.autoccasionimilano.it/auto-usate-milano/fiat-500-unico-proprietario-tetto-panoramico/</link>
+      <description>Fiat Fiat 500 UNICO PROPRIETARIO – TETTO PANORAMICO — Auto usata certificata. Garanzia 12 mesi inclusa. Benzina, Manuale.</description>
+      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/06/www.autoccasionimilano.it - fiat-500-unico-proprietario-tetto-panoramico-2.jpg</image_link>
+      <price>5990 EUR</price>
+      <availability>in stock</availability>
+      <condition>used</condition>
+      <auto:make>Fiat</auto:make>
+      <auto:model>500 UNICO PROPRIETARIO – TETTO PANORAMICO</auto:model>
+      <auto:year>2009</auto:year>
+      <auto:body_style>City Car</auto:body_style>
+      <auto:fuel_type>Benzina</auto:fuel_type>
+      <auto:transmission>Manuale</auto:transmission>
+      <auto:drivetrain>Trazione Anteriore</auto:drivetrain>
+      <auto:color>Rosso</auto:color>
+      <auto:state_of_vehicle>used</auto:state_of_vehicle>
+      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
+      <auto:dealer_phone>+390248954311</auto:dealer_phone>
+      <auto:mileage>
+        <auto:value>41000</auto:value>
+        <auto:unit>KM</auto:unit>
+      </auto:mileage>
+    </item>
+    <item>
+      <id>40258</id>
+      <title>Audi A1 AUTOMATICO – SERVICE COMPLETO</title>
+      <link>https://www.autoccasionimilano.it/auto-usate-milano/audi-a1-automatico-service-completo/</link>
+      <description>Audi Audi A1 AUTOMATICO – SERVICE COMPLETO — Auto usata certificata. Garanzia 12 mesi inclusa. Benzina, Automatico.</description>
+      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/06/www.autoccasionimilano.it - audi-a1-automatico-service-completo-2.jpg</image_link>
+      <price>19990 EUR</price>
+      <availability>in stock</availability>
+      <condition>used</condition>
+      <auto:make>Audi</auto:make>
+      <auto:model>A1 AUTOMATICO – SERVICE COMPLETO</auto:model>
+      <auto:year>2020</auto:year>
+      <auto:body_style>Berlina</auto:body_style>
+      <auto:fuel_type>Benzina</auto:fuel_type>
+      <auto:transmission>Automatico</auto:transmission>
+      <auto:drivetrain>Trazione Anteriore</auto:drivetrain>
+      <auto:color>Blue</auto:color>
+      <auto:state_of_vehicle>used</auto:state_of_vehicle>
+      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
+      <auto:dealer_phone>+390248954311</auto:dealer_phone>
+      <auto:mileage>
+        <auto:value>59000</auto:value>
+        <auto:unit>KM</auto:unit>
+      </auto:mileage>
+    </item>
     <item>
       <id>40185</id>
       <title>BMW X1 EURO 6 – NAVIGATORE</title>
       <link>https://www.autoccasionimilano.it/auto-usate-milano/bmw-x1-euro-6-navigatore/</link>
       <description>Bmw BMW X1 EURO 6 – NAVIGATORE — Auto usata certificata. Garanzia 12 mesi inclusa. Diesel, Manuale.</description>
-      <image_link />
+      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/06/www.autoccasionimilano.it - bmw-x1-euro-6-navigatore-2.jpg</image_link>
       <price>14390 EUR</price>
       <availability>in stock</availability>
       <condition>used</condition>
@@ -81,31 +131,6 @@
       </auto:mileage>
     </item>
     <item>
-      <id>40061</id>
-      <title>Peugeot 206 NEOPATENTATI – BENZINA – 5 PORTE</title>
-      <link>https://www.autoccasionimilano.it/auto-usate-milano/peugeot-206-neopatentati-benzina-5-porte/</link>
-      <description>Peugeot Peugeot 206 NEOPATENTATI – BENZINA – 5 PORTE — Auto usata certificata. Garanzia 12 mesi inclusa. Benzina, Manuale.</description>
-      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/06/www.autoccasionimilano.it - peugeot-206-neopatentati-benzina-5-porte-2.jpg</image_link>
-      <price>2890 EUR</price>
-      <availability>in stock</availability>
-      <condition>used</condition>
-      <auto:make>Peugeot</auto:make>
-      <auto:model>206 NEOPATENTATI – BENZINA – 5 PORTE</auto:model>
-      <auto:year>2006</auto:year>
-      <auto:body_style>Berlina</auto:body_style>
-      <auto:fuel_type>Benzina</auto:fuel_type>
-      <auto:transmission>Manuale</auto:transmission>
-      <auto:drivetrain>Trazione Anteriore</auto:drivetrain>
-      <auto:color>Grigio</auto:color>
-      <auto:state_of_vehicle>used</auto:state_of_vehicle>
-      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
-      <auto:dealer_phone>+390248954311</auto:dealer_phone>
-      <auto:mileage>
-        <auto:value>77000</auto:value>
-        <auto:unit>KM</auto:unit>
-      </auto:mileage>
-    </item>
-    <item>
       <id>40018</id>
       <title>Toyota Aygo X UNICO PROPRIETARIO – NEOPATENTATI</title>
       <link>https://www.autoccasionimilano.it/auto-usate-milano/toyota-aygo-x-unico-proprietario-neopatentati/</link>
@@ -126,7 +151,7 @@
       <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
       <auto:dealer_phone>+390248954311</auto:dealer_phone>
       <auto:mileage>
-        <auto:value>90000</auto:value>
+        <auto:value>41000</auto:value>
         <auto:unit>KM</auto:unit>
       </auto:mileage>
     </item>
@@ -361,7 +386,7 @@
       <link>https://www.autoccasionimilano.it/auto-usate-milano/fiat-idea-neopatentati-frizione-nuova/</link>
       <description>Fiat Fiat Idea NEOPATENTATI – FRIZIONE NUOVA — Auto usata certificata. Garanzia 12 mesi inclusa. Benzina, Manuale.</description>
       <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/05/www.autoccasionimilano.it - fiat-idea-neopatentati-frizione-nuova-2.jpg</image_link>
-      <price>2250 EUR</price>
+      <price>1990 EUR</price>
       <availability>in stock</availability>
       <condition>used</condition>
       <auto:make>Fiat</auto:make>
@@ -457,15 +482,15 @@
     </item>
     <item>
       <id>38432</id>
-      <title>Mazda 6 UNICO PROPRIETARIO – SERVICE COMPLETO – GRANDINATA</title>
+      <title>Mazda 6 VERA OCCASIONE – UNICO PROPRIETARIO – SERVICE COMPLETO</title>
       <link>https://www.autoccasionimilano.it/auto-usate-milano/mazda-6-unico-proprietario-service-completo-grandinata/</link>
-      <description>Mazda Mazda 6 UNICO PROPRIETARIO – SERVICE COMPLETO – GRANDINATA — Auto usata certificata. Garanzia 12 mesi inclusa. Diesel, Automatico.</description>
+      <description>Mazda Mazda 6 VERA OCCASIONE – UNICO PROPRIETARIO – SERVICE COMPLETO — Auto usata certificata. Garanzia 12 mesi inclusa. Diesel, Automatico.</description>
       <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/05/www.autoccasionimilano.it - mazda-6-unico-proprietario-service-completo-grandinata-1.jpg</image_link>
-      <price>4190 EUR</price>
+      <price>3750 EUR</price>
       <availability>in stock</availability>
       <condition>used</condition>
       <auto:make>Mazda</auto:make>
-      <auto:model>6 UNICO PROPRIETARIO – SERVICE COMPLETO – GRANDINATA</auto:model>
+      <auto:model>6 VERA OCCASIONE – UNICO PROPRIETARIO – SERVICE COMPLETO</auto:model>
       <auto:year>2017</auto:year>
       <auto:body_style>Station Wagon</auto:body_style>
       <auto:fuel_type>Diesel</auto:fuel_type>
@@ -506,56 +531,6 @@
       </auto:mileage>
     </item>
     <item>
-      <id>37901</id>
-      <title>Volkswagen Taigo UNICO PROPRIETARIO – SERVICE COMPLETO</title>
-      <link>https://www.autoccasionimilano.it/auto-usate-milano/volkswagen-taigo-unico-proprietario-service-completo/</link>
-      <description>Volkswagen Volkswagen Taigo UNICO PROPRIETARIO – SERVICE COMPLETO — Auto usata certificata. Garanzia 12 mesi inclusa. Benzina, Automatico.</description>
-      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/04/www.autoccasionimilano.it - volkswagen-taigo-unico-proprietario-service-completo-1.jpg</image_link>
-      <price>17660 EUR</price>
-      <availability>in stock</availability>
-      <condition>used</condition>
-      <auto:make>Volkswagen</auto:make>
-      <auto:model>Taigo UNICO PROPRIETARIO – SERVICE COMPLETO</auto:model>
-      <auto:year>2024</auto:year>
-      <auto:body_style>SUV</auto:body_style>
-      <auto:fuel_type>Benzina</auto:fuel_type>
-      <auto:transmission>Automatico</auto:transmission>
-      <auto:drivetrain>Trazione Anteriore</auto:drivetrain>
-      <auto:color>Marrone / Beige</auto:color>
-      <auto:state_of_vehicle>used</auto:state_of_vehicle>
-      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
-      <auto:dealer_phone>+390248954311</auto:dealer_phone>
-      <auto:mileage>
-        <auto:value>49000</auto:value>
-        <auto:unit>KM</auto:unit>
-      </auto:mileage>
-    </item>
-    <item>
-      <id>37599</id>
-      <title>Subaru Forester 4X4 – FULL OPTIONAL</title>
-      <link>https://www.autoccasionimilano.it/auto-usate-milano/subaru-forester-4x4-full-optional/</link>
-      <description>Subaru Subaru Forester 4X4 – FULL OPTIONAL — Auto usata certificata. Garanzia 12 mesi inclusa. Diesel, Manuale.</description>
-      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/04/www.autoccasionimilano.it - subaru-forester-4x4-full-optional-1.jpg</image_link>
-      <price>9490 EUR</price>
-      <availability>in stock</availability>
-      <condition>used</condition>
-      <auto:make>Subaru</auto:make>
-      <auto:model>Forester 4X4 – FULL OPTIONAL</auto:model>
-      <auto:year>2013</auto:year>
-      <auto:body_style>SUV</auto:body_style>
-      <auto:fuel_type>Diesel</auto:fuel_type>
-      <auto:transmission>Manuale</auto:transmission>
-      <auto:drivetrain>Quattro ruote (AWD/4WD)</auto:drivetrain>
-      <auto:color>Blue</auto:color>
-      <auto:state_of_vehicle>used</auto:state_of_vehicle>
-      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
-      <auto:dealer_phone>+390248954311</auto:dealer_phone>
-      <auto:mileage>
-        <auto:value>114000</auto:value>
-        <auto:unit>KM</auto:unit>
-      </auto:mileage>
-    </item>
-    <item>
       <id>37398</id>
       <title>Citroen C1 UNICO PROPRIETARIO – NEOPATENTATI</title>
       <link>https://www.autoccasionimilano.it/auto-usate-milano/citroen-c1-unico-proprietario-neopatentati/</link>
@@ -586,7 +561,7 @@
       <link>https://www.autoccasionimilano.it/auto-usate-milano/opel-insignia-automatica-euro-6/</link>
       <description>Opel Opel Insignia AUTOMATICA – EURO 6 — Auto usata certificata. Garanzia 12 mesi inclusa. Diesel, Automatico.</description>
       <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/04/www.autoccasionimilano.it - bozza-automatica-1.jpg</image_link>
-      <price>10750 EUR</price>
+      <price>9490 EUR</price>
       <availability>in stock</availability>
       <condition>used</condition>
       <auto:make>Opel</auto:make>
@@ -606,41 +581,16 @@
       </auto:mileage>
     </item>
     <item>
-      <id>37276</id>
-      <title>Lancia Ypsilon UNICO PROPRIETARIO – NEOPATENTATI</title>
-      <link>https://www.autoccasionimilano.it/auto-usate-milano/lancia-ypsilon-unico-proprietario-neopatentati/</link>
-      <description>Lancia Lancia Ypsilon UNICO PROPRIETARIO – NEOPATENTATI — Auto usata certificata. Garanzia 12 mesi inclusa. Benzina, Manuale.</description>
-      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/03/www.autoccasionimilano.it - lancia-ypsilon-unico-proprietario-neopatentati-1.jpg</image_link>
-      <price>5990 EUR</price>
-      <availability>in stock</availability>
-      <condition>used</condition>
-      <auto:make>Lancia</auto:make>
-      <auto:model>Ypsilon UNICO PROPRIETARIO – NEOPATENTATI</auto:model>
-      <auto:year>2019</auto:year>
-      <auto:body_style>City Car</auto:body_style>
-      <auto:fuel_type>Benzina</auto:fuel_type>
-      <auto:transmission>Manuale</auto:transmission>
-      <auto:drivetrain>Trazione Anteriore</auto:drivetrain>
-      <auto:color>Rosso</auto:color>
-      <auto:state_of_vehicle>used</auto:state_of_vehicle>
-      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
-      <auto:dealer_phone>+390248954311</auto:dealer_phone>
-      <auto:mileage>
-        <auto:value>169000</auto:value>
-        <auto:unit>KM</auto:unit>
-      </auto:mileage>
-    </item>
-    <item>
       <id>33652</id>
-      <title>Fiat Sedici NEOPATENTATI – 4×2 – BASSI CONSUMI</title>
+      <title>Fiat Sedici NEOPATENTATI – BASSI CONSUMI</title>
       <link>https://www.autoccasionimilano.it/auto-usate-milano/fiat-sedici-neopatentati-4x2-bassi-consumi/</link>
-      <description>Fiat Fiat Sedici NEOPATENTATI – 4×2 – BASSI CONSUMI — Auto usata certificata. Garanzia 12 mesi inclusa. Diesel, Manuale.</description>
+      <description>Fiat Fiat Sedici NEOPATENTATI – BASSI CONSUMI — Auto usata certificata. Garanzia 12 mesi inclusa. Diesel, Manuale.</description>
       <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2025/11/fiat-sedici-neopatentati-42-bassi-consumi-2-fiat-sedici-2009-diesel-4x2-neopatentati-1.jpg</image_link>
-      <price>3750 EUR</price>
+      <price>2950 EUR</price>
       <availability>in stock</availability>
       <condition>used</condition>
       <auto:make>Fiat</auto:make>
-      <auto:model>Sedici NEOPATENTATI – 4×2 – BASSI CONSUMI</auto:model>
+      <auto:model>Sedici NEOPATENTATI – BASSI CONSUMI</auto:model>
       <auto:year>2009</auto:year>
       <auto:body_style>City Car</auto:body_style>
       <auto:fuel_type>Diesel</auto:fuel_type>
@@ -656,27 +606,27 @@
       </auto:mileage>
     </item>
     <item>
-      <id>33030</id>
-      <title>SEAT Ateca AUTOMATICO – UNICO PROPRIETARIO</title>
-      <link>https://www.autoccasionimilano.it/auto-usate-milano/seat-ateca-150e-al-mese-automatico-unico-proprietario/</link>
-      <description>Seat SEAT Ateca AUTOMATICO – UNICO PROPRIETARIO — Auto usata certificata. Garanzia 12 mesi inclusa. Diesel, Automatico.</description>
-      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2025/11/seat-ateca-150e-al-mese-automatico-unico-proprietario-seat-ateca-150e-al-mese-automatico-unico-proprietario-2-seat-ateca-2017-benzina-.jpg</image_link>
-      <price>12990 EUR</price>
+      <id>32906</id>
+      <title>Audi A4 TUA A PARTIRE DA 190€ AL MESE – UNICO PROPRIETARIO – TAGLIANDI CERTIFICATI – SENZA VINCOLO FINANZIARIO</title>
+      <link>https://www.autoccasionimilano.it/auto-usate-milano/audi-a4-unico-proprietario-tagliandi-certificati/</link>
+      <description>Audi Audi A4 TUA A PARTIRE DA 190€ AL MESE – UNICO PROPRIETARIO – TAGLIANDI CERTIFICATI – SENZA VINCOLO FINANZIARIO — Auto usata certificata. Garanzia 12 mesi inclusa. Elettrica / Diesel, Automatico.</description>
+      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2025/11/audi-a4-unico-proprietario-tagliandi-certificati-audi-a4-unico-proprietario-tagliandi-certificati-2-audi-a4-avant-2022-hybrida-di-1.jpg</image_link>
+      <price>16990 EUR</price>
       <availability>in stock</availability>
       <condition>used</condition>
-      <auto:make>Seat</auto:make>
-      <auto:model>SEAT Ateca AUTOMATICO – UNICO PROPRIETARIO</auto:model>
-      <auto:year>2017</auto:year>
-      <auto:body_style>SUV</auto:body_style>
-      <auto:fuel_type>Diesel</auto:fuel_type>
+      <auto:make>Audi</auto:make>
+      <auto:model>A4 TUA A PARTIRE DA 190€ AL MESE – UNICO PROPRIETARIO – TAGLIANDI CERTIFICATI – SENZA VINCOLO FINANZIARIO</auto:model>
+      <auto:year>2021</auto:year>
+      <auto:body_style>Station Wagon</auto:body_style>
+      <auto:fuel_type>Elettrica / Diesel</auto:fuel_type>
       <auto:transmission>Automatico</auto:transmission>
       <auto:drivetrain>Trazione Anteriore</auto:drivetrain>
-      <auto:color>Marrone / Beige</auto:color>
+      <auto:color>Nero</auto:color>
       <auto:state_of_vehicle>used</auto:state_of_vehicle>
       <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
       <auto:dealer_phone>+390248954311</auto:dealer_phone>
       <auto:mileage>
-        <auto:value>108000</auto:value>
+        <auto:value>122000</auto:value>
         <auto:unit>KM</auto:unit>
       </auto:mileage>
     </item>
