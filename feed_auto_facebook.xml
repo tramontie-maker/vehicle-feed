@@ -4,7 +4,57 @@
     <title>Auto Occasioni Milano</title>
     <link>https://www.autoccasionimilano.it</link>
     <description>Feed auto usate — Auto Occasioni Milano</description>
-    <lastBuildDate>Wed, 01 Jul 2026 02:17:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 02:28:18 +0000</lastBuildDate>
+    <item>
+      <id>40431</id>
+      <title>SEAT Leon DISTRIBUZIONE ESEGUITA – NAVIGATORE</title>
+      <link>https://www.autoccasionimilano.it/auto-usate-milano/seat-leon-distribuzione-eseguita-navigatore/</link>
+      <description>Seat SEAT Leon DISTRIBUZIONE ESEGUITA – NAVIGATORE — Auto usata certificata. Garanzia 12 mesi inclusa. Diesel, Manuale.</description>
+      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/07/www.autoccasionimilano.it - seat-leon-distribuzione-eseguita-navigatore-2.jpg</image_link>
+      <price>5790 EUR</price>
+      <availability>in stock</availability>
+      <condition>used</condition>
+      <auto:make>Seat</auto:make>
+      <auto:model>SEAT Leon DISTRIBUZIONE ESEGUITA – NAVIGATORE</auto:model>
+      <auto:year>2011</auto:year>
+      <auto:body_style>Berlina</auto:body_style>
+      <auto:fuel_type>Diesel</auto:fuel_type>
+      <auto:transmission>Manuale</auto:transmission>
+      <auto:drivetrain>Trazione Anteriore</auto:drivetrain>
+      <auto:color>Grigio</auto:color>
+      <auto:state_of_vehicle>used</auto:state_of_vehicle>
+      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
+      <auto:dealer_phone>+390248954311</auto:dealer_phone>
+      <auto:mileage>
+        <auto:value>104000</auto:value>
+        <auto:unit>KM</auto:unit>
+      </auto:mileage>
+    </item>
+    <item>
+      <id>40349</id>
+      <title>Nissan Qashqai UNICO PROPRIETARIO – TELECAMERA 360</title>
+      <link>https://www.autoccasionimilano.it/auto-usate-milano/nissan-qashqai-unico-proprietario-telecamera-360/</link>
+      <description>Nissan Nissan Qashqai UNICO PROPRIETARIO – TELECAMERA 360 — Auto usata certificata. Garanzia 12 mesi inclusa. Benzina, Manuale.</description>
+      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/07/www.autoccasionimilano.it - nissan-qashqai-unico-proprietario-telecamera-360-2.jpg</image_link>
+      <price>14990 EUR</price>
+      <availability>in stock</availability>
+      <condition>used</condition>
+      <auto:make>Nissan</auto:make>
+      <auto:model>Qashqai UNICO PROPRIETARIO – TELECAMERA 360</auto:model>
+      <auto:year>2019</auto:year>
+      <auto:body_style>SUV</auto:body_style>
+      <auto:fuel_type>Benzina</auto:fuel_type>
+      <auto:transmission>Manuale</auto:transmission>
+      <auto:drivetrain>Trazione Anteriore</auto:drivetrain>
+      <auto:color>Grigio</auto:color>
+      <auto:state_of_vehicle>used</auto:state_of_vehicle>
+      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
+      <auto:dealer_phone>+390248954311</auto:dealer_phone>
+      <auto:mileage>
+        <auto:value>50000</auto:value>
+        <auto:unit>KM</auto:unit>
+      </auto:mileage>
+    </item>
     <item>
       <id>40306</id>
       <title>Fiat 500 UNICO PROPRIETARIO – TETTO PANORAMICO</title>
@@ -27,31 +77,6 @@
       <auto:dealer_phone>+390248954311</auto:dealer_phone>
       <auto:mileage>
         <auto:value>41000</auto:value>
-        <auto:unit>KM</auto:unit>
-      </auto:mileage>
-    </item>
-    <item>
-      <id>40258</id>
-      <title>Audi A1 AUTOMATICO – SERVICE COMPLETO</title>
-      <link>https://www.autoccasionimilano.it/auto-usate-milano/audi-a1-automatico-service-completo/</link>
-      <description>Audi Audi A1 AUTOMATICO – SERVICE COMPLETO — Auto usata certificata. Garanzia 12 mesi inclusa. Benzina, Automatico.</description>
-      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/06/www.autoccasionimilano.it - audi-a1-automatico-service-completo-2.jpg</image_link>
-      <price>19990 EUR</price>
-      <availability>in stock</availability>
-      <condition>used</condition>
-      <auto:make>Audi</auto:make>
-      <auto:model>A1 AUTOMATICO – SERVICE COMPLETO</auto:model>
-      <auto:year>2020</auto:year>
-      <auto:body_style>Berlina</auto:body_style>
-      <auto:fuel_type>Benzina</auto:fuel_type>
-      <auto:transmission>Automatico</auto:transmission>
-      <auto:drivetrain>Trazione Anteriore</auto:drivetrain>
-      <auto:color>Blue</auto:color>
-      <auto:state_of_vehicle>used</auto:state_of_vehicle>
-      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
-      <auto:dealer_phone>+390248954311</auto:dealer_phone>
-      <auto:mileage>
-        <auto:value>59000</auto:value>
         <auto:unit>KM</auto:unit>
       </auto:mileage>
     </item>
@@ -151,7 +176,7 @@
       <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
       <auto:dealer_phone>+390248954311</auto:dealer_phone>
       <auto:mileage>
-        <auto:value>41000</auto:value>
+        <auto:value>104000</auto:value>
         <auto:unit>KM</auto:unit>
       </auto:mileage>
     </item>
@@ -477,31 +502,6 @@
       <auto:dealer_phone>+390248954311</auto:dealer_phone>
       <auto:mileage>
         <auto:value>52000</auto:value>
-        <auto:unit>KM</auto:unit>
-      </auto:mileage>
-    </item>
-    <item>
-      <id>38432</id>
-      <title>Mazda 6 VERA OCCASIONE – UNICO PROPRIETARIO – SERVICE COMPLETO</title>
-      <link>https://www.autoccasionimilano.it/auto-usate-milano/mazda-6-unico-proprietario-service-completo-grandinata/</link>
-      <description>Mazda Mazda 6 VERA OCCASIONE – UNICO PROPRIETARIO – SERVICE COMPLETO — Auto usata certificata. Garanzia 12 mesi inclusa. Diesel, Automatico.</description>
-      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/05/www.autoccasionimilano.it - mazda-6-unico-proprietario-service-completo-grandinata-1.jpg</image_link>
-      <price>3750 EUR</price>
-      <availability>in stock</availability>
-      <condition>used</condition>
-      <auto:make>Mazda</auto:make>
-      <auto:model>6 VERA OCCASIONE – UNICO PROPRIETARIO – SERVICE COMPLETO</auto:model>
-      <auto:year>2017</auto:year>
-      <auto:body_style>Station Wagon</auto:body_style>
-      <auto:fuel_type>Diesel</auto:fuel_type>
-      <auto:transmission>Automatico</auto:transmission>
-      <auto:drivetrain>Trazione Anteriore</auto:drivetrain>
-      <auto:color>Grigio</auto:color>
-      <auto:state_of_vehicle>used</auto:state_of_vehicle>
-      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
-      <auto:dealer_phone>+390248954311</auto:dealer_phone>
-      <auto:mileage>
-        <auto:value>217000</auto:value>
         <auto:unit>KM</auto:unit>
       </auto:mileage>
     </item>
