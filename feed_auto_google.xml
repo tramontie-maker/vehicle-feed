@@ -4,7 +4,36 @@
     <title>Auto Occasioni Milano</title>
     <link>https://www.autoccasionimilano.it</link>
     <description>Feed auto usate — Auto Occasioni Milano</description>
-    <lastBuildDate>Tue, 11 Aug 2026 02:01:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 02:00:54 +0000</lastBuildDate>
+    <item>
+      <title>Citroen C4 GPL – NEOPATENTATI – AREA B MILANO</title>
+      <link>https://www.autoccasionimilano.it/auto-usate-milano/citroen-c4-gpl-neopatentati-area-b-milano/</link>
+      <description>Citroen Citroen C4 GPL – NEOPATENTATI – AREA B MILANO — Auto usata certificata. Garanzia 12 mesi inclusa. Gpl, Manuale.</description>
+      <g:id>42299</g:id>
+      <g:store_code>12756304075837814277</g:store_code>
+      <g:link_template>https://www.autoccasionimilano.it/auto-usate-milano/citroen-c4-gpl-neopatentati-area-b-milano/?store={store_code}&amp;utm_source=google&amp;utm_medium=vehicle_ads</g:link_template>
+      <g:condition>used</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:vehicle_fulfillment>
+        <g:option>in_store</g:option>
+        <g:store_code>12756304075837814277</g:store_code>
+      </g:vehicle_fulfillment>
+      <g:google_product_category>916</g:google_product_category>
+      <g:image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/08/www.autoccasionimilano.it - citroen-c4-gpl-neopatentati-area-b-milano-2.jpg</g:image_link>
+      <g:price>3490.00 EUR</g:price>
+      <g:sale_price>3490.00 EUR</g:sale_price>
+      <g:brand>Citroen</g:brand>
+      <g:make>Citroen</g:make>
+      <g:model>C4 GPL – NEOPATENTATI – AREA B MILANO</g:model>
+      <g:year>2011</g:year>
+      <g:date_first_registered>2011-10</g:date_first_registered>
+      <g:mileage>225000 km</g:mileage>
+      <g:body_style>sedan</g:body_style>
+      <g:fuel_type>lpg</g:fuel_type>
+      <g:transmission>manual</g:transmission>
+      <g:color>Grigio</g:color>
+      <g:item_group_id>citroen</g:item_group_id>
+    </item>
     <item>
       <title>BMW 318 MANUALE – NEOPATENTATI</title>
       <link>https://www.autoccasionimilano.it/auto-usate-milano/bmw-318-manuale-neopatentati/</link>
@@ -49,8 +78,8 @@
       </g:vehicle_fulfillment>
       <g:google_product_category>916</g:google_product_category>
       <g:image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/07/www.autoccasionimilano.it - jeep-compass-euro-6-navigatore-2.jpg</g:image_link>
-      <g:price>9990.00 EUR</g:price>
-      <g:sale_price>9990.00 EUR</g:sale_price>
+      <g:price>9850.00 EUR</g:price>
+      <g:sale_price>9850.00 EUR</g:sale_price>
       <g:brand>Jeep</g:brand>
       <g:make>Jeep</g:make>
       <g:model>Compass EURO 6 – NAVIGATORE</g:model>
@@ -61,35 +90,6 @@
       <g:fuel_type>diesel</g:fuel_type>
       <g:transmission>manual</g:transmission>
       <g:color>Bianco</g:color>
-      <g:item_group_id>jeep</g:item_group_id>
-    </item>
-    <item>
-      <title>Jeep Renegade DISTRIBUZIONE ESEGUITA – FRIZIONE NUOVA</title>
-      <link>https://www.autoccasionimilano.it/auto-usate-milano/jeep-renegade-navi-service-completo/</link>
-      <description>Jeep Jeep Renegade DISTRIBUZIONE ESEGUITA – FRIZIONE NUOVA — Auto usata certificata. Garanzia 12 mesi inclusa. Diesel, Manuale.</description>
-      <g:id>42085</g:id>
-      <g:store_code>12756304075837814277</g:store_code>
-      <g:link_template>https://www.autoccasionimilano.it/auto-usate-milano/jeep-renegade-navi-service-completo/?store={store_code}&amp;utm_source=google&amp;utm_medium=vehicle_ads</g:link_template>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:vehicle_fulfillment>
-        <g:option>in_store</g:option>
-        <g:store_code>12756304075837814277</g:store_code>
-      </g:vehicle_fulfillment>
-      <g:google_product_category>916</g:google_product_category>
-      <g:image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/07/www.autoccasionimilano.it - jeep-renegade-navi-service-completo-2.jpg</g:image_link>
-      <g:price>11990.00 EUR</g:price>
-      <g:sale_price>11990.00 EUR</g:sale_price>
-      <g:brand>Jeep</g:brand>
-      <g:make>Jeep</g:make>
-      <g:model>Renegade DISTRIBUZIONE ESEGUITA – FRIZIONE NUOVA</g:model>
-      <g:year>2021</g:year>
-      <g:date_first_registered>2021-06</g:date_first_registered>
-      <g:mileage>121000 km</g:mileage>
-      <g:body_style>suv</g:body_style>
-      <g:fuel_type>diesel</g:fuel_type>
-      <g:transmission>manual</g:transmission>
-      <g:color>Nero</g:color>
       <g:item_group_id>jeep</g:item_group_id>
     </item>
     <item>
@@ -122,35 +122,6 @@
       <g:item_group_id>hyundai</g:item_group_id>
     </item>
     <item>
-      <title>Dacia Sandero NEOPATENTATI – GOMME NUOVE</title>
-      <link>https://www.autoccasionimilano.it/auto-usate-milano/dacia-sandero-neopatentati-gomme-nuove/</link>
-      <description>Dacia Dacia Sandero NEOPATENTATI – GOMME NUOVE — Auto usata certificata. Garanzia 12 mesi inclusa. Benzina, Manuale.</description>
-      <g:id>41993</g:id>
-      <g:store_code>12756304075837814277</g:store_code>
-      <g:link_template>https://www.autoccasionimilano.it/auto-usate-milano/dacia-sandero-neopatentati-gomme-nuove/?store={store_code}&amp;utm_source=google&amp;utm_medium=vehicle_ads</g:link_template>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:vehicle_fulfillment>
-        <g:option>in_store</g:option>
-        <g:store_code>12756304075837814277</g:store_code>
-      </g:vehicle_fulfillment>
-      <g:google_product_category>916</g:google_product_category>
-      <g:image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/07/www.autoccasionimilano.it - dacia-sandero-neopatentati-gomme-nuove-2.jpg</g:image_link>
-      <g:price>4290.00 EUR</g:price>
-      <g:sale_price>4290.00 EUR</g:sale_price>
-      <g:brand>Dacia</g:brand>
-      <g:make>Dacia</g:make>
-      <g:model>Sandero NEOPATENTATI – GOMME NUOVE</g:model>
-      <g:year>2011</g:year>
-      <g:date_first_registered>2011-07</g:date_first_registered>
-      <g:mileage>87000 km</g:mileage>
-      <g:body_style>sedan</g:body_style>
-      <g:fuel_type>gasoline</g:fuel_type>
-      <g:transmission>manual</g:transmission>
-      <g:color>Grigio</g:color>
-      <g:item_group_id>dacia</g:item_group_id>
-    </item>
-    <item>
       <title>Kia Sportage UNICO PROPRIETARIO – SOLO 8000KM</title>
       <link>https://www.autoccasionimilano.it/auto-usate-milano/kia-sportage-unico-proprietario-solo-8000km/</link>
       <description>Kia Kia Sportage UNICO PROPRIETARIO – SOLO 8000KM — Auto usata certificata. Garanzia 12 mesi inclusa. Elettrica / Diesel, Automatico.</description>
@@ -172,70 +143,12 @@
       <g:model>Sportage UNICO PROPRIETARIO – SOLO 8000KM</g:model>
       <g:year>2023</g:year>
       <g:date_first_registered>2023-10</g:date_first_registered>
-      <g:mileage>295000 km</g:mileage>
+      <g:mileage>225000 km</g:mileage>
       <g:body_style>suv</g:body_style>
       <g:fuel_type>hybrid</g:fuel_type>
       <g:transmission>automatic</g:transmission>
       <g:color>Grigio</g:color>
       <g:item_group_id>kia</g:item_group_id>
-    </item>
-    <item>
-      <title>Mazda CX-3 NAVIGATORE – CARPLAY</title>
-      <link>https://www.autoccasionimilano.it/auto-usate-milano/mazda-cx-3-navigatore-carplay/</link>
-      <description>Mazda Mazda CX-3 NAVIGATORE – CARPLAY — Auto usata certificata. Garanzia 12 mesi inclusa. Benzina, Manuale.</description>
-      <g:id>41900</g:id>
-      <g:store_code>12756304075837814277</g:store_code>
-      <g:link_template>https://www.autoccasionimilano.it/auto-usate-milano/mazda-cx-3-navigatore-carplay/?store={store_code}&amp;utm_source=google&amp;utm_medium=vehicle_ads</g:link_template>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:vehicle_fulfillment>
-        <g:option>in_store</g:option>
-        <g:store_code>12756304075837814277</g:store_code>
-      </g:vehicle_fulfillment>
-      <g:google_product_category>916</g:google_product_category>
-      <g:image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/07/www.autoccasionimilano.it - mazda-cx-3-navigatore-carplay-2.jpg</g:image_link>
-      <g:price>13290.00 EUR</g:price>
-      <g:sale_price>13290.00 EUR</g:sale_price>
-      <g:brand>Mazda</g:brand>
-      <g:make>Mazda</g:make>
-      <g:model>CX-3 NAVIGATORE – CARPLAY</g:model>
-      <g:year>2019</g:year>
-      <g:date_first_registered>2019-07</g:date_first_registered>
-      <g:mileage>83000 km</g:mileage>
-      <g:body_style>suv</g:body_style>
-      <g:fuel_type>gasoline</g:fuel_type>
-      <g:transmission>manual</g:transmission>
-      <g:color>Bianco</g:color>
-      <g:item_group_id>mazda</g:item_group_id>
-    </item>
-    <item>
-      <title>Nissan Micra NEOPATENTATI – 5 PORTE – BLUETOOTH</title>
-      <link>https://www.autoccasionimilano.it/auto-usate-milano/nissan-micra-neopatentati-5-porte-bluetooth/</link>
-      <description>Nissan Nissan Micra NEOPATENTATI – 5 PORTE – BLUETOOTH — Auto usata certificata. Garanzia 12 mesi inclusa. Benzina, Manuale.</description>
-      <g:id>41746</g:id>
-      <g:store_code>12756304075837814277</g:store_code>
-      <g:link_template>https://www.autoccasionimilano.it/auto-usate-milano/nissan-micra-neopatentati-5-porte-bluetooth/?store={store_code}&amp;utm_source=google&amp;utm_medium=vehicle_ads</g:link_template>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:vehicle_fulfillment>
-        <g:option>in_store</g:option>
-        <g:store_code>12756304075837814277</g:store_code>
-      </g:vehicle_fulfillment>
-      <g:google_product_category>916</g:google_product_category>
-      <g:image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/07/www.autoccasionimilano.it - nissan-micra-neopatentati-5-porte-bluetooth-2.jpg</g:image_link>
-      <g:price>2690.00 EUR</g:price>
-      <g:sale_price>2690.00 EUR</g:sale_price>
-      <g:brand>Nissan</g:brand>
-      <g:make>Nissan</g:make>
-      <g:model>Micra NEOPATENTATI – 5 PORTE – BLUETOOTH</g:model>
-      <g:year>2008</g:year>
-      <g:date_first_registered>2008-06</g:date_first_registered>
-      <g:mileage>169000 km</g:mileage>
-      <g:body_style>city_car</g:body_style>
-      <g:fuel_type>gasoline</g:fuel_type>
-      <g:transmission>manual</g:transmission>
-      <g:color>Grigio</g:color>
-      <g:item_group_id>nissan</g:item_group_id>
     </item>
     <item>
       <title>Lancia Ypsilon FRIZIONE NUOVA – NEOPATENTATI</title>
@@ -368,8 +281,8 @@
       </g:vehicle_fulfillment>
       <g:google_product_category>916</g:google_product_category>
       <g:image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/07/www.autoccasionimilano.it - volkswagen-t-roc-unico-proprietario-service-completo-1.jpg</g:image_link>
-      <g:price>14290.00 EUR</g:price>
-      <g:sale_price>14290.00 EUR</g:sale_price>
+      <g:price>13790.00 EUR</g:price>
+      <g:sale_price>13790.00 EUR</g:sale_price>
       <g:brand>Volkswagen</g:brand>
       <g:make>Volkswagen</g:make>
       <g:model>T-Roc UNICO PROPRIETARIO – SERVICE COMPLETO</g:model>
@@ -441,35 +354,6 @@
       <g:item_group_id>peugeot</g:item_group_id>
     </item>
     <item>
-      <title>Nissan Qashqai UNICO PROPRIETARIO – TELECAMERA 360</title>
-      <link>https://www.autoccasionimilano.it/auto-usate-milano/nissan-qashqai-unico-proprietario-telecamera-360/</link>
-      <description>Nissan Nissan Qashqai UNICO PROPRIETARIO – TELECAMERA 360 — Auto usata certificata. Garanzia 12 mesi inclusa. Benzina, Manuale.</description>
-      <g:id>40349</g:id>
-      <g:store_code>12756304075837814277</g:store_code>
-      <g:link_template>https://www.autoccasionimilano.it/auto-usate-milano/nissan-qashqai-unico-proprietario-telecamera-360/?store={store_code}&amp;utm_source=google&amp;utm_medium=vehicle_ads</g:link_template>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:vehicle_fulfillment>
-        <g:option>in_store</g:option>
-        <g:store_code>12756304075837814277</g:store_code>
-      </g:vehicle_fulfillment>
-      <g:google_product_category>916</g:google_product_category>
-      <g:image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/07/www.autoccasionimilano.it - nissan-qashqai-unico-proprietario-telecamera-360-2.jpg</g:image_link>
-      <g:price>14990.00 EUR</g:price>
-      <g:sale_price>14990.00 EUR</g:sale_price>
-      <g:brand>Nissan</g:brand>
-      <g:make>Nissan</g:make>
-      <g:model>Qashqai UNICO PROPRIETARIO – TELECAMERA 360</g:model>
-      <g:year>2019</g:year>
-      <g:date_first_registered>2019-07</g:date_first_registered>
-      <g:mileage>50000 km</g:mileage>
-      <g:body_style>suv</g:body_style>
-      <g:fuel_type>gasoline</g:fuel_type>
-      <g:transmission>manual</g:transmission>
-      <g:color>Grigio</g:color>
-      <g:item_group_id>nissan</g:item_group_id>
-    </item>
-    <item>
       <title>Mercedes-Benz GLA 180 UNICO PROPRIETARIO – SERVICE COMPLETO</title>
       <link>https://www.autoccasionimilano.it/auto-usate-milano/mercedes-benz-gla-180-unico-proprietario-service-completo/</link>
       <description>Mercedes-Benz Mercedes-Benz GLA 180 UNICO PROPRIETARIO – SERVICE COMPLETO — Auto usata certificata. Garanzia 12 mesi inclusa. Diesel, Automatico.</description>
@@ -526,35 +410,6 @@
       <g:transmission>automatic</g:transmission>
       <g:color>Blue</g:color>
       <g:item_group_id>peugeot</g:item_group_id>
-    </item>
-    <item>
-      <title>Audi A3 NEOPATENTATI – BENZINA – 5 PORTE</title>
-      <link>https://www.autoccasionimilano.it/auto-usate-milano/audi-a3-neopatentati-benzina-5-porte/</link>
-      <description>Audi Audi A3 NEOPATENTATI – BENZINA – 5 PORTE — Auto usata certificata. Garanzia 12 mesi inclusa. Benzina, Manuale.</description>
-      <g:id>39880</g:id>
-      <g:store_code>12756304075837814277</g:store_code>
-      <g:link_template>https://www.autoccasionimilano.it/auto-usate-milano/audi-a3-neopatentati-benzina-5-porte/?store={store_code}&amp;utm_source=google&amp;utm_medium=vehicle_ads</g:link_template>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:vehicle_fulfillment>
-        <g:option>in_store</g:option>
-        <g:store_code>12756304075837814277</g:store_code>
-      </g:vehicle_fulfillment>
-      <g:google_product_category>916</g:google_product_category>
-      <g:image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/06/www.autoccasionimilano.it - audi-a3-neopatentati-benzina-5-porte-2.jpg</g:image_link>
-      <g:price>5190.00 EUR</g:price>
-      <g:sale_price>5190.00 EUR</g:sale_price>
-      <g:brand>Audi</g:brand>
-      <g:make>Audi</g:make>
-      <g:model>A3 NEOPATENTATI – BENZINA – 5 PORTE</g:model>
-      <g:year>2005</g:year>
-      <g:date_first_registered>2005-04</g:date_first_registered>
-      <g:mileage>129000 km</g:mileage>
-      <g:body_style>sedan</g:body_style>
-      <g:fuel_type>gasoline</g:fuel_type>
-      <g:transmission>manual</g:transmission>
-      <g:color>Grigio</g:color>
-      <g:item_group_id>audi</g:item_group_id>
     </item>
     <item>
       <title>Jeep Renegade UNICO PROPRIETARIO – SERVICE CASA MADRE</title>
@@ -644,35 +499,6 @@
       <g:item_group_id>fiat</g:item_group_id>
     </item>
     <item>
-      <title>Dacia Duster UNICO PROPRIETARIO – NEOPATENTATI</title>
-      <link>https://www.autoccasionimilano.it/auto-usate-milano/dacia-duster-unico-proprietario-neopatentati/</link>
-      <description>Dacia Dacia Duster UNICO PROPRIETARIO – NEOPATENTATI — Auto usata certificata. Garanzia 12 mesi inclusa. Benzina, Manuale.</description>
-      <g:id>39504</g:id>
-      <g:store_code>12756304075837814277</g:store_code>
-      <g:link_template>https://www.autoccasionimilano.it/auto-usate-milano/dacia-duster-unico-proprietario-neopatentati/?store={store_code}&amp;utm_source=google&amp;utm_medium=vehicle_ads</g:link_template>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:vehicle_fulfillment>
-        <g:option>in_store</g:option>
-        <g:store_code>12756304075837814277</g:store_code>
-      </g:vehicle_fulfillment>
-      <g:google_product_category>916</g:google_product_category>
-      <g:image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/06/www.autoccasionimilano.it - dacia-duster-unico-proprietario-neopatentati-36.jpg</g:image_link>
-      <g:price>12890.00 EUR</g:price>
-      <g:sale_price>12890.00 EUR</g:sale_price>
-      <g:brand>Dacia</g:brand>
-      <g:make>Dacia</g:make>
-      <g:model>Duster UNICO PROPRIETARIO – NEOPATENTATI</g:model>
-      <g:year>2021</g:year>
-      <g:date_first_registered>2021-07</g:date_first_registered>
-      <g:mileage>45000 km</g:mileage>
-      <g:body_style>suv</g:body_style>
-      <g:fuel_type>gasoline</g:fuel_type>
-      <g:transmission>manual</g:transmission>
-      <g:color>Rosso</g:color>
-      <g:item_group_id>dacia</g:item_group_id>
-    </item>
-    <item>
       <title>Audi Q5 QUATTRO – NAVIGATORE – EURO 5</title>
       <link>https://www.autoccasionimilano.it/auto-usate-milano/audi-q5-quattro-navigatore-euro-5/</link>
       <description>Audi Audi Q5 QUATTRO – NAVIGATORE – EURO 5 — Auto usata certificata. Garanzia 12 mesi inclusa. Benzina, Manuale.</description>
@@ -700,35 +526,6 @@
       <g:transmission>manual</g:transmission>
       <g:color>Nero</g:color>
       <g:item_group_id>audi</g:item_group_id>
-    </item>
-    <item>
-      <title>Skoda Octavia UNICO PROPRIETARIO – AUTOMATICO</title>
-      <link>https://www.autoccasionimilano.it/auto-usate-milano/skoda-octavia-unico-proprietario-automatico/</link>
-      <description>Skoda Skoda Octavia UNICO PROPRIETARIO – AUTOMATICO — Auto usata certificata. Garanzia 12 mesi inclusa. Diesel, Automatico.</description>
-      <g:id>38707</g:id>
-      <g:store_code>12756304075837814277</g:store_code>
-      <g:link_template>https://www.autoccasionimilano.it/auto-usate-milano/skoda-octavia-unico-proprietario-automatico/?store={store_code}&amp;utm_source=google&amp;utm_medium=vehicle_ads</g:link_template>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:vehicle_fulfillment>
-        <g:option>in_store</g:option>
-        <g:store_code>12756304075837814277</g:store_code>
-      </g:vehicle_fulfillment>
-      <g:google_product_category>916</g:google_product_category>
-      <g:image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/05/www.autoccasionimilano.it - skoda-octavia-unico-proprietario-automatico-1.jpg</g:image_link>
-      <g:price>16890.00 EUR</g:price>
-      <g:sale_price>16890.00 EUR</g:sale_price>
-      <g:brand>Skoda</g:brand>
-      <g:make>Skoda</g:make>
-      <g:model>Octavia UNICO PROPRIETARIO – AUTOMATICO</g:model>
-      <g:year>2023</g:year>
-      <g:date_first_registered>2023-04</g:date_first_registered>
-      <g:mileage>61000 km</g:mileage>
-      <g:body_style>station_wagon</g:body_style>
-      <g:fuel_type>diesel</g:fuel_type>
-      <g:transmission>automatic</g:transmission>
-      <g:color>Grigio</g:color>
-      <g:item_group_id>skoda</g:item_group_id>
     </item>
     <item>
       <title>MINI One D Clubman UNICO PROPRIETARIO – SERVICE COMPLETO</title>
@@ -816,35 +613,6 @@
       <g:transmission>manual</g:transmission>
       <g:color>Rosso</g:color>
       <g:item_group_id>citroen</g:item_group_id>
-    </item>
-    <item>
-      <title>Audi A4 TUA A PARTIRE DA 190€ AL MESE – UNICO PROPRIETARIO – TAGLIANDI CERTIFICATI – SENZA VINCOLO FINANZIARIO</title>
-      <link>https://www.autoccasionimilano.it/auto-usate-milano/audi-a4-unico-proprietario-tagliandi-certificati/</link>
-      <description>Audi Audi A4 TUA A PARTIRE DA 190€ AL MESE – UNICO PROPRIETARIO – TAGLIANDI CERTIFICATI – SENZA VINCOLO FINANZIARIO — Auto usata certificata. Garanzia 12 mesi inclusa. Elettrica / Diesel, Automatico.</description>
-      <g:id>32906</g:id>
-      <g:store_code>12756304075837814277</g:store_code>
-      <g:link_template>https://www.autoccasionimilano.it/auto-usate-milano/audi-a4-unico-proprietario-tagliandi-certificati/?store={store_code}&amp;utm_source=google&amp;utm_medium=vehicle_ads</g:link_template>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:vehicle_fulfillment>
-        <g:option>in_store</g:option>
-        <g:store_code>12756304075837814277</g:store_code>
-      </g:vehicle_fulfillment>
-      <g:google_product_category>916</g:google_product_category>
-      <g:image_link>https://www.autoccasionimilano.it/wp-content/uploads/2025/11/audi-a4-unico-proprietario-tagliandi-certificati-audi-a4-unico-proprietario-tagliandi-certificati-2-audi-a4-avant-2022-hybrida-di-1.jpg</g:image_link>
-      <g:price>16990.00 EUR</g:price>
-      <g:sale_price>16990.00 EUR</g:sale_price>
-      <g:brand>Audi</g:brand>
-      <g:make>Audi</g:make>
-      <g:model>A4 TUA A PARTIRE DA 190€ AL MESE – UNICO PROPRIETARIO – TAGLIANDI CERTIFICATI – SENZA VINCOLO FINANZIARIO</g:model>
-      <g:year>2021</g:year>
-      <g:date_first_registered>2021-03</g:date_first_registered>
-      <g:mileage>122000 km</g:mileage>
-      <g:body_style>station_wagon</g:body_style>
-      <g:fuel_type>hybrid</g:fuel_type>
-      <g:transmission>automatic</g:transmission>
-      <g:color>Nero</g:color>
-      <g:item_group_id>audi</g:item_group_id>
     </item>
   </channel>
 </rss>
