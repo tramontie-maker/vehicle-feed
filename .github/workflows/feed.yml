@@ -5,9 +5,6 @@ on:
     - cron: "17 19 * * *"
     - cron: "17 21 * * *"  # secondo tentativo
   workflow_dispatch:
-  push:
-    branches:
-      - prova-feed
 
 permissions:
   contents: write
