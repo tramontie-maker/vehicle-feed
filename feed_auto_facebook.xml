@@ -4,21 +4,221 @@
     <title>Auto Occasioni Milano</title>
     <link>https://www.autoccasionimilano.it</link>
     <description>Feed auto usate — Auto Occasioni Milano</description>
-    <lastBuildDate>Wed, 16 Sep 2026 02:27:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 15:10:37 +0000</lastBuildDate>
     <item>
-      <id>42299</id>
-      <title>Citroen C4 GPL – NEOPATENTATI – AREA B MILANO</title>
-      <link>https://www.autoccasionimilano.it/auto-usate-milano/citroen-c4-gpl-neopatentati-area-b-milano/</link>
-      <description>Citroen Citroen C4 GPL – NEOPATENTATI – AREA B MILANO — Auto usata certificata. Garanzia 12 mesi inclusa. Gpl, Manuale.</description>
-      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/08/www.autoccasionimilano.it - citroen-c4-gpl-neopatentati-area-b-milano-2.jpg</image_link>
-      <price>3490 EUR</price>
+      <id>44154</id>
+      <title>Toyota RAV4 SERVICE COMPLETO – AUTOMATICO – PREZZO REALE SENZA VINCOLI</title>
+      <link>https://www.autoccasionimilano.it/auto-usate-milano/toyota-rav4-service-completo-automatico-prezzo-reale-senza-vincoli/</link>
+      <description>Toyota Toyota RAV4 SERVICE COMPLETO – AUTOMATICO – PREZZO REALE SENZA VINCOLI — Auto usata certificata. Garanzia 12 mesi inclusa. Elettrica / Benzina, Automatico.</description>
+      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/10/www.autoccasionimilano.it - bozza-automatica-373.jpg</image_link>
+      <price>17890 EUR</price>
       <availability>in stock</availability>
       <condition>used</condition>
-      <auto:make>Citroen</auto:make>
-      <auto:model>C4 GPL – NEOPATENTATI – AREA B MILANO</auto:model>
+      <auto:make>Toyota</auto:make>
+      <auto:model>RAV4 SERVICE COMPLETO – AUTOMATICO – PREZZO REALE SENZA VINCOLI</auto:model>
+      <auto:year>2018</auto:year>
+      <auto:body_style>SUV</auto:body_style>
+      <auto:fuel_type>Elettrica / Benzina</auto:fuel_type>
+      <auto:transmission>Automatico</auto:transmission>
+      <auto:drivetrain>Trazione Anteriore</auto:drivetrain>
+      <auto:color>Bianco</auto:color>
+      <auto:state_of_vehicle>used</auto:state_of_vehicle>
+      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
+      <auto:dealer_phone>+390248954311</auto:dealer_phone>
+      <auto:mileage>
+        <auto:value>99980</auto:value>
+        <auto:unit>KM</auto:unit>
+      </auto:mileage>
+    </item>
+    <item>
+      <id>44101</id>
+      <title>Fiat 500 CATENA NUOVA – NEOPATENTATI</title>
+      <link>https://www.autoccasionimilano.it/auto-usate-milano/fiat-500-catena-nuova-neopatentati/</link>
+      <description>Fiat Fiat 500 CATENA NUOVA – NEOPATENTATI — Auto usata certificata. Garanzia 12 mesi inclusa. Diesel, Manuale.</description>
+      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/10/www.autoccasionimilano.it - fiat-500-catena-nuova-neopatentati-2.jpg</image_link>
+      <price>5490 EUR</price>
+      <availability>in stock</availability>
+      <condition>used</condition>
+      <auto:make>Fiat</auto:make>
+      <auto:model>500 CATENA NUOVA – NEOPATENTATI</auto:model>
       <auto:year>2011</auto:year>
+      <auto:body_style>City Car</auto:body_style>
+      <auto:fuel_type>Diesel</auto:fuel_type>
+      <auto:transmission>Manuale</auto:transmission>
+      <auto:drivetrain>Trazione Anteriore</auto:drivetrain>
+      <auto:color>Rosso</auto:color>
+      <auto:state_of_vehicle>used</auto:state_of_vehicle>
+      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
+      <auto:dealer_phone>+390248954311</auto:dealer_phone>
+      <auto:mileage>
+        <auto:value>99000</auto:value>
+        <auto:unit>KM</auto:unit>
+      </auto:mileage>
+    </item>
+    <item>
+      <id>43880</id>
+      <title>Mercedes-Benz A 160 BENZINA – NEOPATENTATI – AREA B MILANO</title>
+      <link>https://www.autoccasionimilano.it/auto-usate-milano/mercedes-benz-a-160-benzina-neopatentati-area-b-milano/</link>
+      <description>Mercedes-Benz Mercedes-Benz A 160 BENZINA – NEOPATENTATI – AREA B MILANO — Auto usata certificata. Garanzia 12 mesi inclusa. Benzina, Manuale.</description>
+      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/10/www.autoccasionimilano.it - bozza-automatica-332.jpg</image_link>
+      <price>15990 EUR</price>
+      <availability>in stock</availability>
+      <condition>used</condition>
+      <auto:make>Mercedes-Benz</auto:make>
+      <auto:model>A 160 BENZINA – NEOPATENTATI – AREA B MILANO</auto:model>
+      <auto:year>2021</auto:year>
       <auto:body_style>Berlina</auto:body_style>
-      <auto:fuel_type>Gpl</auto:fuel_type>
+      <auto:fuel_type>Benzina</auto:fuel_type>
+      <auto:transmission>Manuale</auto:transmission>
+      <auto:drivetrain>Trazione Anteriore</auto:drivetrain>
+      <auto:color>Blue</auto:color>
+      <auto:state_of_vehicle>used</auto:state_of_vehicle>
+      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
+      <auto:dealer_phone>+390248954311</auto:dealer_phone>
+      <auto:mileage>
+        <auto:value>125000</auto:value>
+        <auto:unit>KM</auto:unit>
+      </auto:mileage>
+    </item>
+    <item>
+      <id>43706</id>
+      <title>Mercedes-Benz A 200 AMG – FATTURE MERCEDES – AUTOMATICA</title>
+      <link>https://www.autoccasionimilano.it/auto-usate-milano/mercedes-benz-a-200-amg-fatture-mercedes-automaticadati-di-base-carrozzeria-berlina-tipo-di-veicolo-usato-trazione-anteriore-posti-5-porte-5-usato-garantito-12-mesi-disponibilita-immediatamente-di/</link>
+      <description>Ford Mercedes-Benz A 200 AMG – FATTURE MERCEDES – AUTOMATICA — Auto usata certificata. Garanzia 12 mesi inclusa. Benzina, Automatico.</description>
+      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/10/www.autoccasionimilano.it - bozza-automatica-204.jpg</image_link>
+      <price>20490 EUR</price>
+      <availability>in stock</availability>
+      <condition>used</condition>
+      <auto:make>Ford</auto:make>
+      <auto:model>Mercedes-Benz A 200 AMG – FATTURE MERCEDES – AUTOMATICA</auto:model>
+      <auto:year>2021</auto:year>
+      <auto:body_style>Berlina</auto:body_style>
+      <auto:fuel_type>Benzina</auto:fuel_type>
+      <auto:transmission>Automatico</auto:transmission>
+      <auto:drivetrain>Trazione Anteriore</auto:drivetrain>
+      <auto:color>Bianco</auto:color>
+      <auto:state_of_vehicle>used</auto:state_of_vehicle>
+      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
+      <auto:dealer_phone>+390248954311</auto:dealer_phone>
+      <auto:mileage>
+        <auto:value>114000</auto:value>
+        <auto:unit>KM</auto:unit>
+      </auto:mileage>
+    </item>
+    <item>
+      <id>43660</id>
+      <title>SEAT Leon FR – SERVICE COMPLETO – UNICO PROPRIETARIO</title>
+      <link>https://www.autoccasionimilano.it/auto-usate-milano/seat-leon-fr-service-completo-unico-proprietario/</link>
+      <description>Seat SEAT Leon FR – SERVICE COMPLETO – UNICO PROPRIETARIO — Auto usata certificata. Garanzia 12 mesi inclusa. Elettrica / Benzina, Automatico.</description>
+      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/10/www.autoccasionimilano.it - bozza-automatica-164.jpg</image_link>
+      <price>17290 EUR</price>
+      <availability>in stock</availability>
+      <condition>used</condition>
+      <auto:make>Seat</auto:make>
+      <auto:model>SEAT Leon FR – SERVICE COMPLETO – UNICO PROPRIETARIO</auto:model>
+      <auto:year>2021</auto:year>
+      <auto:body_style>Berlina</auto:body_style>
+      <auto:fuel_type>Elettrica / Benzina</auto:fuel_type>
+      <auto:transmission>Automatico</auto:transmission>
+      <auto:drivetrain>Trazione Anteriore</auto:drivetrain>
+      <auto:color>Bianco</auto:color>
+      <auto:state_of_vehicle>used</auto:state_of_vehicle>
+      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
+      <auto:dealer_phone>+390248954311</auto:dealer_phone>
+      <auto:mileage>
+        <auto:value>45000</auto:value>
+        <auto:unit>KM</auto:unit>
+      </auto:mileage>
+    </item>
+    <item>
+      <id>43584</id>
+      <title>Audi A3 SERVICE COMPLETO – NEOPATENTATI – UNICO PROPRIETARIO</title>
+      <link>https://www.autoccasionimilano.it/auto-usate-milano/audi-a3-service-completo-neopatentati-unico-proprietario/</link>
+      <description>Audi Audi A3 SERVICE COMPLETO – NEOPATENTATI – UNICO PROPRIETARIO — Auto usata certificata. Garanzia 12 mesi inclusa. Diesel, Manuale.</description>
+      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/10/www.autoccasionimilano.it - bozza-automatica-91.jpg</image_link>
+      <price>21490 EUR</price>
+      <availability>in stock</availability>
+      <condition>used</condition>
+      <auto:make>Audi</auto:make>
+      <auto:model>A3 SERVICE COMPLETO – NEOPATENTATI – UNICO PROPRIETARIO</auto:model>
+      <auto:year>2022</auto:year>
+      <auto:body_style>Berlina</auto:body_style>
+      <auto:fuel_type>Diesel</auto:fuel_type>
+      <auto:transmission>Manuale</auto:transmission>
+      <auto:drivetrain>Trazione Anteriore</auto:drivetrain>
+      <auto:color>Nero</auto:color>
+      <auto:state_of_vehicle>used</auto:state_of_vehicle>
+      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
+      <auto:dealer_phone>+390248954311</auto:dealer_phone>
+      <auto:mileage>
+        <auto:value>30000</auto:value>
+        <auto:unit>KM</auto:unit>
+      </auto:mileage>
+    </item>
+    <item>
+      <id>43465</id>
+      <title>BMW 218 Xdrive – SERVICE BMW – INTERNI IN PELLE</title>
+      <link>https://www.autoccasionimilano.it/auto-usate-milano/bmw-218-xdrive-service-bmw-interni-in-pelle/</link>
+      <description>Bmw BMW 218 Xdrive – SERVICE BMW – INTERNI IN PELLE — Auto usata certificata. Garanzia 12 mesi inclusa. Diesel, Automatico.</description>
+      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/10/www.autoccasionimilano.it - bozza-automatica-2.jpg</image_link>
+      <price>18290 EUR</price>
+      <availability>in stock</availability>
+      <condition>used</condition>
+      <auto:make>Bmw</auto:make>
+      <auto:model>BMW 218 Xdrive – SERVICE BMW – INTERNI IN PELLE</auto:model>
+      <auto:year>2021</auto:year>
+      <auto:body_style>SUV</auto:body_style>
+      <auto:fuel_type>Diesel</auto:fuel_type>
+      <auto:transmission>Automatico</auto:transmission>
+      <auto:drivetrain>Quattro ruote (AWD/4WD)</auto:drivetrain>
+      <auto:color>Blue</auto:color>
+      <auto:state_of_vehicle>used</auto:state_of_vehicle>
+      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
+      <auto:dealer_phone>+390248954311</auto:dealer_phone>
+      <auto:mileage>
+        <auto:value>74000</auto:value>
+        <auto:unit>KM</auto:unit>
+      </auto:mileage>
+    </item>
+    <item>
+      <id>43377</id>
+      <title>Audi Q3 SERVICE COMPLETO – QUATTRO – PREZZO SENZA VINCOLI</title>
+      <link>https://www.autoccasionimilano.it/auto-usate-milano/audi-q3-service-completo-quattro-prezzo-senza-vincoli/</link>
+      <description>Audi Audi Q3 SERVICE COMPLETO – QUATTRO – PREZZO SENZA VINCOLI — Auto usata certificata. Garanzia 12 mesi inclusa. Diesel, Automatico.</description>
+      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/09/www.autoccasionimilano.it - bozza-automatica-443.jpg</image_link>
+      <price>15650 EUR</price>
+      <availability>in stock</availability>
+      <condition>used</condition>
+      <auto:make>Audi</auto:make>
+      <auto:model>Q3 SERVICE COMPLETO – QUATTRO – PREZZO SENZA VINCOLI</auto:model>
+      <auto:year>2016</auto:year>
+      <auto:body_style>SUV</auto:body_style>
+      <auto:fuel_type>Diesel</auto:fuel_type>
+      <auto:transmission>Automatico</auto:transmission>
+      <auto:drivetrain>Quattro ruote (AWD/4WD)</auto:drivetrain>
+      <auto:color>Bianco</auto:color>
+      <auto:state_of_vehicle>used</auto:state_of_vehicle>
+      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
+      <auto:dealer_phone>+390248954311</auto:dealer_phone>
+      <auto:mileage>
+        <auto:value>75000</auto:value>
+        <auto:unit>KM</auto:unit>
+      </auto:mileage>
+    </item>
+    <item>
+      <id>43284</id>
+      <title>Ford Focus BENZINA – EURO 6 – AREA B MILANO</title>
+      <link>https://www.autoccasionimilano.it/auto-usate-milano/ford-focus-benzina-euro-6-area-b-milano/</link>
+      <description>Ford Ford Focus BENZINA – EURO 6 – AREA B MILANO — Auto usata certificata. Garanzia 12 mesi inclusa. Benzina, Manuale.</description>
+      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/09/www.autoccasionimilano.it - bozza-automatica-356.jpg</image_link>
+      <price>9990 EUR</price>
+      <availability>in stock</availability>
+      <condition>used</condition>
+      <auto:make>Ford</auto:make>
+      <auto:model>Focus BENZINA – EURO 6 – AREA B MILANO</auto:model>
+      <auto:year>2019</auto:year>
+      <auto:body_style>Station Wagon</auto:body_style>
+      <auto:fuel_type>Benzina</auto:fuel_type>
       <auto:transmission>Manuale</auto:transmission>
       <auto:drivetrain>Trazione Anteriore</auto:drivetrain>
       <auto:color>Grigio</auto:color>
@@ -26,7 +226,107 @@
       <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
       <auto:dealer_phone>+390248954311</auto:dealer_phone>
       <auto:mileage>
-        <auto:value>225000</auto:value>
+        <auto:value>107000</auto:value>
+        <auto:unit>KM</auto:unit>
+      </auto:mileage>
+    </item>
+    <item>
+      <id>43143</id>
+      <title>Audi Q5 NEOPATENTATI – FATTURE AUDI</title>
+      <link>https://www.autoccasionimilano.it/auto-usate-milano/audi-q5-neopatentati-fatture-audi/</link>
+      <description>Audi Audi Q5 NEOPATENTATI – FATTURE AUDI — Auto usata certificata. Garanzia 12 mesi inclusa. Diesel, Manuale.</description>
+      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/09/www.autoccasionimilano.it - bozza-automatica-275.jpg</image_link>
+      <price>10490 EUR</price>
+      <availability>in stock</availability>
+      <condition>used</condition>
+      <auto:make>Audi</auto:make>
+      <auto:model>Q5 NEOPATENTATI – FATTURE AUDI</auto:model>
+      <auto:year>2012</auto:year>
+      <auto:body_style>SUV</auto:body_style>
+      <auto:fuel_type>Diesel</auto:fuel_type>
+      <auto:transmission>Manuale</auto:transmission>
+      <auto:drivetrain>Trazione Anteriore</auto:drivetrain>
+      <auto:color>Grigio</auto:color>
+      <auto:state_of_vehicle>used</auto:state_of_vehicle>
+      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
+      <auto:dealer_phone>+390248954311</auto:dealer_phone>
+      <auto:mileage>
+        <auto:value>158000</auto:value>
+        <auto:unit>KM</auto:unit>
+      </auto:mileage>
+    </item>
+    <item>
+      <id>42944</id>
+      <title>Mercedes-Benz GLA 220 PACCHETTO AMG – FATTURE MERCEDES</title>
+      <link>https://www.autoccasionimilano.it/auto-usate-milano/mercedes-benz-gla-220-automatica-fatture-mercedes/</link>
+      <description>Mercedes-Benz Mercedes-Benz GLA 220 PACCHETTO AMG – FATTURE MERCEDES — Auto usata certificata. Garanzia 12 mesi inclusa. Diesel, Automatico.</description>
+      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/09/www.autoccasionimilano.it - bozza-automatica-159.jpg</image_link>
+      <price>26290 EUR</price>
+      <availability>in stock</availability>
+      <condition>used</condition>
+      <auto:make>Mercedes-Benz</auto:make>
+      <auto:model>GLA 220 PACCHETTO AMG – FATTURE MERCEDES</auto:model>
+      <auto:year>2021</auto:year>
+      <auto:body_style>SUV</auto:body_style>
+      <auto:fuel_type>Diesel</auto:fuel_type>
+      <auto:transmission>Automatico</auto:transmission>
+      <auto:drivetrain>Trazione Anteriore</auto:drivetrain>
+      <auto:color>Grigio</auto:color>
+      <auto:state_of_vehicle>used</auto:state_of_vehicle>
+      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
+      <auto:dealer_phone>+390248954311</auto:dealer_phone>
+      <auto:mileage>
+        <auto:value>100000</auto:value>
+        <auto:unit>KM</auto:unit>
+      </auto:mileage>
+    </item>
+    <item>
+      <id>42774</id>
+      <title>Skoda Fabia 5 PORTE – NEOPATENTATI – EURO 6 BENZINA</title>
+      <link>https://www.autoccasionimilano.it/auto-usate-milano/skoda-fabia-5-porte-neopatentati-euro-6-benzina/</link>
+      <description>Skoda Skoda Fabia 5 PORTE – NEOPATENTATI – EURO 6 BENZINA — Auto usata certificata. Garanzia 12 mesi inclusa. Benzina, Manuale.</description>
+      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/09/www.autoccasionimilano.it - bozza-automatica-37.jpg</image_link>
+      <price>7390 EUR</price>
+      <availability>in stock</availability>
+      <condition>used</condition>
+      <auto:make>Skoda</auto:make>
+      <auto:model>Fabia 5 PORTE – NEOPATENTATI – EURO 6 BENZINA</auto:model>
+      <auto:year>2020</auto:year>
+      <auto:body_style>Berlina</auto:body_style>
+      <auto:fuel_type>Benzina</auto:fuel_type>
+      <auto:transmission>Manuale</auto:transmission>
+      <auto:drivetrain>Trazione Anteriore</auto:drivetrain>
+      <auto:color>Grigio</auto:color>
+      <auto:state_of_vehicle>used</auto:state_of_vehicle>
+      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
+      <auto:dealer_phone>+390248954311</auto:dealer_phone>
+      <auto:mileage>
+        <auto:value>135000</auto:value>
+        <auto:unit>KM</auto:unit>
+      </auto:mileage>
+    </item>
+    <item>
+      <id>42725</id>
+      <title>Nissan Juke UNICO PROPRIETARIO – SERVICE COMPLETO – PREZZO REALE SENZA VINCOLI</title>
+      <link>https://www.autoccasionimilano.it/auto-usate-milano/nissan-juke-unico-proprietario-service-completo/</link>
+      <description>Nissan Nissan Juke UNICO PROPRIETARIO – SERVICE COMPLETO – PREZZO REALE SENZA VINCOLI — Auto usata certificata. Garanzia 12 mesi inclusa. Benzina, Manuale.</description>
+      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/09/www.autoccasionimilano.it - nissan-juke-unico-proprietario-service-completo-2.jpg</image_link>
+      <price>13890 EUR</price>
+      <availability>in stock</availability>
+      <condition>used</condition>
+      <auto:make>Nissan</auto:make>
+      <auto:model>Juke UNICO PROPRIETARIO – SERVICE COMPLETO – PREZZO REALE SENZA VINCOLI</auto:model>
+      <auto:year>2021</auto:year>
+      <auto:body_style>SUV</auto:body_style>
+      <auto:fuel_type>Benzina</auto:fuel_type>
+      <auto:transmission>Manuale</auto:transmission>
+      <auto:drivetrain>Trazione Anteriore</auto:drivetrain>
+      <auto:color>Nero</auto:color>
+      <auto:state_of_vehicle>used</auto:state_of_vehicle>
+      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
+      <auto:dealer_phone>+390248954311</auto:dealer_phone>
+      <auto:mileage>
+        <auto:value>65000</auto:value>
         <auto:unit>KM</auto:unit>
       </auto:mileage>
     </item>
@@ -36,7 +336,7 @@
       <link>https://www.autoccasionimilano.it/auto-usate-milano/bmw-318-manuale-neopatentati/</link>
       <description>Bmw BMW 318 MANUALE – NEOPATENTATI — Auto usata certificata. Garanzia 12 mesi inclusa. Diesel, Manuale.</description>
       <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/08/www.autoccasionimilano.it - bmw-318-manuale-neopatentati-2.jpg</image_link>
-      <price>2990 EUR</price>
+      <price>2690 EUR</price>
       <availability>in stock</availability>
       <condition>used</condition>
       <auto:make>Bmw</auto:make>
@@ -61,7 +361,7 @@
       <link>https://www.autoccasionimilano.it/auto-usate-milano/jeep-compass-euro-6-navigatore/</link>
       <description>Jeep Jeep Compass EURO 6 – NAVIGATORE — Auto usata certificata. Garanzia 12 mesi inclusa. Diesel, Manuale.</description>
       <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/07/www.autoccasionimilano.it - jeep-compass-euro-6-navigatore-2.jpg</image_link>
-      <price>9850 EUR</price>
+      <price>11090 EUR</price>
       <availability>in stock</availability>
       <condition>used</condition>
       <auto:make>Jeep</auto:make>
@@ -81,62 +381,12 @@
       </auto:mileage>
     </item>
     <item>
-      <id>42035</id>
-      <title>Hyundai TUCSON UNICO PROPRIETARIO – SERVICE COMPLETO</title>
-      <link>https://www.autoccasionimilano.it/auto-usate-milano/hyundai-tucson-unico-proprietario-service-completo/</link>
-      <description>Hyundai Hyundai TUCSON UNICO PROPRIETARIO – SERVICE COMPLETO — Auto usata certificata. Garanzia 12 mesi inclusa. Benzina, Manuale.</description>
-      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/07/www.autoccasionimilano.it - hyundai-tucson-unico-proprietario-service-completo-2.jpg</image_link>
-      <price>2999 EUR</price>
-      <availability>in stock</availability>
-      <condition>used</condition>
-      <auto:make>Hyundai</auto:make>
-      <auto:model>TUCSON UNICO PROPRIETARIO – SERVICE COMPLETO</auto:model>
-      <auto:year>2006</auto:year>
-      <auto:body_style>SUV</auto:body_style>
-      <auto:fuel_type>Benzina</auto:fuel_type>
-      <auto:transmission>Manuale</auto:transmission>
-      <auto:drivetrain>Quattro ruote (AWD/4WD)</auto:drivetrain>
-      <auto:color>Nero</auto:color>
-      <auto:state_of_vehicle>used</auto:state_of_vehicle>
-      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
-      <auto:dealer_phone>+390248954311</auto:dealer_phone>
-      <auto:mileage>
-        <auto:value>248000</auto:value>
-        <auto:unit>KM</auto:unit>
-      </auto:mileage>
-    </item>
-    <item>
-      <id>41951</id>
-      <title>Kia Sportage UNICO PROPRIETARIO – SOLO 8000KM</title>
-      <link>https://www.autoccasionimilano.it/auto-usate-milano/kia-sportage-unico-proprietario-solo-8000km/</link>
-      <description>Kia Kia Sportage UNICO PROPRIETARIO – SOLO 8000KM — Auto usata certificata. Garanzia 12 mesi inclusa. Elettrica / Diesel, Automatico.</description>
-      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/07/www.autoccasionimilano.it - kia-sportage-unico-proprietario-solo-8000km-2.jpg</image_link>
-      <price>20990 EUR</price>
-      <availability>in stock</availability>
-      <condition>used</condition>
-      <auto:make>Kia</auto:make>
-      <auto:model>Sportage UNICO PROPRIETARIO – SOLO 8000KM</auto:model>
-      <auto:year>2023</auto:year>
-      <auto:body_style>SUV</auto:body_style>
-      <auto:fuel_type>Elettrica / Diesel</auto:fuel_type>
-      <auto:transmission>Automatico</auto:transmission>
-      <auto:drivetrain>Trazione Anteriore</auto:drivetrain>
-      <auto:color>Grigio</auto:color>
-      <auto:state_of_vehicle>used</auto:state_of_vehicle>
-      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
-      <auto:dealer_phone>+390248954311</auto:dealer_phone>
-      <auto:mileage>
-        <auto:value>225000</auto:value>
-        <auto:unit>KM</auto:unit>
-      </auto:mileage>
-    </item>
-    <item>
       <id>41668</id>
       <title>Lancia Ypsilon FRIZIONE NUOVA – NEOPATENTATI</title>
       <link>https://www.autoccasionimilano.it/auto-usate-milano/lancia-ypsilon-frizione-nuova-neopatentati/</link>
       <description>Lancia Lancia Ypsilon FRIZIONE NUOVA – NEOPATENTATI — Auto usata certificata. Garanzia 12 mesi inclusa. Benzina, Automatico.</description>
       <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/07/www.autoccasionimilano.it - lancia-ypsilon-frizione-nuova-neopatentati-2.jpg</image_link>
-      <price>3290 EUR</price>
+      <price>3590 EUR</price>
       <availability>in stock</availability>
       <condition>used</condition>
       <auto:make>Lancia</auto:make>
@@ -156,62 +406,12 @@
       </auto:mileage>
     </item>
     <item>
-      <id>41423</id>
-      <title>Mazda CX-30 UNICO PROPRIETARIO – SERVICE COMPLETO</title>
-      <link>https://www.autoccasionimilano.it/auto-usate-milano/mazda-cx-30-unico-proprietario-service-completo/</link>
-      <description>Mazda Mazda CX-30 UNICO PROPRIETARIO – SERVICE COMPLETO — Auto usata certificata. Garanzia 12 mesi inclusa. Elettrica / Benzina, Manuale.</description>
-      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/07/www.autoccasionimilano.it - mazda-cx-30-unico-proprietario-service-completo-2.jpg</image_link>
-      <price>17890 EUR</price>
-      <availability>in stock</availability>
-      <condition>used</condition>
-      <auto:make>Mazda</auto:make>
-      <auto:model>CX-30 UNICO PROPRIETARIO – SERVICE COMPLETO</auto:model>
-      <auto:year>2022</auto:year>
-      <auto:body_style>SUV</auto:body_style>
-      <auto:fuel_type>Elettrica / Benzina</auto:fuel_type>
-      <auto:transmission>Manuale</auto:transmission>
-      <auto:drivetrain>Trazione Anteriore</auto:drivetrain>
-      <auto:color>Grigio</auto:color>
-      <auto:state_of_vehicle>used</auto:state_of_vehicle>
-      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
-      <auto:dealer_phone>+390248954311</auto:dealer_phone>
-      <auto:mileage>
-        <auto:value>56000</auto:value>
-        <auto:unit>KM</auto:unit>
-      </auto:mileage>
-    </item>
-    <item>
-      <id>41324</id>
-      <title>Audi A4 AVANT – FRIZIONE NUOVA</title>
-      <link>https://www.autoccasionimilano.it/auto-usate-milano/audi-a4-avant-frizione-nuova/</link>
-      <description>Audi Audi A4 AVANT – FRIZIONE NUOVA — Auto usata certificata. Garanzia 12 mesi inclusa. Diesel, Manuale.</description>
-      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/07/www.autoccasionimilano.it - audi-a4-avant-frizione-nuova-2.jpg</image_link>
-      <price>4290 EUR</price>
-      <availability>in stock</availability>
-      <condition>used</condition>
-      <auto:make>Audi</auto:make>
-      <auto:model>A4 AVANT – FRIZIONE NUOVA</auto:model>
-      <auto:year>2011</auto:year>
-      <auto:body_style>Station Wagon</auto:body_style>
-      <auto:fuel_type>Diesel</auto:fuel_type>
-      <auto:transmission>Manuale</auto:transmission>
-      <auto:drivetrain>Trazione Anteriore</auto:drivetrain>
-      <auto:color>Grigio</auto:color>
-      <auto:state_of_vehicle>used</auto:state_of_vehicle>
-      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
-      <auto:dealer_phone>+390248954311</auto:dealer_phone>
-      <auto:mileage>
-        <auto:value>400000</auto:value>
-        <auto:unit>KM</auto:unit>
-      </auto:mileage>
-    </item>
-    <item>
       <id>41082</id>
       <title>Alfa Romeo Stelvio Q4 – DISTRIBUZIONE ESEGUITA – AUTOMATICA</title>
       <link>https://www.autoccasionimilano.it/auto-usate-milano/alfa-romeo-stelvio-q4-distribuzione-eseguita-automatica/</link>
       <description>Alfa Romeo Alfa Romeo Stelvio Q4 – DISTRIBUZIONE ESEGUITA – AUTOMATICA — Auto usata certificata. Garanzia 12 mesi inclusa. Diesel, Automatico.</description>
       <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/07/www.autoccasionimilano.it - bozza-automatica-2.jpg</image_link>
-      <price>14490 EUR</price>
+      <price>13990 EUR</price>
       <availability>in stock</availability>
       <condition>used</condition>
       <auto:make>Alfa Romeo</auto:make>
@@ -256,62 +456,12 @@
       </auto:mileage>
     </item>
     <item>
-      <id>40735</id>
-      <title>Kia Stonic UNICO PROPRIETARIO- TAGLIANDI CERTIFICATI</title>
-      <link>https://www.autoccasionimilano.it/auto-usate-milano/kia-stonic-unico-proprietario-tagliandi-certificati-2/</link>
-      <description>Kia Kia Stonic UNICO PROPRIETARIO- TAGLIANDI CERTIFICATI — Auto usata certificata. Garanzia 12 mesi inclusa. Elettrica / Benzina, Manuale.</description>
-      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/07/www.autoccasionimilano.it - kia-stonic-unico-proprietario-tagliandi-certificati.jpg</image_link>
-      <price>12990 EUR</price>
-      <availability>in stock</availability>
-      <condition>used</condition>
-      <auto:make>Kia</auto:make>
-      <auto:model>Stonic UNICO PROPRIETARIO- TAGLIANDI CERTIFICATI</auto:model>
-      <auto:year>2023</auto:year>
-      <auto:body_style>SUV</auto:body_style>
-      <auto:fuel_type>Elettrica / Benzina</auto:fuel_type>
-      <auto:transmission>Manuale</auto:transmission>
-      <auto:drivetrain>Trazione Anteriore</auto:drivetrain>
-      <auto:color>Nero</auto:color>
-      <auto:state_of_vehicle>used</auto:state_of_vehicle>
-      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
-      <auto:dealer_phone>+390248954311</auto:dealer_phone>
-      <auto:mileage>
-        <auto:value>57000</auto:value>
-        <auto:unit>KM</auto:unit>
-      </auto:mileage>
-    </item>
-    <item>
-      <id>40573</id>
-      <title>Peugeot 2008 UNICO PROPRIETARIO – SERVICE COMPLETO</title>
-      <link>https://www.autoccasionimilano.it/auto-usate-milano/peugeot-2008-unico-proprietario-service-completo/</link>
-      <description>Peugeot Peugeot 2008 UNICO PROPRIETARIO – SERVICE COMPLETO — Auto usata certificata. Garanzia 12 mesi inclusa. Diesel, Manuale.</description>
-      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/07/www.autoccasionimilano.it - peugeot-2008-unico-proprietario-service-completo-2.jpg</image_link>
-      <price>12280 EUR</price>
-      <availability>in stock</availability>
-      <condition>used</condition>
-      <auto:make>Peugeot</auto:make>
-      <auto:model>2008 UNICO PROPRIETARIO – SERVICE COMPLETO</auto:model>
-      <auto:year>2021</auto:year>
-      <auto:body_style>SUV</auto:body_style>
-      <auto:fuel_type>Diesel</auto:fuel_type>
-      <auto:transmission>Manuale</auto:transmission>
-      <auto:drivetrain>Trazione Anteriore</auto:drivetrain>
-      <auto:color>Grigio</auto:color>
-      <auto:state_of_vehicle>used</auto:state_of_vehicle>
-      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
-      <auto:dealer_phone>+390248954311</auto:dealer_phone>
-      <auto:mileage>
-        <auto:value>72000</auto:value>
-        <auto:unit>KM</auto:unit>
-      </auto:mileage>
-    </item>
-    <item>
       <id>39975</id>
       <title>Mercedes-Benz GLA 180 UNICO PROPRIETARIO – SERVICE COMPLETO</title>
       <link>https://www.autoccasionimilano.it/auto-usate-milano/mercedes-benz-gla-180-unico-proprietario-service-completo/</link>
       <description>Mercedes-Benz Mercedes-Benz GLA 180 UNICO PROPRIETARIO – SERVICE COMPLETO — Auto usata certificata. Garanzia 12 mesi inclusa. Diesel, Automatico.</description>
       <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/06/www.autoccasionimilano.it - mercedes-benz-gla-180-unico-proprietario-service-completo-2.jpg</image_link>
-      <price>24650 EUR</price>
+      <price>22900 EUR</price>
       <availability>in stock</availability>
       <condition>used</condition>
       <auto:make>Mercedes-Benz</auto:make>
@@ -332,15 +482,15 @@
     </item>
     <item>
       <id>39934</id>
-      <title>Peugeot 308 UNICO PROPRIETARIO – AUTOMATICA – NEOPATENTATI</title>
+      <title>Peugeot 308 UNICO PROPRIETARIO – SENZA VINCOLI DI FINANZIAMENTO</title>
       <link>https://www.autoccasionimilano.it/auto-usate-milano/peugeot-308-unico-proprietario-automatica-neopatentati/</link>
-      <description>Peugeot Peugeot 308 UNICO PROPRIETARIO – AUTOMATICA – NEOPATENTATI — Auto usata certificata. Garanzia 12 mesi inclusa. Diesel, Automatico.</description>
+      <description>Peugeot Peugeot 308 UNICO PROPRIETARIO – SENZA VINCOLI DI FINANZIAMENTO — Auto usata certificata. Garanzia 12 mesi inclusa. Diesel, Automatico.</description>
       <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/06/www.autoccasionimilano.it - peugeot-308-unico-proprietario-automatica-neopatentati-2.jpg</image_link>
-      <price>9650 EUR</price>
+      <price>9790 EUR</price>
       <availability>in stock</availability>
       <condition>used</condition>
       <auto:make>Peugeot</auto:make>
-      <auto:model>308 UNICO PROPRIETARIO – AUTOMATICA – NEOPATENTATI</auto:model>
+      <auto:model>308 UNICO PROPRIETARIO – SENZA VINCOLI DI FINANZIAMENTO</auto:model>
       <auto:year>2019</auto:year>
       <auto:body_style>Berlina</auto:body_style>
       <auto:fuel_type>Diesel</auto:fuel_type>
@@ -361,7 +511,7 @@
       <link>https://www.autoccasionimilano.it/auto-usate-milano/jeep-renegade-unico-proprietario-service-casa-madre/</link>
       <description>Jeep Jeep Renegade UNICO PROPRIETARIO – SERVICE CASA MADRE — Auto usata certificata. Garanzia 12 mesi inclusa. Benzina, Manuale.</description>
       <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/06/www.autoccasionimilano.it - jeep-renegade-unico-proprietario-service-casa-madre-2.jpg</image_link>
-      <price>13990 EUR</price>
+      <price>12800 EUR</price>
       <availability>in stock</availability>
       <condition>used</condition>
       <auto:make>Jeep</auto:make>
@@ -377,31 +527,6 @@
       <auto:dealer_phone>+390248954311</auto:dealer_phone>
       <auto:mileage>
         <auto:value>51000</auto:value>
-        <auto:unit>KM</auto:unit>
-      </auto:mileage>
-    </item>
-    <item>
-      <id>39702</id>
-      <title>MINI Cooper D Clubman NAVIGATORE – AUTOMATICA</title>
-      <link>https://www.autoccasionimilano.it/auto-usate-milano/mini-cooper-d-clubman-navigatore-automatica/</link>
-      <description>Mini MINI Cooper D Clubman NAVIGATORE – AUTOMATICA — Auto usata certificata. Garanzia 12 mesi inclusa. Diesel, Automatico.</description>
-      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/06/www.autoccasionimilano.it - mini-cooper-d-clubman-navigatore-automatica-2.jpg</image_link>
-      <price>10990 EUR</price>
-      <availability>in stock</availability>
-      <condition>used</condition>
-      <auto:make>Mini</auto:make>
-      <auto:model>MINI Cooper D Clubman NAVIGATORE – AUTOMATICA</auto:model>
-      <auto:year>2017</auto:year>
-      <auto:body_style>Berlina</auto:body_style>
-      <auto:fuel_type>Diesel</auto:fuel_type>
-      <auto:transmission>Automatico</auto:transmission>
-      <auto:drivetrain>Trazione Posteriore</auto:drivetrain>
-      <auto:color>Blue</auto:color>
-      <auto:state_of_vehicle>used</auto:state_of_vehicle>
-      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
-      <auto:dealer_phone>+390248954311</auto:dealer_phone>
-      <auto:mileage>
-        <auto:value>94000</auto:value>
         <auto:unit>KM</auto:unit>
       </auto:mileage>
     </item>
@@ -431,91 +556,16 @@
       </auto:mileage>
     </item>
     <item>
-      <id>39077</id>
-      <title>Audi Q5 QUATTRO – NAVIGATORE – EURO 5</title>
-      <link>https://www.autoccasionimilano.it/auto-usate-milano/audi-q5-quattro-navigatore-euro-5/</link>
-      <description>Audi Audi Q5 QUATTRO – NAVIGATORE – EURO 5 — Auto usata certificata. Garanzia 12 mesi inclusa. Benzina, Manuale.</description>
-      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/05/www.autoccasionimilano.it - audi-q5-quattro-navigatore-euro-5-1.jpg</image_link>
-      <price>8590 EUR</price>
-      <availability>in stock</availability>
-      <condition>used</condition>
-      <auto:make>Audi</auto:make>
-      <auto:model>Q5 QUATTRO – NAVIGATORE – EURO 5</auto:model>
-      <auto:year>2009</auto:year>
-      <auto:body_style>SUV</auto:body_style>
-      <auto:fuel_type>Benzina</auto:fuel_type>
-      <auto:transmission>Manuale</auto:transmission>
-      <auto:drivetrain>Quattro ruote (AWD/4WD)</auto:drivetrain>
-      <auto:color>Nero</auto:color>
-      <auto:state_of_vehicle>used</auto:state_of_vehicle>
-      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
-      <auto:dealer_phone>+390248954311</auto:dealer_phone>
-      <auto:mileage>
-        <auto:value>194000</auto:value>
-        <auto:unit>KM</auto:unit>
-      </auto:mileage>
-    </item>
-    <item>
-      <id>38600</id>
-      <title>MINI One D Clubman UNICO PROPRIETARIO – SERVICE COMPLETO</title>
-      <link>https://www.autoccasionimilano.it/auto-usate-milano/mini-one-d-clubman-unico-proprietario-service-completo/</link>
-      <description>Mini MINI One D Clubman UNICO PROPRIETARIO – SERVICE COMPLETO — Auto usata certificata. Garanzia 12 mesi inclusa. Diesel, Automatico.</description>
-      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/05/www.autoccasionimilano.it - mini-one-d-clubman-unico-proprietario-service-completo-1.jpg</image_link>
-      <price>19990 EUR</price>
-      <availability>in stock</availability>
-      <condition>used</condition>
-      <auto:make>Mini</auto:make>
-      <auto:model>MINI One D Clubman UNICO PROPRIETARIO – SERVICE COMPLETO</auto:model>
-      <auto:year>2022</auto:year>
-      <auto:body_style>Berlina</auto:body_style>
-      <auto:fuel_type>Diesel</auto:fuel_type>
-      <auto:transmission>Automatico</auto:transmission>
-      <auto:drivetrain>Trazione Anteriore</auto:drivetrain>
-      <auto:color>Blue</auto:color>
-      <auto:state_of_vehicle>used</auto:state_of_vehicle>
-      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
-      <auto:dealer_phone>+390248954311</auto:dealer_phone>
-      <auto:mileage>
-        <auto:value>52000</auto:value>
-        <auto:unit>KM</auto:unit>
-      </auto:mileage>
-    </item>
-    <item>
-      <id>38293</id>
-      <title>Hyundai KONA UNICO PROPRIETARIO – SERVICE COMPLETO</title>
-      <link>https://www.autoccasionimilano.it/auto-usate-milano/hyundai-kona-unico-proprietario-service-completo-2/</link>
-      <description>Hyundai Hyundai KONA UNICO PROPRIETARIO – SERVICE COMPLETO — Auto usata certificata. Garanzia 12 mesi inclusa. Diesel, Manuale.</description>
-      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/05/www.autoccasionimilano.it - hyundai-kona-unico-proprietario-service-completo-1.jpg</image_link>
-      <price>9990 EUR</price>
-      <availability>in stock</availability>
-      <condition>used</condition>
-      <auto:make>Hyundai</auto:make>
-      <auto:model>KONA UNICO PROPRIETARIO – SERVICE COMPLETO</auto:model>
-      <auto:year>2018</auto:year>
-      <auto:body_style>Monovolume</auto:body_style>
-      <auto:fuel_type>Diesel</auto:fuel_type>
-      <auto:transmission>Manuale</auto:transmission>
-      <auto:drivetrain>Trazione Anteriore</auto:drivetrain>
-      <auto:color>Bianco</auto:color>
-      <auto:state_of_vehicle>used</auto:state_of_vehicle>
-      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
-      <auto:dealer_phone>+390248954311</auto:dealer_phone>
-      <auto:mileage>
-        <auto:value>107000</auto:value>
-        <auto:unit>KM</auto:unit>
-      </auto:mileage>
-    </item>
-    <item>
       <id>37398</id>
-      <title>Citroen C1 UNICO PROPRIETARIO – NEOPATENTATI</title>
+      <title>Citroen C1 UNICO PROPRIETARIO – NEOPATENTATI – PREZZO REALE SENZA VINCOLI</title>
       <link>https://www.autoccasionimilano.it/auto-usate-milano/citroen-c1-unico-proprietario-neopatentati/</link>
-      <description>Citroen Citroen C1 UNICO PROPRIETARIO – NEOPATENTATI — Auto usata certificata. Garanzia 12 mesi inclusa. Benzina, Manuale.</description>
+      <description>Citroen Citroen C1 UNICO PROPRIETARIO – NEOPATENTATI – PREZZO REALE SENZA VINCOLI — Auto usata certificata. Garanzia 12 mesi inclusa. Benzina, Manuale.</description>
       <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/04/www.autoccasionimilano.it - citroen-c1-unico-proprietario-neopatentati-1.jpg</image_link>
-      <price>8390 EUR</price>
+      <price>8990 EUR</price>
       <availability>in stock</availability>
       <condition>used</condition>
       <auto:make>Citroen</auto:make>
-      <auto:model>C1 UNICO PROPRIETARIO – NEOPATENTATI</auto:model>
+      <auto:model>C1 UNICO PROPRIETARIO – NEOPATENTATI – PREZZO REALE SENZA VINCOLI</auto:model>
       <auto:year>2021</auto:year>
       <auto:body_style>City Car</auto:body_style>
       <auto:fuel_type>Benzina</auto:fuel_type>
