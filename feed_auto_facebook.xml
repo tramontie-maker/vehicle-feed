@@ -4,7 +4,32 @@
     <title>Auto Occasioni Milano</title>
     <link>https://www.autoccasionimilano.it</link>
     <description>Feed auto usate — Auto Occasioni Milano</description>
-    <lastBuildDate>Tue, 03 Nov 2026 02:57:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 00:00:16 +0000</lastBuildDate>
+    <item>
+      <id>44299</id>
+      <title>smart forTwo NEOPATENTATI – BENZINA – AREA B MILANO</title>
+      <link>https://www.autoccasionimilano.it/auto-usate-milano/smart-fortwo-neopatentati-benzina-area-b-milano/</link>
+      <description>Smart smart forTwo NEOPATENTATI – BENZINA – AREA B MILANO — Auto usata certificata. Garanzia 12 mesi inclusa. Benzina, Automatico.</description>
+      <image_link />
+      <price>3990 EUR</price>
+      <availability>in stock</availability>
+      <condition>used</condition>
+      <auto:make>Smart</auto:make>
+      <auto:model>smart forTwo NEOPATENTATI – BENZINA – AREA B MILANO</auto:model>
+      <auto:year>2009</auto:year>
+      <auto:body_style>City Car</auto:body_style>
+      <auto:fuel_type>Benzina</auto:fuel_type>
+      <auto:transmission>Automatico</auto:transmission>
+      <auto:drivetrain>Trazione Anteriore</auto:drivetrain>
+      <auto:color>Bianco</auto:color>
+      <auto:state_of_vehicle>used</auto:state_of_vehicle>
+      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
+      <auto:dealer_phone>+390248954311</auto:dealer_phone>
+      <auto:mileage>
+        <auto:value>138000</auto:value>
+        <auto:unit>KM</auto:unit>
+      </auto:mileage>
+    </item>
     <item>
       <id>44219</id>
       <title>Ford Kuga ST LINE – NAVIGATORE – AREA B MILANO</title>
@@ -127,31 +152,6 @@
       <auto:dealer_phone>+390248954311</auto:dealer_phone>
       <auto:mileage>
         <auto:value>114000</auto:value>
-        <auto:unit>KM</auto:unit>
-      </auto:mileage>
-    </item>
-    <item>
-      <id>43660</id>
-      <title>SEAT Leon FR – SERVICE COMPLETO – UNICO PROPRIETARIO</title>
-      <link>https://www.autoccasionimilano.it/auto-usate-milano/seat-leon-fr-service-completo-unico-proprietario/</link>
-      <description>Seat SEAT Leon FR – SERVICE COMPLETO – UNICO PROPRIETARIO — Auto usata certificata. Garanzia 12 mesi inclusa. Elettrica / Benzina, Automatico.</description>
-      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/10/www.autoccasionimilano.it - bozza-automatica-164.jpg</image_link>
-      <price>17290 EUR</price>
-      <availability>in stock</availability>
-      <condition>used</condition>
-      <auto:make>Seat</auto:make>
-      <auto:model>SEAT Leon FR – SERVICE COMPLETO – UNICO PROPRIETARIO</auto:model>
-      <auto:year>2021</auto:year>
-      <auto:body_style>Berlina</auto:body_style>
-      <auto:fuel_type>Elettrica / Benzina</auto:fuel_type>
-      <auto:transmission>Automatico</auto:transmission>
-      <auto:drivetrain>Trazione Anteriore</auto:drivetrain>
-      <auto:color>Bianco</auto:color>
-      <auto:state_of_vehicle>used</auto:state_of_vehicle>
-      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
-      <auto:dealer_phone>+390248954311</auto:dealer_phone>
-      <auto:mileage>
-        <auto:value>45000</auto:value>
         <auto:unit>KM</auto:unit>
       </auto:mileage>
     </item>
@@ -402,31 +402,6 @@
       <auto:dealer_phone>+390248954311</auto:dealer_phone>
       <auto:mileage>
         <auto:value>167000</auto:value>
-        <auto:unit>KM</auto:unit>
-      </auto:mileage>
-    </item>
-    <item>
-      <id>41668</id>
-      <title>Lancia Ypsilon FRIZIONE NUOVA – NEOPATENTATI</title>
-      <link>https://www.autoccasionimilano.it/auto-usate-milano/lancia-ypsilon-frizione-nuova-neopatentati/</link>
-      <description>Lancia Lancia Ypsilon FRIZIONE NUOVA – NEOPATENTATI — Auto usata certificata. Garanzia 12 mesi inclusa. Benzina, Automatico.</description>
-      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/07/www.autoccasionimilano.it - lancia-ypsilon-frizione-nuova-neopatentati-2.jpg</image_link>
-      <price>3590 EUR</price>
-      <availability>in stock</availability>
-      <condition>used</condition>
-      <auto:make>Lancia</auto:make>
-      <auto:model>Ypsilon FRIZIONE NUOVA – NEOPATENTATI</auto:model>
-      <auto:year>2007</auto:year>
-      <auto:body_style>City Car</auto:body_style>
-      <auto:fuel_type>Benzina</auto:fuel_type>
-      <auto:transmission>Automatico</auto:transmission>
-      <auto:drivetrain>Trazione Anteriore</auto:drivetrain>
-      <auto:color>Grigio</auto:color>
-      <auto:state_of_vehicle>used</auto:state_of_vehicle>
-      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
-      <auto:dealer_phone>+390248954311</auto:dealer_phone>
-      <auto:mileage>
-        <auto:value>132000</auto:value>
         <auto:unit>KM</auto:unit>
       </auto:mileage>
     </item>
