@@ -4,7 +4,36 @@
     <title>Auto Occasioni Milano</title>
     <link>https://www.autoccasionimilano.it</link>
     <description>Feed auto usate — Auto Occasioni Milano</description>
-    <lastBuildDate>Tue, 10 Nov 2026 03:38:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 00:03:29 +0000</lastBuildDate>
+    <item>
+      <title>BMW 420 SERVICE BMW – Msport – Xdrive</title>
+      <link>https://www.autoccasionimilano.it/auto-usate-milano/bmw-420-service-bmw-msport-xdrive/</link>
+      <description>Bmw BMW 420 SERVICE BMW – Msport – Xdrive — Auto usata certificata. Garanzia 12 mesi inclusa. Diesel, Automatico.</description>
+      <g:id>44441</g:id>
+      <g:store_code>12756304075837814277</g:store_code>
+      <g:link_template>https://www.autoccasionimilano.it/auto-usate-milano/bmw-420-service-bmw-msport-xdrive/?store={store_code}&amp;utm_source=google&amp;utm_medium=vehicle_ads</g:link_template>
+      <g:condition>used</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:vehicle_fulfillment>
+        <g:option>in_store</g:option>
+        <g:store_code>12756304075837814277</g:store_code>
+      </g:vehicle_fulfillment>
+      <g:google_product_category>916</g:google_product_category>
+      <g:image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/11/www.autoccasionimilano.it - bmw-420-service-bmw-msport-xdrive-2.jpg</g:image_link>
+      <g:price>17790.00 EUR</g:price>
+      <g:sale_price>17790.00 EUR</g:sale_price>
+      <g:brand>Bmw</g:brand>
+      <g:make>Bmw</g:make>
+      <g:model>BMW 420 SERVICE BMW – Msport – Xdrive</g:model>
+      <g:year>2020</g:year>
+      <g:date_first_registered>2020-02</g:date_first_registered>
+      <g:mileage>209000 km</g:mileage>
+      <g:body_style>coupe</g:body_style>
+      <g:fuel_type>diesel</g:fuel_type>
+      <g:transmission>automatic</g:transmission>
+      <g:color>Grigio</g:color>
+      <g:item_group_id>bmw</g:item_group_id>
+    </item>
     <item>
       <title>Fiat Qubo UNICO PROPRIETARIO – SERVICE COMPLETO</title>
       <link>https://www.autoccasionimilano.it/auto-usate-milano/fiat-qubo-unico-proprietario-service-completo/</link>
@@ -54,7 +83,7 @@
       <g:brand>Toyota</g:brand>
       <g:make>Toyota</g:make>
       <g:model>Yaris NEOPATENTATI – BENZINA – AREA B MILANO</g:model>
-      <g:mileage>55000 km</g:mileage>
+      <g:mileage>209000 km</g:mileage>
       <g:body_style>city_car</g:body_style>
       <g:fuel_type>gasoline</g:fuel_type>
       <g:transmission>manual</g:transmission>
@@ -104,6 +133,7 @@
         <g:store_code>12756304075837814277</g:store_code>
       </g:vehicle_fulfillment>
       <g:google_product_category>916</g:google_product_category>
+      <g:image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/11/www.autoccasionimilano.it - bozza-automatica-41.jpg</g:image_link>
       <g:price>3990.00 EUR</g:price>
       <g:sale_price>3990.00 EUR</g:sale_price>
       <g:brand>Smart</g:brand>

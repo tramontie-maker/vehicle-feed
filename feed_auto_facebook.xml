@@ -4,7 +4,32 @@
     <title>Auto Occasioni Milano</title>
     <link>https://www.autoccasionimilano.it</link>
     <description>Feed auto usate — Auto Occasioni Milano</description>
-    <lastBuildDate>Tue, 10 Nov 2026 03:38:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 00:03:29 +0000</lastBuildDate>
+    <item>
+      <id>44441</id>
+      <title>BMW 420 SERVICE BMW – Msport – Xdrive</title>
+      <link>https://www.autoccasionimilano.it/auto-usate-milano/bmw-420-service-bmw-msport-xdrive/</link>
+      <description>Bmw BMW 420 SERVICE BMW – Msport – Xdrive — Auto usata certificata. Garanzia 12 mesi inclusa. Diesel, Automatico.</description>
+      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/11/www.autoccasionimilano.it - bmw-420-service-bmw-msport-xdrive-2.jpg</image_link>
+      <price>17790 EUR</price>
+      <availability>in stock</availability>
+      <condition>used</condition>
+      <auto:make>Bmw</auto:make>
+      <auto:model>BMW 420 SERVICE BMW – Msport – Xdrive</auto:model>
+      <auto:year>2020</auto:year>
+      <auto:body_style>Coupe</auto:body_style>
+      <auto:fuel_type>Diesel</auto:fuel_type>
+      <auto:transmission>Automatico</auto:transmission>
+      <auto:drivetrain>Quattro ruote (AWD/4WD)</auto:drivetrain>
+      <auto:color>Grigio</auto:color>
+      <auto:state_of_vehicle>used</auto:state_of_vehicle>
+      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
+      <auto:dealer_phone>+390248954311</auto:dealer_phone>
+      <auto:mileage>
+        <auto:value>209000</auto:value>
+        <auto:unit>KM</auto:unit>
+      </auto:mileage>
+    </item>
     <item>
       <id>44407</id>
       <title>Fiat Qubo UNICO PROPRIETARIO – SERVICE COMPLETO</title>
@@ -51,7 +76,7 @@
       <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
       <auto:dealer_phone>+390248954311</auto:dealer_phone>
       <auto:mileage>
-        <auto:value>55000</auto:value>
+        <auto:value>209000</auto:value>
         <auto:unit>KM</auto:unit>
       </auto:mileage>
     </item>
@@ -85,7 +110,7 @@
       <title>smart forTwo NEOPATENTATI – BENZINA – AREA B MILANO</title>
       <link>https://www.autoccasionimilano.it/auto-usate-milano/smart-fortwo-neopatentati-benzina-area-b-milano/</link>
       <description>Smart smart forTwo NEOPATENTATI – BENZINA – AREA B MILANO — Auto usata certificata. Garanzia 12 mesi inclusa. Benzina, Automatico.</description>
-      <image_link />
+      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/11/www.autoccasionimilano.it - bozza-automatica-41.jpg</image_link>
       <price>3990 EUR</price>
       <availability>in stock</availability>
       <condition>used</condition>
