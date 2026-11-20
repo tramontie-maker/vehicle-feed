@@ -4,7 +4,36 @@
     <title>Auto Occasioni Milano</title>
     <link>https://www.autoccasionimilano.it</link>
     <description>Feed auto usate — Auto Occasioni Milano</description>
-    <lastBuildDate>Thu, 19 Nov 2026 02:38:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 01:17:30 +0000</lastBuildDate>
+    <item>
+      <title>Peugeot 3008 BENZINA – NEOPATENTATI – AREA B MILANO</title>
+      <link>https://www.autoccasionimilano.it/auto-usate-milano/peugeot-3008-benzina-neopatentati-area-b-milano/</link>
+      <description>Peugeot Peugeot 3008 BENZINA – NEOPATENTATI – AREA B MILANO — Auto usata certificata. Garanzia 12 mesi inclusa. Benzina, Manuale.</description>
+      <g:id>44823</g:id>
+      <g:store_code>12756304075837814277</g:store_code>
+      <g:link_template>https://www.autoccasionimilano.it/auto-usate-milano/peugeot-3008-benzina-neopatentati-area-b-milano/?store={store_code}&amp;utm_source=google&amp;utm_medium=vehicle_ads</g:link_template>
+      <g:condition>used</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:vehicle_fulfillment>
+        <g:option>in_store</g:option>
+        <g:store_code>12756304075837814277</g:store_code>
+      </g:vehicle_fulfillment>
+      <g:google_product_category>916</g:google_product_category>
+      <g:image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/11/www.autoccasionimilano.it - bozza-automatica-348.jpg</g:image_link>
+      <g:price>3390.00 EUR</g:price>
+      <g:sale_price>3390.00 EUR</g:sale_price>
+      <g:brand>Peugeot</g:brand>
+      <g:make>Peugeot</g:make>
+      <g:model>3008 BENZINA – NEOPATENTATI – AREA B MILANO</g:model>
+      <g:year>2010</g:year>
+      <g:date_first_registered>2010-07</g:date_first_registered>
+      <g:mileage>214000 km</g:mileage>
+      <g:body_style>minivan</g:body_style>
+      <g:fuel_type>gasoline</g:fuel_type>
+      <g:transmission>manual</g:transmission>
+      <g:color>Nero</g:color>
+      <g:item_group_id>peugeot</g:item_group_id>
+    </item>
     <item>
       <title>Daihatsu Terios 4X4 – GPL</title>
       <link>https://www.autoccasionimilano.it/auto-usate-milano/daihatsu-terios-4x4-gpl/</link>
@@ -62,35 +91,6 @@
       <g:transmission>manual</g:transmission>
       <g:color>Nero</g:color>
       <g:item_group_id>mazda</g:item_group_id>
-    </item>
-    <item>
-      <title>Ford Ka/Ka+ UNICO PROPRIETARIO – NEOPATENTATI</title>
-      <link>https://www.autoccasionimilano.it/auto-usate-milano/ford-ka-ka-unico-proprietario-neopatentati/</link>
-      <description>Ford Ford Ka/Ka+ UNICO PROPRIETARIO – NEOPATENTATI — Auto usata certificata. Garanzia 12 mesi inclusa. Benzina, Manuale.</description>
-      <g:id>44675</g:id>
-      <g:store_code>12756304075837814277</g:store_code>
-      <g:link_template>https://www.autoccasionimilano.it/auto-usate-milano/ford-ka-ka-unico-proprietario-neopatentati/?store={store_code}&amp;utm_source=google&amp;utm_medium=vehicle_ads</g:link_template>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:vehicle_fulfillment>
-        <g:option>in_store</g:option>
-        <g:store_code>12756304075837814277</g:store_code>
-      </g:vehicle_fulfillment>
-      <g:google_product_category>916</g:google_product_category>
-      <g:image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/11/www.autoccasionimilano.it - bozza-automatica-264.jpg</g:image_link>
-      <g:price>6790.00 EUR</g:price>
-      <g:sale_price>6790.00 EUR</g:sale_price>
-      <g:brand>Ford</g:brand>
-      <g:make>Ford</g:make>
-      <g:model>Ka/Ka+ UNICO PROPRIETARIO – NEOPATENTATI</g:model>
-      <g:year>2018</g:year>
-      <g:date_first_registered>2018-12</g:date_first_registered>
-      <g:mileage>96000 km</g:mileage>
-      <g:body_style>sedan</g:body_style>
-      <g:fuel_type>gasoline</g:fuel_type>
-      <g:transmission>manual</g:transmission>
-      <g:color>Blue</g:color>
-      <g:item_group_id>ford</g:item_group_id>
     </item>
     <item>
       <title>Fiat Punto Evo NEOPATENTATI – BENZINA – AREA B MILANO</title>
@@ -257,7 +257,7 @@
       <g:brand>Toyota</g:brand>
       <g:make>Toyota</g:make>
       <g:model>Yaris NEOPATENTATI – BENZINA – AREA B MILANO</g:model>
-      <g:mileage>128000 km</g:mileage>
+      <g:mileage>214000 km</g:mileage>
       <g:body_style>city_car</g:body_style>
       <g:fuel_type>gasoline</g:fuel_type>
       <g:transmission>manual</g:transmission>

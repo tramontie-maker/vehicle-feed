@@ -4,7 +4,32 @@
     <title>Auto Occasioni Milano</title>
     <link>https://www.autoccasionimilano.it</link>
     <description>Feed auto usate — Auto Occasioni Milano</description>
-    <lastBuildDate>Thu, 19 Nov 2026 02:38:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 01:17:30 +0000</lastBuildDate>
+    <item>
+      <id>44823</id>
+      <title>Peugeot 3008 BENZINA – NEOPATENTATI – AREA B MILANO</title>
+      <link>https://www.autoccasionimilano.it/auto-usate-milano/peugeot-3008-benzina-neopatentati-area-b-milano/</link>
+      <description>Peugeot Peugeot 3008 BENZINA – NEOPATENTATI – AREA B MILANO — Auto usata certificata. Garanzia 12 mesi inclusa. Benzina, Manuale.</description>
+      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/11/www.autoccasionimilano.it - bozza-automatica-348.jpg</image_link>
+      <price>3390 EUR</price>
+      <availability>in stock</availability>
+      <condition>used</condition>
+      <auto:make>Peugeot</auto:make>
+      <auto:model>3008 BENZINA – NEOPATENTATI – AREA B MILANO</auto:model>
+      <auto:year>2010</auto:year>
+      <auto:body_style>Monovolume</auto:body_style>
+      <auto:fuel_type>Benzina</auto:fuel_type>
+      <auto:transmission>Manuale</auto:transmission>
+      <auto:drivetrain>Trazione Anteriore</auto:drivetrain>
+      <auto:color>Nero</auto:color>
+      <auto:state_of_vehicle>used</auto:state_of_vehicle>
+      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
+      <auto:dealer_phone>+390248954311</auto:dealer_phone>
+      <auto:mileage>
+        <auto:value>214000</auto:value>
+        <auto:unit>KM</auto:unit>
+      </auto:mileage>
+    </item>
     <item>
       <id>44781</id>
       <title>Daihatsu Terios 4X4 – GPL</title>
@@ -52,31 +77,6 @@
       <auto:dealer_phone>+390248954311</auto:dealer_phone>
       <auto:mileage>
         <auto:value>105000</auto:value>
-        <auto:unit>KM</auto:unit>
-      </auto:mileage>
-    </item>
-    <item>
-      <id>44675</id>
-      <title>Ford Ka/Ka+ UNICO PROPRIETARIO – NEOPATENTATI</title>
-      <link>https://www.autoccasionimilano.it/auto-usate-milano/ford-ka-ka-unico-proprietario-neopatentati/</link>
-      <description>Ford Ford Ka/Ka+ UNICO PROPRIETARIO – NEOPATENTATI — Auto usata certificata. Garanzia 12 mesi inclusa. Benzina, Manuale.</description>
-      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/11/www.autoccasionimilano.it - bozza-automatica-264.jpg</image_link>
-      <price>6790 EUR</price>
-      <availability>in stock</availability>
-      <condition>used</condition>
-      <auto:make>Ford</auto:make>
-      <auto:model>Ka/Ka+ UNICO PROPRIETARIO – NEOPATENTATI</auto:model>
-      <auto:year>2018</auto:year>
-      <auto:body_style>Berlina</auto:body_style>
-      <auto:fuel_type>Benzina</auto:fuel_type>
-      <auto:transmission>Manuale</auto:transmission>
-      <auto:drivetrain>Trazione Anteriore</auto:drivetrain>
-      <auto:color>Blue</auto:color>
-      <auto:state_of_vehicle>used</auto:state_of_vehicle>
-      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
-      <auto:dealer_phone>+390248954311</auto:dealer_phone>
-      <auto:mileage>
-        <auto:value>96000</auto:value>
         <auto:unit>KM</auto:unit>
       </auto:mileage>
     </item>
@@ -226,7 +226,7 @@
       <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
       <auto:dealer_phone>+390248954311</auto:dealer_phone>
       <auto:mileage>
-        <auto:value>128000</auto:value>
+        <auto:value>214000</auto:value>
         <auto:unit>KM</auto:unit>
       </auto:mileage>
     </item>
