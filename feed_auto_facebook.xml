@@ -4,7 +4,7 @@
     <title>Auto Occasioni Milano</title>
     <link>https://www.autoccasionimilano.it</link>
     <description>Feed auto usate — Auto Occasioni Milano</description>
-    <lastBuildDate>Sat, 21 Nov 2026 02:24:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 23:49:00 +0000</lastBuildDate>
     <item>
       <id>44823</id>
       <title>Peugeot 3008 BENZINA – NEOPATENTATI – AREA B MILANO</title>
@@ -77,31 +77,6 @@
       <auto:dealer_phone>+390248954311</auto:dealer_phone>
       <auto:mileage>
         <auto:value>105000</auto:value>
-        <auto:unit>KM</auto:unit>
-      </auto:mileage>
-    </item>
-    <item>
-      <id>44605</id>
-      <title>Fiat Punto Evo NEOPATENTATI – BENZINA – AREA B MILANO</title>
-      <link>https://www.autoccasionimilano.it/auto-usate-milano/fiat-punto-evo-neopatentati-benzina-area-b-milano/</link>
-      <description>Fiat Fiat Punto Evo NEOPATENTATI – BENZINA – AREA B MILANO — Auto usata certificata. Garanzia 12 mesi inclusa. Benzina, Manuale.</description>
-      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/11/www.autoccasionimilano.it - bozza-automatica-196.jpg</image_link>
-      <price>2490 EUR</price>
-      <availability>in stock</availability>
-      <condition>used</condition>
-      <auto:make>Fiat</auto:make>
-      <auto:model>Punto Evo NEOPATENTATI – BENZINA – AREA B MILANO</auto:model>
-      <auto:year>2011</auto:year>
-      <auto:body_style>Berlina</auto:body_style>
-      <auto:fuel_type>Benzina</auto:fuel_type>
-      <auto:transmission>Manuale</auto:transmission>
-      <auto:drivetrain>Trazione Anteriore</auto:drivetrain>
-      <auto:color>Grigio</auto:color>
-      <auto:state_of_vehicle>used</auto:state_of_vehicle>
-      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
-      <auto:dealer_phone>+390248954311</auto:dealer_phone>
-      <auto:mileage>
-        <auto:value>186000</auto:value>
         <auto:unit>KM</auto:unit>
       </auto:mileage>
     </item>
