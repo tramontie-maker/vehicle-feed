@@ -4,7 +4,32 @@
     <title>Auto Occasioni Milano</title>
     <link>https://www.autoccasionimilano.it</link>
     <description>Feed auto usate — Auto Occasioni Milano</description>
-    <lastBuildDate>Tue, 24 Nov 2026 05:22:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 03:04:03 +0000</lastBuildDate>
+    <item>
+      <id>44887</id>
+      <title>Kia Sportage UNICO PROPRIETARIO – HYBRID</title>
+      <link>https://www.autoccasionimilano.it/auto-usate-milano/kia-sportage-unico-proprietario-hybrid/</link>
+      <description>Kia Kia Sportage UNICO PROPRIETARIO – HYBRID — Auto usata certificata. Garanzia 12 mesi inclusa. Elettrica / Benzina, Manuale.</description>
+      <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/11/www.autoccasionimilano.it - bozza-automatica-394.jpg</image_link>
+      <price>23990 EUR</price>
+      <availability>in stock</availability>
+      <condition>used</condition>
+      <auto:make>Kia</auto:make>
+      <auto:model>Sportage UNICO PROPRIETARIO – HYBRID</auto:model>
+      <auto:year>2024</auto:year>
+      <auto:body_style>SUV</auto:body_style>
+      <auto:fuel_type>Elettrica / Benzina</auto:fuel_type>
+      <auto:transmission>Manuale</auto:transmission>
+      <auto:drivetrain>Trazione Anteriore</auto:drivetrain>
+      <auto:color>Nero</auto:color>
+      <auto:state_of_vehicle>used</auto:state_of_vehicle>
+      <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
+      <auto:dealer_phone>+390248954311</auto:dealer_phone>
+      <auto:mileage>
+        <auto:value>15000</auto:value>
+        <auto:unit>KM</auto:unit>
+      </auto:mileage>
+    </item>
     <item>
       <id>44823</id>
       <title>Peugeot 3008 BENZINA – NEOPATENTATI – AREA B MILANO</title>
@@ -201,7 +226,7 @@
       <auto:dealer_name>Auto Occasioni Milano</auto:dealer_name>
       <auto:dealer_phone>+390248954311</auto:dealer_phone>
       <auto:mileage>
-        <auto:value>214000</auto:value>
+        <auto:value>15000</auto:value>
         <auto:unit>KM</auto:unit>
       </auto:mileage>
     </item>
@@ -411,7 +436,7 @@
       <link>https://www.autoccasionimilano.it/auto-usate-milano/audi-q5-neopatentati-fatture-audi/</link>
       <description>Audi Audi Q5 NEOPATENTATI – FATTURE AUDI — Auto usata certificata. Garanzia 12 mesi inclusa. Diesel, Manuale.</description>
       <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/09/www.autoccasionimilano.it - bozza-automatica-275.jpg</image_link>
-      <price>10490 EUR</price>
+      <price>9990 EUR</price>
       <availability>in stock</availability>
       <condition>used</condition>
       <auto:make>Audi</auto:make>
@@ -486,7 +511,7 @@
       <link>https://www.autoccasionimilano.it/auto-usate-milano/nissan-juke-unico-proprietario-service-completo/</link>
       <description>Nissan Nissan Juke UNICO PROPRIETARIO – SERVICE COMPLETO – PREZZO REALE SENZA VINCOLI — Auto usata certificata. Garanzia 12 mesi inclusa. Benzina, Manuale.</description>
       <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/09/www.autoccasionimilano.it - nissan-juke-unico-proprietario-service-completo-2.jpg</image_link>
-      <price>13890 EUR</price>
+      <price>13490 EUR</price>
       <availability>in stock</availability>
       <condition>used</condition>
       <auto:make>Nissan</auto:make>
@@ -511,7 +536,7 @@
       <link>https://www.autoccasionimilano.it/auto-usate-milano/jeep-compass-euro-6-navigatore/</link>
       <description>Jeep Jeep Compass EURO 6 – NAVIGATORE — Auto usata certificata. Garanzia 12 mesi inclusa. Diesel, Manuale.</description>
       <image_link>https://www.autoccasionimilano.it/wp-content/uploads/2026/07/www.autoccasionimilano.it - jeep-compass-euro-6-navigatore-2.jpg</image_link>
-      <price>11090 EUR</price>
+      <price>10790 EUR</price>
       <availability>in stock</availability>
       <condition>used</condition>
       <auto:make>Jeep</auto:make>
